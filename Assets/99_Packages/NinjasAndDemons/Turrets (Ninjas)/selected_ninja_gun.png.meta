@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: 2466301e2a184b0418cc0202e2cfb42a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6787563890967507996
+    second: selected_ninja_gun_0
+  - first:
+      213: 1488128459412630090
+    second: selected_ninja_gun_1
+  - first:
+      213: 6589807682318227965
+    second: selected_ninja_gun_2
+  - first:
+      213: -6442035729728434138
+    second: selected_ninja_gun_3
+  - first:
+      213: 7365737480005262518
+    second: selected_ninja_gun_4
+  - first:
+      213: -3247811393962555127
+    second: selected_ninja_gun_5
+  - first:
+      213: -2524320365738812387
+    second: selected_ninja_gun_6
+  - first:
+      213: -4835355470178677019
+    second: selected_ninja_gun_7
+  - first:
+      213: -1104625632064735995
+    second: selected_ninja_gun_8
+  - first:
+      213: -493991268271410716
+    second: selected_ninja_gun_9
+  - first:
+      213: -1640725940421833138
+    second: selected_ninja_gun_10
+  - first:
+      213: -4732548695199089649
+    second: selected_ninja_gun_11
+  - first:
+      213: -6146377067067358192
+    second: selected_ninja_gun_12
+  - first:
+      213: 8279894473060993750
+    second: selected_ninja_gun_13
+  - first:
+      213: 2327385645456071846
+    second: selected_ninja_gun_14
+  - first:
+      213: -4547682561019218197
+    second: selected_ninja_gun_15
+  - first:
+      213: -8872072008206540183
+    second: selected_ninja_gun_16
+  - first:
+      213: -3311707358403854023
+    second: selected_ninja_gun_17
+  - first:
+      213: -3675125489298506758
+    second: selected_ninja_gun_18
+  - first:
+      213: 711383908553814839
+    second: selected_ninja_gun_19
+  - first:
+      213: 8155863379135339227
+    second: selected_ninja_gun_20
+  - first:
+      213: -3265184730255752825
+    second: selected_ninja_gun_21
+  - first:
+      213: 3939396295605888186
+    second: selected_ninja_gun_22
+  - first:
+      213: -1754847959035267181
+    second: selected_ninja_gun_23
+  - first:
+      213: 2480189141279367974
+    second: selected_ninja_gun_24
+  - first:
+      213: 5775082142505135394
+    second: selected_ninja_gun_25
+  - first:
+      213: 5765961785691020624
+    second: selected_ninja_gun_26
+  - first:
+      213: -8568157477503225779
+    second: selected_ninja_gun_27
+  - first:
+      213: 540462554143540545
+    second: selected_ninja_gun_28
+  - first:
+      213: 7505056263141032721
+    second: selected_ninja_gun_29
+  - first:
+      213: -5889271970440405862
+    second: selected_ninja_gun_30
+  - first:
+      213: -1430188226845249485
+    second: selected_ninja_gun_31
+  - first:
+      213: -4923452516830327525
+    second: selected_ninja_gun_32
+  - first:
+      213: -1339167441932587969
+    second: selected_ninja_gun_33
+  - first:
+      213: 8351201005284026795
+    second: selected_ninja_gun_34
+  - first:
+      213: -900627746469878544
+    second: selected_ninja_gun_35
+  - first:
+      213: -4306611359705261560
+    second: selected_ninja_gun_36
+  - first:
+      213: 5271196990258570950
+    second: selected_ninja_gun_37
+  - first:
+      213: -5974902590159199570
+    second: selected_ninja_gun_38
+  - first:
+      213: 4827381895334615978
+    second: selected_ninja_gun_39
+  - first:
+      213: 8390222606993100429
+    second: selected_ninja_gun_40
+  - first:
+      213: 4724225859864584373
+    second: selected_ninja_gun_41
+  - first:
+      213: 5651078064834103123
+    second: selected_ninja_gun_42
+  - first:
+      213: -7919444283750562885
+    second: selected_ninja_gun_43
+  - first:
+      213: -150122090742981963
+    second: selected_ninja_gun_44
+  - first:
+      213: -1598198294393588538
+    second: selected_ninja_gun_45
+  - first:
+      213: -4742581975039356441
+    second: selected_ninja_gun_46
+  - first:
+      213: -2893862411153194201
+    second: selected_ninja_gun_47
+  - first:
+      213: 3904655667819626240
+    second: selected_ninja_gun_48
+  - first:
+      213: -4008555040092995251
+    second: selected_ninja_gun_49
+  - first:
+      213: -510915481988470081
+    second: selected_ninja_gun_50
+  - first:
+      213: 3818737245949604177
+    second: selected_ninja_gun_51
+  - first:
+      213: 5430640372655572787
+    second: selected_ninja_gun_52
+  - first:
+      213: 2060777341291288888
+    second: selected_ninja_gun_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: selected_ninja_gun_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 253
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14f2639565423e50800000000000000
+      internalID: 6787563890967507996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 253
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a607b03f4e6a410800000000000000
+      internalID: 1488128459412630090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 251
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9d7ba3c23b37b50800000000000000
+      internalID: 6589807682318227965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 251
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620992b92aa4996a0800000000000000
+      internalID: -6442035729728434138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 249
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc9e74763b583660800000000000000
+      internalID: 7365737480005262518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 253
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909456daeb47de2d0800000000000000
+      internalID: -3247811393962555127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 253
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c9ad47000d7fcd0800000000000000
+      internalID: -2524320365738812387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 253
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee024591dd55ecb0800000000000000
+      internalID: -4835355470178677019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 251
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5057df617d49ba0f0800000000000000
+      internalID: -1104625632064735995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 205
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1b98c0f8df429f0800000000000000
+      internalID: -493991268271410716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 205
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e436b3378fa39e0800000000000000
+      internalID: -1640725940421833138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 205
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c7b6c290c925eb0800000000000000
+      internalID: -4732548695199089649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 205
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014c7d55f9ea3baa0800000000000000
+      internalID: -6146377067067358192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 202
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da458c872818e270800000000000000
+      internalID: 8279894473060993750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 205
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac90ccd9e88c4020800000000000000
+      internalID: 2327385645456071846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_15
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 205
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6f53f2ec263e0c0800000000000000
+      internalID: -4547682561019218197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 205
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962a929c38110e480800000000000000
+      internalID: -8872072008206540183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_17
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 205
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9318a4624b37a02d0800000000000000
+      internalID: -3311707358403854023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 157
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbf061d6d45ffcc0800000000000000
+      internalID: -3675125489298506758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 157
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733774055e75fd900800000000000000
+      internalID: 711383908553814839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 157
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda9afd18827f2170800000000000000
+      internalID: 8155863379135339227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 157
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781831b99cbbfa2d0800000000000000
+      internalID: -3265184730255752825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 155
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4241d1f0c8ba630800000000000000
+      internalID: 3939396295605888186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 157
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39732ee241785a7e0800000000000000
+      internalID: -1754847959035267181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_24
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 157
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623ecb522e66b6220800000000000000
+      internalID: 2480189141279367974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_25
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 157
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d68b46c96352050800000000000000
+      internalID: 5775082142505135394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 157
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d1798d1bfc40050800000000000000
+      internalID: 5765961785691020624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 109
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4030d59b2ac71980800000000000000
+      internalID: -8568157477503225779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 109
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145402a54db108700800000000000000
+      internalID: 540462554143540545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 109
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11387d768e0572860800000000000000
+      internalID: 7505056263141032721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 109
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c1c38785a154ea0800000000000000
+      internalID: -5889271970440405862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_31
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 109
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33071f89263f62ce0800000000000000
+      internalID: -1430188226845249485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_32
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 109
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d43d185026cabb0800000000000000
+      internalID: -4923452516830327525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_33
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 109
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ce6d88e425a6de0800000000000000
+      internalID: -1339167441932587969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_34
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 109
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9e6d7511d65e370800000000000000
+      internalID: 8351201005284026795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_35
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 109
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f46dc816d35083f0800000000000000
+      internalID: -900627746469878544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 61
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a1b1729c7db34c0800000000000000
+      internalID: -4306611359705261560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_37
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 61
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c668711cbd072940800000000000000
+      internalID: 5271196990258570950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 61
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2eff920c1e41da0800000000000000
+      internalID: -5974902590159199570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_39
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 61
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab529ad14e4ef240800000000000000
+      internalID: 4827381895334615978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 61
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e864cf10f007470800000000000000
+      internalID: 8390222606993100429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 61
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b061f7b362df8140800000000000000
+      internalID: 4724225859864584373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_42
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 61
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357407c2f89ac6e40800000000000000
+      internalID: 5651078064834103123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_43
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 61
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3cc88026b781290800000000000000
+      internalID: -7919444283750562885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 61
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba535cf0c8aaedf0800000000000000
+      internalID: -150122090742981963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 13
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4f80e6e1f02d9e0800000000000000
+      internalID: -1598198294393588538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_46
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1db9b22d6fe2eb0800000000000000
+      internalID: -4742581975039356441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_47
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 13
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723cb5a287fe6d7d0800000000000000
+      internalID: -2893862411153194201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_48
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 13
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fba9264af103630800000000000000
+      internalID: 3904655667819626240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_49
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 13
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41c7a4ed60ce58c0800000000000000
+      internalID: -4008555040092995251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_50
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 13
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba64d9731dd8e8f0800000000000000
+      internalID: -510915481988470081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_51
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 13
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151316bea41eef430800000000000000
+      internalID: 3818737245949604177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_52
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 13
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337c70b65a28d5b40800000000000000
+      internalID: 5430640372655572787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_gun_53
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 13
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83957dcc21a599c10800000000000000
+      internalID: 2060777341291288888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

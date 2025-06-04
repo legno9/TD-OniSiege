@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 7e30c6840861dd1449d53fc898770aa5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1451486707649722049
+    second: tower_ninja_smoke_2-0_0
+  - first:
+      213: 5199393694199313490
+    second: tower_ninja_smoke_2-0_1
+  - first:
+      213: 6212987254199997459
+    second: tower_ninja_smoke_2-0_2
+  - first:
+      213: -3210529287947590009
+    second: tower_ninja_smoke_2-0_3
+  - first:
+      213: -6778846981035825597
+    second: tower_ninja_smoke_2-0_4
+  - first:
+      213: -2955296346603672452
+    second: tower_ninja_smoke_2-0_5
+  - first:
+      213: 6274907071186839193
+    second: tower_ninja_smoke_2-0_6
+  - first:
+      213: 5927134145377225335
+    second: tower_ninja_smoke_2-0_7
+  - first:
+      213: -3457515632826931106
+    second: tower_ninja_smoke_2-0_8
+  - first:
+      213: -7556489595468171042
+    second: tower_ninja_smoke_2-0_9
+  - first:
+      213: 1761462426231638936
+    second: tower_ninja_smoke_2-0_10
+  - first:
+      213: 197894908554456711
+    second: tower_ninja_smoke_2-0_11
+  - first:
+      213: 8955746202230103573
+    second: tower_ninja_smoke_2-0_12
+  - first:
+      213: 8252385818457411839
+    second: tower_ninja_smoke_2-0_13
+  - first:
+      213: 3077590022199549472
+    second: tower_ninja_smoke_2-0_14
+  - first:
+      213: 8165027569760816416
+    second: tower_ninja_smoke_2-0_15
+  - first:
+      213: -2659074470704069705
+    second: tower_ninja_smoke_2-0_16
+  - first:
+      213: 788679289466789750
+    second: tower_ninja_smoke_2-0_17
+  - first:
+      213: 7704855004685388010
+    second: tower_ninja_smoke_2-0_18
+  - first:
+      213: -7922067002591835594
+    second: tower_ninja_smoke_2-0_19
+  - first:
+      213: 743425194197082648
+    second: tower_ninja_smoke_2-0_20
+  - first:
+      213: 1603493037658429175
+    second: tower_ninja_smoke_2-0_21
+  - first:
+      213: -4930545903436150402
+    second: tower_ninja_smoke_2-0_22
+  - first:
+      213: -8032956129309016090
+    second: tower_ninja_smoke_2-0_23
+  - first:
+      213: -5860265385382347429
+    second: tower_ninja_smoke_2-0_24
+  - first:
+      213: 9219927040762281159
+    second: tower_ninja_smoke_2-0_25
+  - first:
+      213: 5253721293623461167
+    second: tower_ninja_smoke_2-0_26
+  - first:
+      213: -345250076116297147
+    second: tower_ninja_smoke_2-0_27
+  - first:
+      213: 4887947110629395997
+    second: tower_ninja_smoke_2-0_28
+  - first:
+      213: -6960297984553584596
+    second: tower_ninja_smoke_2-0_29
+  - first:
+      213: -1016870079577511953
+    second: tower_ninja_smoke_2-0_30
+  - first:
+      213: -373138840280378867
+    second: tower_ninja_smoke_2-0_31
+  - first:
+      213: 6395793116244960276
+    second: tower_ninja_smoke_2-0_32
+  - first:
+      213: 4277769727800039740
+    second: tower_ninja_smoke_2-0_33
+  - first:
+      213: 1383140022101738866
+    second: tower_ninja_smoke_2-0_34
+  - first:
+      213: -6854666465277671344
+    second: tower_ninja_smoke_2-0_35
+  - first:
+      213: -5203845941079319550
+    second: tower_ninja_smoke_2-0_36
+  - first:
+      213: 6230387376564936074
+    second: tower_ninja_smoke_2-0_37
+  - first:
+      213: -453960028804130966
+    second: tower_ninja_smoke_2-0_38
+  - first:
+      213: -2317265880538795869
+    second: tower_ninja_smoke_2-0_39
+  - first:
+      213: -7293205569519179878
+    second: tower_ninja_smoke_2-0_40
+  - first:
+      213: 6341366448994009762
+    second: tower_ninja_smoke_2-0_41
+  - first:
+      213: -327973605695457685
+    second: tower_ninja_smoke_2-0_42
+  - first:
+      213: 553913393003864988
+    second: tower_ninja_smoke_2-0_43
+  - first:
+      213: 8278284546275185775
+    second: tower_ninja_smoke_2-0_44
+  - first:
+      213: 3340199196089349299
+    second: tower_ninja_smoke_2-0_45
+  - first:
+      213: 7170507929555165107
+    second: tower_ninja_smoke_2-0_46
+  - first:
+      213: 2394452742656207162
+    second: tower_ninja_smoke_2-0_47
+  - first:
+      213: -295915725347261296
+    second: tower_ninja_smoke_2-0_48
+  - first:
+      213: -4031911696198530028
+    second: tower_ninja_smoke_2-0_49
+  - first:
+      213: 2743169423265862131
+    second: tower_ninja_smoke_2-0_50
+  - first:
+      213: 5449447365919094341
+    second: tower_ninja_smoke_2-0_51
+  - first:
+      213: 4326802236218279294
+    second: tower_ninja_smoke_2-0_52
+  - first:
+      213: -4788386300840454345
+    second: tower_ninja_smoke_2-0_53
+  - first:
+      213: 8110496161056716603
+    second: tower_ninja_smoke_2-0_54
+  - first:
+      213: 1533273570449371709
+    second: tower_ninja_smoke_2-0_55
+  - first:
+      213: -4673043393802848586
+    second: tower_ninja_smoke_2-0_56
+  - first:
+      213: 6410452689061845265
+    second: tower_ninja_smoke_2-0_57
+  - first:
+      213: 9146996718352326052
+    second: tower_ninja_smoke_2-0_58
+  - first:
+      213: 8169127147702922936
+    second: tower_ninja_smoke_2-0_59
+  - first:
+      213: 8393358929803097660
+    second: tower_ninja_smoke_2-0_60
+  - first:
+      213: 1632725472541912495
+    second: tower_ninja_smoke_2-0_61
+  - first:
+      213: -6819890597539719042
+    second: tower_ninja_smoke_2-0_62
+  - first:
+      213: 2426251049408572204
+    second: tower_ninja_smoke_2-0_63
+  - first:
+      213: -2448915053840698020
+    second: tower_ninja_smoke_2-0_64
+  - first:
+      213: -8250136541568669572
+    second: tower_ninja_smoke_2-0_65
+  - first:
+      213: -4897704527556622013
+    second: tower_ninja_smoke_2-0_66
+  - first:
+      213: -8249229817327257657
+    second: tower_ninja_smoke_2-0_67
+  - first:
+      213: -2037973789257303584
+    second: tower_ninja_smoke_2-0_68
+  - first:
+      213: 5133392998973895631
+    second: tower_ninja_smoke_2-0_69
+  - first:
+      213: -3135354034601092609
+    second: tower_ninja_smoke_2-0_70
+  - first:
+      213: -1400964262334573082
+    second: tower_ninja_smoke_2-0_71
+  - first:
+      213: 1437820949123262609
+    second: tower_ninja_smoke_2-0_72
+  - first:
+      213: -738989542440867889
+    second: tower_ninja_smoke_2-0_73
+  - first:
+      213: -2093985341847494979
+    second: tower_ninja_smoke_2-0_74
+  - first:
+      213: -2537584282979622913
+    second: tower_ninja_smoke_2-0_75
+  - first:
+      213: -2981884338593264676
+    second: tower_ninja_smoke_2-0_76
+  - first:
+      213: 9168278892639173125
+    second: tower_ninja_smoke_2-0_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6b9a56877b42410800000000000000
+      internalID: 1451486707649722049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 164
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254f72e6405f72840800000000000000
+      internalID: 5199393694199313490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 164
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314de986df6f83650800000000000000
+      internalID: 6212987254199997459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 164
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78665ea6f98e173d0800000000000000
+      internalID: -3210529287947590009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 164
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34661ac2692bce1a0800000000000000
+      internalID: -6778846981035825597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 164
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cadae61adacf6d0800000000000000
+      internalID: -2955296346603672452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 164
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996ada04cb2f41750800000000000000
+      internalID: 6274907071186839193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 164
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a4c471a19614250800000000000000
+      internalID: 5927134145377225335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 164
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58adf3c9df6400d0800000000000000
+      internalID: -3457515632826931106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 164
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed83f29bfb4f12790800000000000000
+      internalID: -7556489595468171042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 164
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b0cb87eb8f17810800000000000000
+      internalID: 1761462426231638936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 164
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e2f3fee501fb200800000000000000
+      internalID: 197894908554456711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 164
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e9a7aa8b3394c70800000000000000
+      internalID: 8955746202230103573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff010aacd2d568270800000000000000
+      internalID: 8252385818457411839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 132
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e9d75c1dbc5ba20800000000000000
+      internalID: 3077590022199549472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 132
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d4dd48051005170800000000000000
+      internalID: 8165027569760816416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 132
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3cf567bd1191bd0800000000000000
+      internalID: -2659074470704069705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 132
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f106a92a3f1fa00800000000000000
+      internalID: 788679289466789750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 132
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8c9200ec42dea60800000000000000
+      internalID: 7704855004685388010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 132
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a8ba7b80a2f0290800000000000000
+      internalID: -7922067002591835594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 132
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8126139764d215a00800000000000000
+      internalID: 743425194197082648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 132
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6517d0c60c04610800000000000000
+      internalID: 1603493037658429175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 132
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e794eecbf9e239bb0800000000000000
+      internalID: -4930545903436150402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_23
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 132
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef3d38f5f4358090800000000000000
+      internalID: -8032956129309016090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_24
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d74c65ea72caea0800000000000000
+      internalID: -5860265385382347429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_25
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc77a75bc2c3ff70800000000000000
+      internalID: 9219927040762281159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25055f5ea7f8e840800000000000000
+      internalID: 5253721293623461167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 100
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a596e82ec653bf0800000000000000
+      internalID: -345250076116297147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 100
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e46f9eff975d340800000000000000
+      internalID: 4887947110629395997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 100
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28f0db3cdd086f90800000000000000
+      internalID: -6960297984553584596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 100
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe72f0cdc0a53e1f0800000000000000
+      internalID: -1016870079577511953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 100
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02df25a33852daf0800000000000000
+      internalID: -373138840280378867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 100
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4146baee3fb62c850800000000000000
+      internalID: 6395793116244960276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_33
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 100
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39d07027e0bd5b30800000000000000
+      internalID: 4277769727800039740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_34
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 100
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275000c9586e13310800000000000000
+      internalID: 1383140022101738866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_35
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 100
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058875bda255fd0a0800000000000000
+      internalID: -6854666465277671344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_36
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 100
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cdb1010b938c7b0800000000000000
+      internalID: -5203845941079319550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_37
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 100
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d1b391f48c67650800000000000000
+      internalID: 6230387376564936074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_38
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 100
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6757ec42c533b9f0800000000000000
+      internalID: -453960028804130966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a03a5485fa67dfd0800000000000000
+      internalID: -2317265880538795869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_40
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 68
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97a8e2fc2459ca90800000000000000
+      internalID: -7293205569519179878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a24ed6ff2f010850800000000000000
+      internalID: 6341366448994009762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 68
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6671d84ebdc27bf0800000000000000
+      internalID: -327973605695457685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_43
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 68
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93a352db45efa700800000000000000
+      internalID: 553913393003864988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_44
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 68
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6496524fef52e270800000000000000
+      internalID: 8278284546275185775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_45
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 68
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b473f1c875ca5e20800000000000000
+      internalID: 3340199196089349299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_46
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 68
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfd14098f2c28360800000000000000
+      internalID: 7170507929555165107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_47
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 68
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39ab75451eca3120800000000000000
+      internalID: 2394452742656207162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_48
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 68
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09479333732b4ebf0800000000000000
+      internalID: -295915725347261296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_49
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 68
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c085e9ca5cb08c0800000000000000
+      internalID: -4031911696198530028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_50
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 68
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f199787e02b11620800000000000000
+      internalID: 2743169423265862131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_51
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 68
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546bbc3c18350ab40800000000000000
+      internalID: 5449447365919094341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 36
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75082f95b3eb0c30800000000000000
+      internalID: 4326802236218279294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_53
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737de03870c3c8db0800000000000000
+      internalID: -4788386300840454345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_54
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 36
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3774f789454e8070800000000000000
+      internalID: 8110496161056716603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_55
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 36
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32312e4038474510800000000000000
+      internalID: 1533273570449371709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_56
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 36
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6356ccac3062fb0800000000000000
+      internalID: -4673043393802848586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_57
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 36
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1199af4b1c086f850800000000000000
+      internalID: 6410452689061845265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_58
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 36
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4addd0f6d09a0fe70800000000000000
+      internalID: 9146996718352326052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_59
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 36
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be25d3ebd19e5170800000000000000
+      internalID: 8169127147702922936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_60
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 36
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36344b0a733b7470800000000000000
+      internalID: 8393358929803097660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_61
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 36
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fada79eaa2b98a610800000000000000
+      internalID: 1632725472541912495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_62
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 36
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e785e9682a1ea51a0800000000000000
+      internalID: -6819890597539719042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_63
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 36
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2baaef7976cba120800000000000000
+      internalID: 2426251049408572204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_64
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 36
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55f7b2cbb4b30ed0800000000000000
+      internalID: -2448915053840698020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78645bc680a18d80800000000000000
+      internalID: -8250136541568669572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_66
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3494a2c6eabd70cb0800000000000000
+      internalID: -4897704527556622013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_67
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7f5abff29d48d80800000000000000
+      internalID: -8249229817327257657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_68
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9f2c5e2a9a7b3e0800000000000000
+      internalID: -2037973789257303584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_69
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 4
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3f0541cb97d3740800000000000000
+      internalID: 5133392998973895631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_70
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 4
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9938a0e1cfc74d0800000000000000
+      internalID: -3135354034601092609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_71
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5d7801d66ce8ce0800000000000000
+      internalID: -1400964262334573082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_72
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 4
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1986b1b098a24f310800000000000000
+      internalID: 1437820949123262609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_73
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7651e2de49eb5f0800000000000000
+      internalID: -738989542440867889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_74
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe1e4e0d6ba0f2e0800000000000000
+      internalID: -2093985341847494979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_75
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff92611a80b8ccd0800000000000000
+      internalID: -2537584282979622913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_76
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb09d42ef73e96d0800000000000000
+      internalID: -2981884338593264676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_smoke_2-0_77
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a3875c3154c3f70800000000000000
+      internalID: 9168278892639173125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

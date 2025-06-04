@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: 412dd0ed15d7c21408bdb4900e77a6ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1617186785020798355
+    second: tower_ninja_gun_0-3_0
+  - first:
+      213: 7687460045613714787
+    second: tower_ninja_gun_0-3_1
+  - first:
+      213: -1407992641250032893
+    second: tower_ninja_gun_0-3_2
+  - first:
+      213: -7222502291011633399
+    second: tower_ninja_gun_0-3_3
+  - first:
+      213: -305220243896694203
+    second: tower_ninja_gun_0-3_4
+  - first:
+      213: -6141242706174816159
+    second: tower_ninja_gun_0-3_5
+  - first:
+      213: 2138406950694569129
+    second: tower_ninja_gun_0-3_6
+  - first:
+      213: -1911341787355059067
+    second: tower_ninja_gun_0-3_7
+  - first:
+      213: -562392377848965671
+    second: tower_ninja_gun_0-3_8
+  - first:
+      213: 6599255784944032154
+    second: tower_ninja_gun_0-3_9
+  - first:
+      213: -4721306296120402784
+    second: tower_ninja_gun_0-3_10
+  - first:
+      213: -9096300316332865284
+    second: tower_ninja_gun_0-3_11
+  - first:
+      213: -6780836364768728990
+    second: tower_ninja_gun_0-3_12
+  - first:
+      213: 6481641962213097552
+    second: tower_ninja_gun_0-3_13
+  - first:
+      213: 3982698778506225973
+    second: tower_ninja_gun_0-3_14
+  - first:
+      213: -3314951510712594321
+    second: tower_ninja_gun_0-3_15
+  - first:
+      213: 7167245804861049634
+    second: tower_ninja_gun_0-3_16
+  - first:
+      213: -4579677343129642311
+    second: tower_ninja_gun_0-3_17
+  - first:
+      213: 3747049467003328944
+    second: tower_ninja_gun_0-3_18
+  - first:
+      213: -1351476345493232536
+    second: tower_ninja_gun_0-3_19
+  - first:
+      213: -2116369916444233509
+    second: tower_ninja_gun_0-3_20
+  - first:
+      213: 4219779952687810444
+    second: tower_ninja_gun_0-3_21
+  - first:
+      213: 6323337484804709526
+    second: tower_ninja_gun_0-3_22
+  - first:
+      213: 7225709904667667655
+    second: tower_ninja_gun_0-3_23
+  - first:
+      213: 5291523579229021560
+    second: tower_ninja_gun_0-3_24
+  - first:
+      213: 1884917984657659867
+    second: tower_ninja_gun_0-3_25
+  - first:
+      213: -5492315878962138380
+    second: tower_ninja_gun_0-3_26
+  - first:
+      213: -6961730624266477964
+    second: tower_ninja_gun_0-3_27
+  - first:
+      213: -2489111773849627311
+    second: tower_ninja_gun_0-3_28
+  - first:
+      213: -6178156900956857129
+    second: tower_ninja_gun_0-3_29
+  - first:
+      213: -3034521414680588272
+    second: tower_ninja_gun_0-3_30
+  - first:
+      213: -2168194271213501475
+    second: tower_ninja_gun_0-3_31
+  - first:
+      213: -4781215012400170693
+    second: tower_ninja_gun_0-3_32
+  - first:
+      213: -8699484908689623254
+    second: tower_ninja_gun_0-3_33
+  - first:
+      213: 5273015297054251681
+    second: tower_ninja_gun_0-3_34
+  - first:
+      213: -4658168915090325788
+    second: tower_ninja_gun_0-3_35
+  - first:
+      213: -919016233776225756
+    second: tower_ninja_gun_0-3_36
+  - first:
+      213: 8219528805264562187
+    second: tower_ninja_gun_0-3_37
+  - first:
+      213: -1622185600052821781
+    second: tower_ninja_gun_0-3_38
+  - first:
+      213: -5039599022159577684
+    second: tower_ninja_gun_0-3_39
+  - first:
+      213: 8768876598628930254
+    second: tower_ninja_gun_0-3_40
+  - first:
+      213: 2069446915011772944
+    second: tower_ninja_gun_0-3_41
+  - first:
+      213: 3874414759756887047
+    second: tower_ninja_gun_0-3_42
+  - first:
+      213: -3081804797718492667
+    second: tower_ninja_gun_0-3_43
+  - first:
+      213: -7799991659427271434
+    second: tower_ninja_gun_0-3_44
+  - first:
+      213: -2815459213750191195
+    second: tower_ninja_gun_0-3_45
+  - first:
+      213: 7545020638265589013
+    second: tower_ninja_gun_0-3_46
+  - first:
+      213: 7504334804442325708
+    second: tower_ninja_gun_0-3_47
+  - first:
+      213: 2979796079867289305
+    second: tower_ninja_gun_0-3_48
+  - first:
+      213: 122475947624562732
+    second: tower_ninja_gun_0-3_49
+  - first:
+      213: 2244803388876790235
+    second: tower_ninja_gun_0-3_50
+  - first:
+      213: 8802191595282684736
+    second: tower_ninja_gun_0-3_51
+  - first:
+      213: 7169991681605435698
+    second: tower_ninja_gun_0-3_52
+  - first:
+      213: -1955710841340689487
+    second: tower_ninja_gun_0-3_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 252
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395ee9010d6617610800000000000000
+      internalID: 1617186785020798355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 252
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d40db7e285faa60800000000000000
+      internalID: 7687460045613714787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 252
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3038de3172ec57ce0800000000000000
+      internalID: -1407992641250032893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 252
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f7ecace6484cb90800000000000000
+      internalID: -7222502291011633399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a87482ec3a3cbf0800000000000000
+      internalID: -305220243896694203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 252
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160ddf2eb4ce5caa0800000000000000
+      internalID: -6141242706174816159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 252
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a44069bac52dad10800000000000000
+      internalID: 2138406950694569129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 252
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c675865cc8975e0800000000000000
+      internalID: -1911341787355059067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 252
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5dcedac1bf138f0800000000000000
+      internalID: -562392377848965671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 204
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99d78b0c24459b50800000000000000
+      internalID: 6599255784944032154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 204
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac9def20fc8a7eb0800000000000000
+      internalID: -4721306296120402784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 204
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8c4ba7e0373c180800000000000000
+      internalID: -9096300316332865284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 204
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268a8eda041a5e1a0800000000000000
+      internalID: -6780836364768728990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 203
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0504afef50b63f950800000000000000
+      internalID: 6481641962213097552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 204
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539ee341073654730800000000000000
+      internalID: 3982698778506225973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_15
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 204
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60d4541a2deef1d0800000000000000
+      internalID: -3314951510712594321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_16
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 204
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bc6a8f51c277360800000000000000
+      internalID: 7167245804861049634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_17
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 204
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba5ad878b7b170c0800000000000000
+      internalID: -4579677343129642311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 156
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9dc8433a1300430800000000000000
+      internalID: 3747049467003328944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 156
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86468889c679e3de0800000000000000
+      internalID: -1351476345493232536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 156
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0b40526c421a2e0800000000000000
+      internalID: -2116369916444233509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 156
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c878546728baf8a30800000000000000
+      internalID: 4219779952687810444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 156
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c52b0a0f101c750800000000000000
+      internalID: 6323337484804709526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_23
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 156
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccecb5ffd0e64460800000000000000
+      internalID: 7225709904667667655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_24
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 156
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875ac8cd8a44f6940800000000000000
+      internalID: 5291523579229021560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_25
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 156
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7d34a9be2982a10800000000000000
+      internalID: 1884917984657659867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_26
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 156
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f27930cecf57c3b0800000000000000
+      internalID: -5492315878962138380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 108
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e53aec1e6f26f90800000000000000
+      internalID: -6961730624266477964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 108
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15553719706e47dd0800000000000000
+      internalID: -2489111773849627311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_29
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc96d72807c24aa0800000000000000
+      internalID: -6178156900956857129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_30
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 108
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010d5a6d9d633e5d0800000000000000
+      internalID: -3034521414680588272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_31
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 108
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd348444cc609e1e0800000000000000
+      internalID: -2168194271213501475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_32
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 108
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b397f173746b5adb0800000000000000
+      internalID: -4781215012400170693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_33
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 108
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27fea04198354780800000000000000
+      internalID: -8699484908689623254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_34
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 108
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa9e1c99738d2940800000000000000
+      internalID: 5273015297054251681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_35
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 108
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee36404d0cda5fb0800000000000000
+      internalID: -4658168915090325788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 60
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42263f2ca9ffe33f0800000000000000
+      internalID: -919016233776225756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_37
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 60
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0892e246e1a11270800000000000000
+      internalID: 8219528805264562187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 60
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0091d9ac6dc79e0800000000000000
+      internalID: -1622185600052821781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_39
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 60
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadb5c9e36fbf0ab0800000000000000
+      internalID: -5039599022159577684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 60
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec253849ece41b970800000000000000
+      internalID: 8768876598628930254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_41
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 60
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0120eca310728bc10800000000000000
+      internalID: 2069446915011772944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 60
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704f6db42bfa4c530800000000000000
+      internalID: 3874414759756887047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_43
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 60
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a05e45dda3b35d0800000000000000
+      internalID: -3081804797718492667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 60
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fce3d079ecd0c390800000000000000
+      internalID: -7799991659427271434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 12
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abb1d413ca7de8d0800000000000000
+      internalID: -2815459213750191195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_46
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 12
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dbfc69b4c45b860800000000000000
+      internalID: 7545020638265589013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_47
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2a266beb0c42860800000000000000
+      internalID: 7504334804442325708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_48
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 12
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de579b3fbc5a5920800000000000000
+      internalID: 2979796079867289305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2001b7b93f13b100800000000000000
+      internalID: 122475947624562732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_50
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 12
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd91898e9c4272f10800000000000000
+      internalID: 2244803388876790235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bd0c1be9aa72a70800000000000000
+      internalID: 8802191595282684736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_52
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 12
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2310998327de08360800000000000000
+      internalID: 7169991681605435698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_gun_0-3_53
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 12
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b302820a5bebd4e0800000000000000
+      internalID: -1955710841340689487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

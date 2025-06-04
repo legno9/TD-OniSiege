@@ -1,0 +1,1917 @@
+fileFormatVersion: 2
+guid: 60f9860db73c30043b42ebcff6b66fb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3821821443856391386
+    second: tower_ninja_poison_0-2_0
+  - first:
+      213: -7095009170475883422
+    second: tower_ninja_poison_0-2_1
+  - first:
+      213: 3903514081909893417
+    second: tower_ninja_poison_0-2_2
+  - first:
+      213: 7424114814825686553
+    second: tower_ninja_poison_0-2_3
+  - first:
+      213: -60913243027803500
+    second: tower_ninja_poison_0-2_4
+  - first:
+      213: 1210750503120746
+    second: tower_ninja_poison_0-2_5
+  - first:
+      213: 3149755246148104568
+    second: tower_ninja_poison_0-2_6
+  - first:
+      213: -6803481266355320434
+    second: tower_ninja_poison_0-2_7
+  - first:
+      213: -3331024371619181498
+    second: tower_ninja_poison_0-2_8
+  - first:
+      213: -2273001863388410887
+    second: tower_ninja_poison_0-2_9
+  - first:
+      213: -6255021603696651364
+    second: tower_ninja_poison_0-2_10
+  - first:
+      213: -5889032459839589467
+    second: tower_ninja_poison_0-2_11
+  - first:
+      213: 6035711291716573238
+    second: tower_ninja_poison_0-2_12
+  - first:
+      213: -7021476986206569683
+    second: tower_ninja_poison_0-2_13
+  - first:
+      213: 9068053494930972266
+    second: tower_ninja_poison_0-2_14
+  - first:
+      213: 5066283110925740087
+    second: tower_ninja_poison_0-2_15
+  - first:
+      213: 298123484046171439
+    second: tower_ninja_poison_0-2_16
+  - first:
+      213: -7427579257414611746
+    second: tower_ninja_poison_0-2_17
+  - first:
+      213: -6915652567765504953
+    second: tower_ninja_poison_0-2_18
+  - first:
+      213: -4471424826934923888
+    second: tower_ninja_poison_0-2_19
+  - first:
+      213: -5304362453053934670
+    second: tower_ninja_poison_0-2_20
+  - first:
+      213: 4227192657059371792
+    second: tower_ninja_poison_0-2_21
+  - first:
+      213: 580349919601455774
+    second: tower_ninja_poison_0-2_22
+  - first:
+      213: -8771338209153015280
+    second: tower_ninja_poison_0-2_23
+  - first:
+      213: -966322493375415699
+    second: tower_ninja_poison_0-2_24
+  - first:
+      213: 8976280264023780887
+    second: tower_ninja_poison_0-2_25
+  - first:
+      213: 5204575589371938631
+    second: tower_ninja_poison_0-2_26
+  - first:
+      213: 5446107271153131157
+    second: tower_ninja_poison_0-2_27
+  - first:
+      213: -2357267204348669624
+    second: tower_ninja_poison_0-2_28
+  - first:
+      213: -6008698610380184891
+    second: tower_ninja_poison_0-2_29
+  - first:
+      213: 7323831283991238257
+    second: tower_ninja_poison_0-2_30
+  - first:
+      213: 1150345888070215905
+    second: tower_ninja_poison_0-2_31
+  - first:
+      213: -6842214191704457029
+    second: tower_ninja_poison_0-2_32
+  - first:
+      213: -2281031740251479540
+    second: tower_ninja_poison_0-2_33
+  - first:
+      213: -2125842894458079700
+    second: tower_ninja_poison_0-2_34
+  - first:
+      213: 7878236228110423284
+    second: tower_ninja_poison_0-2_35
+  - first:
+      213: -1330385436452784664
+    second: tower_ninja_poison_0-2_36
+  - first:
+      213: -471533704735364706
+    second: tower_ninja_poison_0-2_37
+  - first:
+      213: 4580320426467909497
+    second: tower_ninja_poison_0-2_38
+  - first:
+      213: -7855063761898441778
+    second: tower_ninja_poison_0-2_39
+  - first:
+      213: 618513512250707767
+    second: tower_ninja_poison_0-2_40
+  - first:
+      213: 1306546745514795749
+    second: tower_ninja_poison_0-2_41
+  - first:
+      213: 6642094910662044223
+    second: tower_ninja_poison_0-2_42
+  - first:
+      213: 7874391198687406936
+    second: tower_ninja_poison_0-2_43
+  - first:
+      213: 4802859419993387550
+    second: tower_ninja_poison_0-2_44
+  - first:
+      213: 2762136601957590499
+    second: tower_ninja_poison_0-2_45
+  - first:
+      213: -5202665444953910091
+    second: tower_ninja_poison_0-2_46
+  - first:
+      213: 258390837710819673
+    second: tower_ninja_poison_0-2_47
+  - first:
+      213: 7702139490327717458
+    second: tower_ninja_poison_0-2_48
+  - first:
+      213: -7371926014533109924
+    second: tower_ninja_poison_0-2_49
+  - first:
+      213: -9175322657170444231
+    second: tower_ninja_poison_0-2_50
+  - first:
+      213: 658214671636550166
+    second: tower_ninja_poison_0-2_51
+  - first:
+      213: -2974854860486827706
+    second: tower_ninja_poison_0-2_52
+  - first:
+      213: -7709115474393722250
+    second: tower_ninja_poison_0-2_53
+  - first:
+      213: -5377172556021397179
+    second: tower_ninja_poison_0-2_54
+  - first:
+      213: 7911926099245221452
+    second: tower_ninja_poison_0-2_55
+  - first:
+      213: 7222741005638141530
+    second: tower_ninja_poison_0-2_56
+  - first:
+      213: -2818531013663792380
+    second: tower_ninja_poison_0-2_57
+  - first:
+      213: -5924442460617046347
+    second: tower_ninja_poison_0-2_58
+  - first:
+      213: -6655086676930611211
+    second: tower_ninja_poison_0-2_59
+  - first:
+      213: -7296833711327514108
+    second: tower_ninja_poison_0-2_60
+  - first:
+      213: 4083135781052680393
+    second: tower_ninja_poison_0-2_61
+  - first:
+      213: 6078381966870731738
+    second: tower_ninja_poison_0-2_62
+  - first:
+      213: -8129889017272111585
+    second: tower_ninja_poison_0-2_63
+  - first:
+      213: -4587917731765904141
+    second: tower_ninja_poison_0-2_64
+  - first:
+      213: 5521617217544367855
+    second: tower_ninja_poison_0-2_65
+  - first:
+      213: -7484041787641539689
+    second: tower_ninja_poison_0-2_66
+  - first:
+      213: -3335950910828809973
+    second: tower_ninja_poison_0-2_67
+  - first:
+      213: 5080250686193778904
+    second: tower_ninja_poison_0-2_68
+  - first:
+      213: -721158300088711679
+    second: tower_ninja_poison_0-2_69
+  - first:
+      213: 2330945647628264197
+    second: tower_ninja_poison_0-2_70
+  - first:
+      213: 4847701305700178667
+    second: tower_ninja_poison_0-2_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62328fb45a926fac0800000000000000
+      internalID: -3821821443856391386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 164
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26465ab10c6798d90800000000000000
+      internalID: -7095009170475883422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 164
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92969f330611c2630800000000000000
+      internalID: 3903514081909893417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 164
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9166665e611c70760800000000000000
+      internalID: 7424114814825686553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 164
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492f53b6ab7972ff0800000000000000
+      internalID: -60913243027803500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 164
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f66a1db2d440000800000000000000
+      internalID: 1210750503120746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 164
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871b41055bd26bb20800000000000000
+      internalID: 3149755246148104568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 164
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89cddaa5dd2591a0800000000000000
+      internalID: -6803481266355320434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 164
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c48778bf2d5c1d0800000000000000
+      internalID: -3331024371619181498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 164
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbceee19dca470e0800000000000000
+      internalID: -2273001863388410887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 164
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c935441fdf2b139a0800000000000000
+      internalID: -6255021603696651364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 164
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a33480ed24f54ea0800000000000000
+      internalID: -5889032459839589467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6389495f07723c350800000000000000
+      internalID: 6035711291716573238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 132
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bb396e1e3be8e90800000000000000
+      internalID: -7021476986206569683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 132
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e9999eb9238dd70800000000000000
+      internalID: 9068053494930972266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7382a46a5ad0f4640800000000000000
+      internalID: 5066283110925740087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d16cdaab5232400800000000000000
+      internalID: 298123484046171439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc0eb4b400fbe890800000000000000
+      internalID: -7427579257414611746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ca15c51aaa600a0800000000000000
+      internalID: -6915652567765504953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 132
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d6eae7fce42f1c0800000000000000
+      internalID: -4471424826934923888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 132
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3fcc1e37e1366b0800000000000000
+      internalID: -5304362453053934670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_21
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bd92133510aaa30800000000000000
+      internalID: 4227192657059371792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_22
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9275435d21dd0800800000000000000
+      internalID: 580349919601455774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_23
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 132
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012af9e0f52f54680800000000000000
+      internalID: -8771338209153015280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a73e3efcee692f0800000000000000
+      internalID: -966322493375415699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 100
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eac7d7757229c70800000000000000
+      internalID: 8976280264023780887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7470f2b6ced5a3840800000000000000
+      internalID: 5204575589371938631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e11c955b5749b40800000000000000
+      internalID: 5446107271153131157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8419e1c87fd494fd0800000000000000
+      internalID: -2357267204348669624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2e7e50370dc9ca0800000000000000
+      internalID: -6008698610380184891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176d03ddfb973a560800000000000000
+      internalID: 7323831283991238257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 100
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8a14b8d79d6ff00800000000000000
+      internalID: 1150345888070215905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_32
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 100
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0c15ab1729b01a0800000000000000
+      internalID: -6842214191704457029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_33
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c026be8b7b52850e0800000000000000
+      internalID: -2281031740251479540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26b983962d7f72e0800000000000000
+      internalID: -2125842894458079700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_35
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f49229db1e155d60800000000000000
+      internalID: 7878236228110423284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5f0e58e75898de0800000000000000
+      internalID: -1330385436452784664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 68
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99ef950896c479f0800000000000000
+      internalID: -471533704735364706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_38
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 68
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fd5190921909f30800000000000000
+      internalID: 4580320426467909497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 68
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3ffff50253df290800000000000000
+      internalID: -7855063761898441778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_40
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 68
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f8b7a23c6659800800000000000000
+      internalID: 618513512250707767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 68
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e22ad8b759c12210800000000000000
+      internalID: 1306546745514795749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 68
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ae07241267d2c50800000000000000
+      internalID: 6642094910662044223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 68
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ba93c2315774d60800000000000000
+      internalID: 7874391198687406936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 68
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1238d2223f27a240800000000000000
+      internalID: 4802859419993387550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_45
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 68
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e569c4ea94155620800000000000000
+      internalID: 2762136601957590499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_46
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 68
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4925cb75b6cc7b0800000000000000
+      internalID: -5202665444953910091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_47
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 68
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95118fe091df59300800000000000000
+      internalID: 258390837710819673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 36
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256ed7b0f0f73ea60800000000000000
+      internalID: 7702139490327717458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57fa411958a1b990800000000000000
+      internalID: -7371926014533109924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_50
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 36
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93033cff7a4baa080800000000000000
+      internalID: -9175322657170444231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 36
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612d8d8a1c2722900800000000000000
+      internalID: 658214671636550166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_52
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 36
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641a65e044137b6d0800000000000000
+      internalID: -2974854860486827706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_53
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 36
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6729b481258b30590800000000000000
+      internalID: -7709115474393722250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_54
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 36
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5498d5ebc027065b0800000000000000
+      internalID: -5377172556021397179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_55
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 36
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4647aa3edecccd60800000000000000
+      internalID: 7911926099245221452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_56
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 36
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5685b94da45c3460800000000000000
+      internalID: 7222741005638141530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_57
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 36
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403e52ee9f092e8d0800000000000000
+      internalID: -2818531013663792380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_58
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 36
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b60eaa98f628cda0800000000000000
+      internalID: -5924442460617046347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_59
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 36
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7bd107de164a3a0800000000000000
+      internalID: -6655086676930611211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4027a3b56607cba90800000000000000
+      internalID: -7296833711327514108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_61
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c805570c563aa830800000000000000
+      internalID: 4083135781052680393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_62
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 4
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb5878b130ca5450800000000000000
+      internalID: 6078381966870731738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e65264305dc2f80800000000000000
+      internalID: -8129889017272111585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_64
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc906b71217450c0800000000000000
+      internalID: -4587917731765904141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_65
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feea965ca99b0ac40800000000000000
+      internalID: 5521617217544367855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_66
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 4
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793527375a7532890800000000000000
+      internalID: -7484041787641539689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_67
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0178eb325254b1d0800000000000000
+      internalID: -3335950910828809973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_68
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 4
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0c380351da08640800000000000000
+      internalID: 5080250686193778904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 4
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1064360d85eedf5f0800000000000000
+      internalID: -721158300088711679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_70
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 4
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50320a577be295020800000000000000
+      internalID: 2330945647628264197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_poison_0-2_71
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 4
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bead47f37ae764340800000000000000
+      internalID: 4847701305700178667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

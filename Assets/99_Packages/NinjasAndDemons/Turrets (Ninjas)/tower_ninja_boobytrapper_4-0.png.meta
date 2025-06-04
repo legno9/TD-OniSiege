@@ -1,0 +1,1767 @@
+fileFormatVersion: 2
+guid: 963161a4a99ab6f479294e2609d63f3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -534403072586184967
+    second: tower_ninja_boobytrapper_4-0_0
+  - first:
+      213: -260615055307785549
+    second: tower_ninja_boobytrapper_4-0_1
+  - first:
+      213: -1026726296052137482
+    second: tower_ninja_boobytrapper_4-0_2
+  - first:
+      213: -5975633105065148099
+    second: tower_ninja_boobytrapper_4-0_3
+  - first:
+      213: -7014493087628871431
+    second: tower_ninja_boobytrapper_4-0_4
+  - first:
+      213: 6519152033717310711
+    second: tower_ninja_boobytrapper_4-0_5
+  - first:
+      213: -4989503266225830589
+    second: tower_ninja_boobytrapper_4-0_6
+  - first:
+      213: 7757929011599275490
+    second: tower_ninja_boobytrapper_4-0_7
+  - first:
+      213: -4878080554714041158
+    second: tower_ninja_boobytrapper_4-0_8
+  - first:
+      213: 925885198926499771
+    second: tower_ninja_boobytrapper_4-0_9
+  - first:
+      213: -5731435096792933901
+    second: tower_ninja_boobytrapper_4-0_10
+  - first:
+      213: -461812633067295486
+    second: tower_ninja_boobytrapper_4-0_11
+  - first:
+      213: 4799773049009255322
+    second: tower_ninja_boobytrapper_4-0_12
+  - first:
+      213: 430845413587552636
+    second: tower_ninja_boobytrapper_4-0_13
+  - first:
+      213: -984899373721216905
+    second: tower_ninja_boobytrapper_4-0_14
+  - first:
+      213: 4752304944771918440
+    second: tower_ninja_boobytrapper_4-0_15
+  - first:
+      213: 8784297632182492054
+    second: tower_ninja_boobytrapper_4-0_16
+  - first:
+      213: -8826561223693855396
+    second: tower_ninja_boobytrapper_4-0_17
+  - first:
+      213: 4567337960421184756
+    second: tower_ninja_boobytrapper_4-0_18
+  - first:
+      213: -4600532131423588080
+    second: tower_ninja_boobytrapper_4-0_19
+  - first:
+      213: -9042330546952899273
+    second: tower_ninja_boobytrapper_4-0_20
+  - first:
+      213: 1719354613569287023
+    second: tower_ninja_boobytrapper_4-0_21
+  - first:
+      213: 5099307372418584977
+    second: tower_ninja_boobytrapper_4-0_22
+  - first:
+      213: -7499847951858086673
+    second: tower_ninja_boobytrapper_4-0_23
+  - first:
+      213: -3152926228518566669
+    second: tower_ninja_boobytrapper_4-0_24
+  - first:
+      213: -1031288963209776875
+    second: tower_ninja_boobytrapper_4-0_25
+  - first:
+      213: 2710419796636012020
+    second: tower_ninja_boobytrapper_4-0_26
+  - first:
+      213: -5498581748420772144
+    second: tower_ninja_boobytrapper_4-0_27
+  - first:
+      213: 2165094117288389405
+    second: tower_ninja_boobytrapper_4-0_28
+  - first:
+      213: -7206208108775351053
+    second: tower_ninja_boobytrapper_4-0_29
+  - first:
+      213: 7508840070969023994
+    second: tower_ninja_boobytrapper_4-0_30
+  - first:
+      213: 2569779906261872841
+    second: tower_ninja_boobytrapper_4-0_31
+  - first:
+      213: -2449047038370960119
+    second: tower_ninja_boobytrapper_4-0_32
+  - first:
+      213: -8772893310019835636
+    second: tower_ninja_boobytrapper_4-0_33
+  - first:
+      213: 6067613439927470081
+    second: tower_ninja_boobytrapper_4-0_34
+  - first:
+      213: -8877054290694555812
+    second: tower_ninja_boobytrapper_4-0_35
+  - first:
+      213: -762214239476434928
+    second: tower_ninja_boobytrapper_4-0_36
+  - first:
+      213: -1912784280703639193
+    second: tower_ninja_boobytrapper_4-0_37
+  - first:
+      213: 1589167686766242760
+    second: tower_ninja_boobytrapper_4-0_38
+  - first:
+      213: -6073202694624071855
+    second: tower_ninja_boobytrapper_4-0_39
+  - first:
+      213: 338476529297117855
+    second: tower_ninja_boobytrapper_4-0_40
+  - first:
+      213: 7536582223166534052
+    second: tower_ninja_boobytrapper_4-0_41
+  - first:
+      213: -1066942362744887025
+    second: tower_ninja_boobytrapper_4-0_42
+  - first:
+      213: -4294099318050919798
+    second: tower_ninja_boobytrapper_4-0_43
+  - first:
+      213: 8644208215815289667
+    second: tower_ninja_boobytrapper_4-0_44
+  - first:
+      213: -3919206619112492254
+    second: tower_ninja_boobytrapper_4-0_45
+  - first:
+      213: 7527110730789398227
+    second: tower_ninja_boobytrapper_4-0_46
+  - first:
+      213: 6247622418462352100
+    second: tower_ninja_boobytrapper_4-0_47
+  - first:
+      213: -418112145452558253
+    second: tower_ninja_boobytrapper_4-0_48
+  - first:
+      213: 3520944016324887601
+    second: tower_ninja_boobytrapper_4-0_49
+  - first:
+      213: -8146006856947835272
+    second: tower_ninja_boobytrapper_4-0_50
+  - first:
+      213: -2266251243076637978
+    second: tower_ninja_boobytrapper_4-0_51
+  - first:
+      213: -2064926254035071018
+    second: tower_ninja_boobytrapper_4-0_52
+  - first:
+      213: 5161551319119887322
+    second: tower_ninja_boobytrapper_4-0_53
+  - first:
+      213: 5069813654787279472
+    second: tower_ninja_boobytrapper_4-0_54
+  - first:
+      213: 1044341714479398447
+    second: tower_ninja_boobytrapper_4-0_55
+  - first:
+      213: -6980071362317805760
+    second: tower_ninja_boobytrapper_4-0_56
+  - first:
+      213: -5599631457010579456
+    second: tower_ninja_boobytrapper_4-0_57
+  - first:
+      213: -6448853640161017960
+    second: tower_ninja_boobytrapper_4-0_58
+  - first:
+      213: -5502299614031400095
+    second: tower_ninja_boobytrapper_4-0_59
+  - first:
+      213: 302125306142474067
+    second: tower_ninja_boobytrapper_4-0_60
+  - first:
+      213: 4168785495848217206
+    second: tower_ninja_boobytrapper_4-0_61
+  - first:
+      213: 3446901402508066729
+    second: tower_ninja_boobytrapper_4-0_62
+  - first:
+      213: 803235661557755345
+    second: tower_ninja_boobytrapper_4-0_63
+  - first:
+      213: 4767475381983912818
+    second: tower_ninja_boobytrapper_4-0_64
+  - first:
+      213: -1321844768252229441
+    second: tower_ninja_boobytrapper_4-0_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f68f93ac3b6598f0800000000000000
+      internalID: -534403072586184967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 164
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bab24decfb126cf0800000000000000
+      internalID: -260615055307785549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 164
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f18242afd550c1f0800000000000000
+      internalID: -1026726296052137482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d310788e959421da0800000000000000
+      internalID: -5975633105065148099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8b27083b387ae90800000000000000
+      internalID: -7014493087628871431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f45c761c3ea87a50800000000000000
+      internalID: 6519152033717310711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34545f20739b1cab0800000000000000
+      internalID: -4989503266225830589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 164
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e572113553b9ab60800000000000000
+      internalID: 7757929011599275490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 164
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab47786a4939d4cb0800000000000000
+      internalID: -4878080554714041158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 164
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf4ec0dea769dc00800000000000000
+      internalID: 925885198926499771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 164
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9537a552ad570b0800000000000000
+      internalID: -5731435096792933901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d6c356bdf4799f0800000000000000
+      internalID: -461812633067295486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 132
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93b0b468283c9240800000000000000
+      internalID: 4799773049009255322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c790ef5fe9baaf500800000000000000
+      internalID: 430845413587552636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 132
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77897d1ec3fe452f0800000000000000
+      internalID: -984899373721216905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 132
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a66712b2493f140800000000000000
+      internalID: 4752304944771918440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 132
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bda8fb72818e970800000000000000
+      internalID: 8784297632182492054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 132
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c559d790551c18580800000000000000
+      internalID: -8826561223693855396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 132
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4df0c1da1726f30800000000000000
+      internalID: 4567337960421184756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_19
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 132
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011f9b0b660a720c0800000000000000
+      internalID: -4600532131423588080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 132
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735753f9640338280800000000000000
+      internalID: -9042330546952899273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 132
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63f9b859ef5cd710800000000000000
+      internalID: 1719354613569287023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1915a85b90164c640800000000000000
+      internalID: 5099307372418584977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 100
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecce0016003be790800000000000000
+      internalID: -7499847951858086673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f48322dc4e8e34d0800000000000000
+      internalID: -3152926228518566669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 100
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511b917e62020b1f0800000000000000
+      internalID: -1031288963209776875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 100
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd0da2d1785d9520800000000000000
+      internalID: 2710419796636012020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_27
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 100
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0defee4580d11b3b0800000000000000
+      internalID: -5498581748420772144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_28
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 100
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b2346e0a5fb0e10800000000000000
+      internalID: 2165094117288389405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_29
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcd7eab7e76efb90800000000000000
+      internalID: -7206208108775351053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_30
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 100
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdd351d242c43860800000000000000
+      internalID: 7508840070969023994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_31
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 100
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0fcaf9531b9a320800000000000000
+      internalID: 2569779906261872841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_32
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 100
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d2da7b1bc330ed0800000000000000
+      internalID: -2449047038370960119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09eddbe30c604680800000000000000
+      internalID: -8772893310019835636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 68
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1084349a64e743450800000000000000
+      internalID: 6067613439927470081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 68
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c573b4fb72e5ec480800000000000000
+      internalID: -8877054290694555812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 68
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018334500321c65f0800000000000000
+      internalID: -762214239476434928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_37
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 68
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76165b0c4dc6475e0800000000000000
+      internalID: -1912784280703639193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 68
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb2b32679bdd0610800000000000000
+      internalID: 1589167686766242760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 68
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15facf19356a7bba0800000000000000
+      internalID: -6073202694624071855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_40
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 68
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92df8d2c9282b400800000000000000
+      internalID: 338476529297117855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 68
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a17d58f991579860800000000000000
+      internalID: 7536582223166534052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_42
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 68
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0966c0f2957131f0800000000000000
+      internalID: -1066942362744887025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_43
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 68
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ae35ddb6b4864c0800000000000000
+      internalID: -4294099318050919798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 36
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bfe24c29566f770800000000000000
+      internalID: 8644208215815289667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_45
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223b072485e2c99c0800000000000000
+      internalID: -3919206619112492254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 36
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6abbd445ba57860800000000000000
+      internalID: 7527110730789398227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_47
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 36
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2273ffc7304b650800000000000000
+      internalID: 6247622418462352100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_48
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 36
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358160e0831923af0800000000000000
+      internalID: -418112145452558253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_49
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 36
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13405179de7ecd030800000000000000
+      internalID: 3520944016324887601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_50
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 36
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e5ab94ce193fe80800000000000000
+      internalID: -8146006856947835272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 36
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea21a46088ac80e0800000000000000
+      internalID: -2266251243076637978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_52
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 36
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df8cdc2388e753e0800000000000000
+      internalID: -2064926254035071018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_53
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 36
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbf612e39381a740800000000000000
+      internalID: 5161551319119887322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_54
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 36
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a450378a89b5640800000000000000
+      internalID: 5069813654787279472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ebaa3914f3e7e00800000000000000
+      internalID: 1044341714479398447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_56
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0479b26f31ec12f90800000000000000
+      internalID: -6980071362317805760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_57
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00808c3abdc1a42b0800000000000000
+      internalID: -5599631457010579456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_58
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fb7b128c11186a0800000000000000
+      internalID: -6448853640161017960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_59
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 4
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163b3e947a7e3a3b0800000000000000
+      internalID: -5502299614031400095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_60
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f374e7d5d513400800000000000000
+      internalID: 302125306142474067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_61
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a65d042508ad930800000000000000
+      internalID: 4168785495848217206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_62
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 4
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aff948209ad5df20800000000000000
+      internalID: 3446901402508066729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_63
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 4
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd6316149aa52b00800000000000000
+      internalID: 803235661557755345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_64
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273229ac999792240800000000000000
+      internalID: 4767475381983912818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_boobytrapper_4-0_65
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 4
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb80e1ccf2dd7ade0800000000000000
+      internalID: -1321844768252229441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

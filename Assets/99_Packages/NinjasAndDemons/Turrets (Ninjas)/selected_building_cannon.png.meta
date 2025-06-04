@@ -1,0 +1,3942 @@
+fileFormatVersion: 2
+guid: 12e9c9a8a0eb86745b5007c9dfe3d3a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7906451326265685882
+    second: selected_building_cannon_0
+  - first:
+      213: 1704341059353645077
+    second: selected_building_cannon_1
+  - first:
+      213: -4085117379934169285
+    second: selected_building_cannon_2
+  - first:
+      213: 8933631428780315272
+    second: selected_building_cannon_3
+  - first:
+      213: -4832003790674511272
+    second: selected_building_cannon_4
+  - first:
+      213: -1110648910752873482
+    second: selected_building_cannon_5
+  - first:
+      213: 7741442859256892495
+    second: selected_building_cannon_6
+  - first:
+      213: 686735148034418482
+    second: selected_building_cannon_7
+  - first:
+      213: -8489668506883114142
+    second: selected_building_cannon_8
+  - first:
+      213: -641515940861871097
+    second: selected_building_cannon_9
+  - first:
+      213: -4674135776274432031
+    second: selected_building_cannon_10
+  - first:
+      213: -1170651671588989204
+    second: selected_building_cannon_11
+  - first:
+      213: 2231946302020833653
+    second: selected_building_cannon_12
+  - first:
+      213: -2666375861517619324
+    second: selected_building_cannon_13
+  - first:
+      213: 8398668882741249953
+    second: selected_building_cannon_14
+  - first:
+      213: -983175714013951731
+    second: selected_building_cannon_15
+  - first:
+      213: 3402866253277628583
+    second: selected_building_cannon_16
+  - first:
+      213: -4919040360761958467
+    second: selected_building_cannon_17
+  - first:
+      213: 7139994545936738030
+    second: selected_building_cannon_18
+  - first:
+      213: -6121024967994216420
+    second: selected_building_cannon_19
+  - first:
+      213: 4865681885102910425
+    second: selected_building_cannon_20
+  - first:
+      213: 5656503868409036408
+    second: selected_building_cannon_21
+  - first:
+      213: 2294922237659007615
+    second: selected_building_cannon_22
+  - first:
+      213: -745266207213716880
+    second: selected_building_cannon_23
+  - first:
+      213: -2792949841461607883
+    second: selected_building_cannon_24
+  - first:
+      213: -3499168423659425958
+    second: selected_building_cannon_25
+  - first:
+      213: 8827035540115354047
+    second: selected_building_cannon_26
+  - first:
+      213: -282385674600058064
+    second: selected_building_cannon_27
+  - first:
+      213: 6257628996469756315
+    second: selected_building_cannon_28
+  - first:
+      213: 511898016843596241
+    second: selected_building_cannon_29
+  - first:
+      213: 3783351926267348431
+    second: selected_building_cannon_30
+  - first:
+      213: -9018920352503424648
+    second: selected_building_cannon_31
+  - first:
+      213: 7633798240834507883
+    second: selected_building_cannon_32
+  - first:
+      213: -3531781964463343979
+    second: selected_building_cannon_33
+  - first:
+      213: -1547297719871634184
+    second: selected_building_cannon_34
+  - first:
+      213: -1784286874458382578
+    second: selected_building_cannon_35
+  - first:
+      213: -3162300892460611880
+    second: selected_building_cannon_36
+  - first:
+      213: 1094427492111042910
+    second: selected_building_cannon_37
+  - first:
+      213: -9087813502822291897
+    second: selected_building_cannon_38
+  - first:
+      213: -2845292365307318944
+    second: selected_building_cannon_39
+  - first:
+      213: -177301377113436082
+    second: selected_building_cannon_40
+  - first:
+      213: 5814847213602588723
+    second: selected_building_cannon_41
+  - first:
+      213: 7299663851437685022
+    second: selected_building_cannon_42
+  - first:
+      213: -5911316309123003858
+    second: selected_building_cannon_43
+  - first:
+      213: -5783840624580667878
+    second: selected_building_cannon_44
+  - first:
+      213: -2422174728353566551
+    second: selected_building_cannon_45
+  - first:
+      213: -5958039536974782223
+    second: selected_building_cannon_46
+  - first:
+      213: -4968235426275658031
+    second: selected_building_cannon_47
+  - first:
+      213: 1156379148564816264
+    second: selected_building_cannon_48
+  - first:
+      213: -2355086833000032160
+    second: selected_building_cannon_49
+  - first:
+      213: -5075772654466980732
+    second: selected_building_cannon_50
+  - first:
+      213: 4284764408768384069
+    second: selected_building_cannon_51
+  - first:
+      213: 1251925027641489408
+    second: selected_building_cannon_52
+  - first:
+      213: 5763707582257508270
+    second: selected_building_cannon_53
+  - first:
+      213: 2745496820119294403
+    second: selected_building_cannon_54
+  - first:
+      213: -6161825682348052793
+    second: selected_building_cannon_55
+  - first:
+      213: 617703057778454672
+    second: selected_building_cannon_56
+  - first:
+      213: 5341174772564949383
+    second: selected_building_cannon_57
+  - first:
+      213: -9020176721694670114
+    second: selected_building_cannon_58
+  - first:
+      213: -3918823832581148256
+    second: selected_building_cannon_59
+  - first:
+      213: -6456187116966695064
+    second: selected_building_cannon_60
+  - first:
+      213: 6543147579214646210
+    second: selected_building_cannon_61
+  - first:
+      213: 282191759417873760
+    second: selected_building_cannon_62
+  - first:
+      213: -5066846889128662092
+    second: selected_building_cannon_63
+  - first:
+      213: 8950505000943671509
+    second: selected_building_cannon_64
+  - first:
+      213: -1271258559547606726
+    second: selected_building_cannon_65
+  - first:
+      213: 8222598326254220890
+    second: selected_building_cannon_66
+  - first:
+      213: -6288967536871717802
+    second: selected_building_cannon_67
+  - first:
+      213: 8560926774376536469
+    second: selected_building_cannon_68
+  - first:
+      213: 7445660898922880272
+    second: selected_building_cannon_69
+  - first:
+      213: -7197163464938885719
+    second: selected_building_cannon_70
+  - first:
+      213: -5382054501266304053
+    second: selected_building_cannon_71
+  - first:
+      213: 971821053320882750
+    second: selected_building_cannon_72
+  - first:
+      213: -5941065456891721142
+    second: selected_building_cannon_73
+  - first:
+      213: -4315195322588294568
+    second: selected_building_cannon_74
+  - first:
+      213: -6953266707761507753
+    second: selected_building_cannon_75
+  - first:
+      213: 8706480717287278469
+    second: selected_building_cannon_76
+  - first:
+      213: 5014111038770958648
+    second: selected_building_cannon_77
+  - first:
+      213: -8424762741160296962
+    second: selected_building_cannon_78
+  - first:
+      213: -8428255779568167090
+    second: selected_building_cannon_79
+  - first:
+      213: 6666459061165797089
+    second: selected_building_cannon_80
+  - first:
+      213: 8676011124603417354
+    second: selected_building_cannon_81
+  - first:
+      213: 3216476946573236416
+    second: selected_building_cannon_82
+  - first:
+      213: 7589511139464519982
+    second: selected_building_cannon_83
+  - first:
+      213: 2196324927058213432
+    second: selected_building_cannon_84
+  - first:
+      213: -76935115743414170
+    second: selected_building_cannon_85
+  - first:
+      213: -1214880721012104816
+    second: selected_building_cannon_86
+  - first:
+      213: -7004942761297937823
+    second: selected_building_cannon_87
+  - first:
+      213: -621781911233157975
+    second: selected_building_cannon_88
+  - first:
+      213: -4058277153629017767
+    second: selected_building_cannon_89
+  - first:
+      213: -5980828699777638493
+    second: selected_building_cannon_90
+  - first:
+      213: 252601882261851532
+    second: selected_building_cannon_91
+  - first:
+      213: 3808892860010540928
+    second: selected_building_cannon_92
+  - first:
+      213: 6279248472939994385
+    second: selected_building_cannon_93
+  - first:
+      213: 8007667721555380225
+    second: selected_building_cannon_94
+  - first:
+      213: -6700894753035393954
+    second: selected_building_cannon_95
+  - first:
+      213: -8161984730051934063
+    second: selected_building_cannon_96
+  - first:
+      213: -6664398626980019823
+    second: selected_building_cannon_97
+  - first:
+      213: -8729929750398148849
+    second: selected_building_cannon_98
+  - first:
+      213: 2931270140878401808
+    second: selected_building_cannon_99
+  - first:
+      213: -4392935896643217588
+    second: selected_building_cannon_100
+  - first:
+      213: -8363991095842568567
+    second: selected_building_cannon_101
+  - first:
+      213: 7136000702014858810
+    second: selected_building_cannon_102
+  - first:
+      213: -8355470096193873800
+    second: selected_building_cannon_103
+  - first:
+      213: -6017609399815790450
+    second: selected_building_cannon_104
+  - first:
+      213: 6524145563344772307
+    second: selected_building_cannon_105
+  - first:
+      213: -4509115971607482708
+    second: selected_building_cannon_106
+  - first:
+      213: 8029444417559049692
+    second: selected_building_cannon_107
+  - first:
+      213: 7235890737319868757
+    second: selected_building_cannon_108
+  - first:
+      213: -8109005326391384659
+    second: selected_building_cannon_109
+  - first:
+      213: 1885290965925188051
+    second: selected_building_cannon_110
+  - first:
+      213: 3715172540127209123
+    second: selected_building_cannon_111
+  - first:
+      213: -4403954169642402652
+    second: selected_building_cannon_112
+  - first:
+      213: -8678064578115199893
+    second: selected_building_cannon_113
+  - first:
+      213: -4050794544989586361
+    second: selected_building_cannon_114
+  - first:
+      213: 5066698052171711230
+    second: selected_building_cannon_115
+  - first:
+      213: 4654946038382492762
+    second: selected_building_cannon_116
+  - first:
+      213: 3105537613386410265
+    second: selected_building_cannon_117
+  - first:
+      213: 7082636168017354963
+    second: selected_building_cannon_118
+  - first:
+      213: -6708354335022963753
+    second: selected_building_cannon_119
+  - first:
+      213: -311892179877847813
+    second: selected_building_cannon_120
+  - first:
+      213: -6394473828499037203
+    second: selected_building_cannon_121
+  - first:
+      213: 1209112261450868123
+    second: selected_building_cannon_122
+  - first:
+      213: 4733089639005175394
+    second: selected_building_cannon_123
+  - first:
+      213: -6779427082184761265
+    second: selected_building_cannon_124
+  - first:
+      213: -8951886798712636546
+    second: selected_building_cannon_125
+  - first:
+      213: 5168159040566151034
+    second: selected_building_cannon_126
+  - first:
+      213: 8945304269209937664
+    second: selected_building_cannon_127
+  - first:
+      213: -4160245723484837267
+    second: selected_building_cannon_128
+  - first:
+      213: 2037010398293374387
+    second: selected_building_cannon_129
+  - first:
+      213: 5914916523533159464
+    second: selected_building_cannon_130
+  - first:
+      213: 4557593445425378424
+    second: selected_building_cannon_131
+  - first:
+      213: 2590384757885217018
+    second: selected_building_cannon_132
+  - first:
+      213: 4093805305862793700
+    second: selected_building_cannon_133
+  - first:
+      213: 5203626314390684255
+    second: selected_building_cannon_134
+  - first:
+      213: -5602212499764039346
+    second: selected_building_cannon_135
+  - first:
+      213: 4155782218215231802
+    second: selected_building_cannon_136
+  - first:
+      213: 2226255390462798759
+    second: selected_building_cannon_137
+  - first:
+      213: 6977383149788217365
+    second: selected_building_cannon_138
+  - first:
+      213: 1047601213431095154
+    second: selected_building_cannon_139
+  - first:
+      213: -1890859783081999718
+    second: selected_building_cannon_140
+  - first:
+      213: 3343940459318061034
+    second: selected_building_cannon_141
+  - first:
+      213: 4992394866847721506
+    second: selected_building_cannon_142
+  - first:
+      213: -6646016410154890985
+    second: selected_building_cannon_143
+  - first:
+      213: -5558807252084326750
+    second: selected_building_cannon_144
+  - first:
+      213: -7871861484093892619
+    second: selected_building_cannon_145
+  - first:
+      213: -1192723338675143288
+    second: selected_building_cannon_146
+  - first:
+      213: -9037223184895865469
+    second: selected_building_cannon_147
+  - first:
+      213: -344618614784201978
+    second: selected_building_cannon_148
+  - first:
+      213: 7196492238196735138
+    second: selected_building_cannon_149
+  - first:
+      213: 8578373514584361403
+    second: selected_building_cannon_150
+  - first:
+      213: -1689990132235753126
+    second: selected_building_cannon_151
+  - first:
+      213: 6783939971990164072
+    second: selected_building_cannon_152
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: selected_building_cannon_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 260
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a777bff479b59bd60800000000000000
+      internalID: 7906451326265685882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 260
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51013ead92907a710800000000000000
+      internalID: 1704341059353645077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 260
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37df37036fbe47c0800000000000000
+      internalID: -4085117379934169285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 260
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88257bab372aafb70800000000000000
+      internalID: 8933631428780315272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 260
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a3187472641fcb0800000000000000
+      internalID: -4832003790674511272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 260
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3866c33be2690f0800000000000000
+      internalID: -1110648910752873482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 260
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ccdfab3412f6b60800000000000000
+      internalID: 7741442859256892495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 260
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237ed598af5c78900800000000000000
+      internalID: 686735148034418482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 260
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b39622973ae2a80800000000000000
+      internalID: -8489668506883114142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 260
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c7d2396a0e817f0800000000000000
+      internalID: -641515940861871097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 260
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efb73fa642222fb0800000000000000
+      internalID: -4674135776274432031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 260
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6983fc18201cfe0800000000000000
+      internalID: -1170651671588989204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 260
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571d2b9165779fe10800000000000000
+      internalID: 2231946302020833653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 260
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fe090f7412ffad0800000000000000
+      internalID: -2666375861517619324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 260
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a74bedc9d01e8470800000000000000
+      internalID: 8398668882741249953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 260
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09486ea5ee0b52f0800000000000000
+      internalID: -983175714013951731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_16
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 260
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a807c404d8693f20800000000000000
+      internalID: 3402866253277628583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 228
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf59f4aade0cbbb0800000000000000
+      internalID: -4919040360761958467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 228
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee629c0d53b561360800000000000000
+      internalID: 7139994545936738030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 228
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c107861e830cd0ba0800000000000000
+      internalID: -6121024967994216420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 228
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbac9f15ef568340800000000000000
+      internalID: 4865681885102910425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 228
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87eb4238c40ff7e40800000000000000
+      internalID: 5656503868409036408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 228
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a4fcabd9339df10800000000000000
+      internalID: 2294922237659007615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 228
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a7ce7455848a5f0800000000000000
+      internalID: -745266207213716880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_24
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 228
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5328238bae27d39d0800000000000000
+      internalID: -2792949841461607883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_25
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 228
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f248aabd4707fc0800000000000000
+      internalID: -3499168423659425958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 228
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1f25c5e0eef7a70800000000000000
+      internalID: 8827035540115354047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_27
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 228
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033fdcf99b3c41cf0800000000000000
+      internalID: -282385674600058064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_28
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 228
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9193cefa6097d650800000000000000
+      internalID: 6257628996469756315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_29
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 228
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1803fb880aa1700800000000000000
+      internalID: 511898016843596241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_30
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 228
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc58479288a218430800000000000000
+      internalID: 3783351926267348431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_31
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 228
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8791e7349bb56d280800000000000000
+      internalID: -9018920352503424648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_32
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 228
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6451ffed03b0f960800000000000000
+      internalID: 7633798240834507883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_33
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 228
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596f708f3079cfec0800000000000000
+      internalID: -3531781964463343979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 196
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f48745fbe4e68ae0800000000000000
+      internalID: -1547297719871634184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 196
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f148e8a80fc37e0800000000000000
+      internalID: -1784286874458382578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 196
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d60cf7c7104d14d0800000000000000
+      internalID: -3162300892460611880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 196
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5943bb6100303f00800000000000000
+      internalID: 1094427492111042910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_38
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 196
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746674bb4c991e180800000000000000
+      internalID: -9087813502822291897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_39
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 196
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06de9b33bad7388d0800000000000000
+      internalID: -2845292365307318944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 196
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4057fe36591a8df0800000000000000
+      internalID: -177301377113436082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_41
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 196
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338c3fd7bbc72b050800000000000000
+      internalID: 5814847213602588723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_42
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 196
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19f3bcf89d9d4560800000000000000
+      internalID: 7299663851437685022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_43
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 196
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a00c7e229c6fda0800000000000000
+      internalID: -5911316309123003858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_44
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 196
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a165566989babbfa0800000000000000
+      internalID: -5783840624580667878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_45
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 196
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0be84fae4b26ed0800000000000000
+      internalID: -2422174728353566551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_46
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 196
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0a2e0bb9ac05da0800000000000000
+      internalID: -5958039536974782223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_47
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 196
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6f350e3384d0bb0800000000000000
+      internalID: -4968235426275658031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_48
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 196
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881efd775b84c0010800000000000000
+      internalID: 1156379148564816264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_49
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 196
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06855dfc00d015fd0800000000000000
+      internalID: -2355086833000032160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_50
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 196
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484aad1d9ab3f89b0800000000000000
+      internalID: -5075772654466980732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 164
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c40e2378a867b30800000000000000
+      internalID: 4284764408768384069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_52
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 164
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008fdfdfd2bbf5110800000000000000
+      internalID: 1251925027641489408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_53
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 164
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf2fa5328dccff40800000000000000
+      internalID: 5763707582257508270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_54
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 164
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1dc27cfc6f91620800000000000000
+      internalID: 2745496820119294403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_55
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 164
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cee3cb403ccc7aa0800000000000000
+      internalID: -6161825682348052793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_56
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 164
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090be8788a5829800800000000000000
+      internalID: 617703057778454672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_57
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 164
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789f20a282aaf1a40800000000000000
+      internalID: 5341174772564949383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_58
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 164
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed244240015e1d280800000000000000
+      internalID: -9020176721694670114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_59
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 164
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a17aa1bc7a8d99c0800000000000000
+      internalID: -3918823832581148256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_60
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 164
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f2fb106040766a0800000000000000
+      internalID: -6456187116966695064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_61
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 164
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbcb046e0eedca50800000000000000
+      internalID: 6543147579214646210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_62
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 164
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06515aaf8eb8ae300800000000000000
+      internalID: 282191759417873760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_63
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 164
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb61328991fea9b0800000000000000
+      internalID: -5066846889128662092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_64
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 164
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8da9560e4963c70800000000000000
+      internalID: 8950505000943671509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_65
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 164
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a397d7453159b5ee0800000000000000
+      internalID: -1271258559547606726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_66
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 164
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56ba1fcc998c1270800000000000000
+      internalID: 8222598326254220890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_67
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 164
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6544cc8785919b8a0800000000000000
+      internalID: -6288967536871717802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 132
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59918d62b858ec670800000000000000
+      internalID: 8560926774376536469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_69
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 132
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d5056832d445760800000000000000
+      internalID: 7445660898922880272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_70
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 132
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ade5e9f5f98e1c90800000000000000
+      internalID: -7197163464938885719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_71
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 132
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3da3a42f91f45b0800000000000000
+      internalID: -5382054501266304053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_72
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 132
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3aef6c591a9c7d00800000000000000
+      internalID: 971821053320882750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_73
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 132
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a00aea1781d8da0800000000000000
+      internalID: -5941065456891721142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_74
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 132
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85292bc87b85d14c0800000000000000
+      internalID: -4315195322588294568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_75
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 132
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752535fe4c8018f90800000000000000
+      internalID: -6953266707761507753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_76
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 132
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58742bd5512a3d870800000000000000
+      internalID: 8706480717287278469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_77
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 132
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831de428c63b59540800000000000000
+      internalID: 5014111038770958648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_78
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 132
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdb1385cea351b80800000000000000
+      internalID: -8424762741160296962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_79
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 132
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47d4b6f502d80b80800000000000000
+      internalID: -8428255779568167090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_80
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 132
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eea87a1235048c50800000000000000
+      internalID: 6666459061165797089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_81
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 132
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03f25d7622676870800000000000000
+      internalID: 8676011124603417354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_82
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 132
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c81bb4cdb833ac20800000000000000
+      internalID: 3216476946573236416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_83
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 132
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2127ae9b2c535960800000000000000
+      internalID: 7589511139464519982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_84
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 132
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83af3a072e9ea7e10800000000000000
+      internalID: 2196324927058213432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_85
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6683c5b7bebaeeef0800000000000000
+      internalID: -76935115743414170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_86
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 100
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0916a93cb60e32fe0800000000000000
+      internalID: -1214880721012104816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_87
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 100
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a74e02ca179ce90800000000000000
+      internalID: -7004942761297937823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_88
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 100
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a42f2565acfe57f0800000000000000
+      internalID: -621781911233157975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_89
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 100
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959ebd13e6a1ea7c0800000000000000
+      internalID: -4058277153629017767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_90
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 100
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afda4f3cf3dffca0800000000000000
+      internalID: -5980828699777638493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_91
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 100
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d00d5d21c618300800000000000000
+      internalID: 252601882261851532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_92
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 100
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f237430e7ebd430800000000000000
+      internalID: 3808892860010540928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_93
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 100
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d900e973f542750800000000000000
+      internalID: 6279248472939994385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_94
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 100
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1088ba6cd53f02f60800000000000000
+      internalID: 8007667721555380225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_95
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 100
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54eb0899b3a103a0800000000000000
+      internalID: -6700894753035393954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_96
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 100
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198871fc12ecabe80800000000000000
+      internalID: -8161984730051934063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_97
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 100
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191414d12cc4383a0800000000000000
+      internalID: -6664398626980019823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_98
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 100
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f5769252f09d680800000000000000
+      internalID: -8729929750398148849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_99
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 100
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01134cf99a6fda820800000000000000
+      internalID: 2931270140878401808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_100
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 100
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47d487a3182903c0800000000000000
+      internalID: -4392935896643217588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_101
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 100
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98606c3a9622deb80800000000000000
+      internalID: -8363991095842568567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_102
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36a88094da280360800000000000000
+      internalID: 7136000702014858810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_103
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87817f877386b0c80800000000000000
+      internalID: -8355470096193873800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_104
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 68
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80adee22282d7ca0800000000000000
+      internalID: -6017609399815790450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_105
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 68
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc1b1ec2db6a8a50800000000000000
+      internalID: 6524145563344772307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_106
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 68
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeab450ae66c61c0800000000000000
+      internalID: -4509115971607482708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_107
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 68
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5b95ce7215e6f60800000000000000
+      internalID: 8029444417559049692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_108
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 68
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5597d77c94c0b6460800000000000000
+      internalID: 7235890737319868757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_109
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 68
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5e0b67e96077f80800000000000000
+      internalID: -8109005326391384659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_110
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 68
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d159321526e92a10800000000000000
+      internalID: 1885290965925188051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_111
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 68
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6619dcdb1fe8330800000000000000
+      internalID: 3715172540127209123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_112
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 68
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac3d5f040302e2c0800000000000000
+      internalID: -4403954169642402652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_113
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 68
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c1b8b9e32519780800000000000000
+      internalID: -8678064578115199893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_114
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 68
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c3ec7c2dfa8c7c0800000000000000
+      internalID: -4050794544989586361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_115
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 68
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2cbdfa807805640800000000000000
+      internalID: 5066698052171711230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_116
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 68
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c766a42c0b99040800000000000000
+      internalID: 4654946038382492762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_117
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 68
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919e28a6106191b20800000000000000
+      internalID: 3105537613386410265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_118
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 68
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d02204c1149a4260800000000000000
+      internalID: 7082636168017354963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_119
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d32181564327e2a0800000000000000
+      internalID: -6708354335022963753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_120
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 36
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc982207bfebabf0800000000000000
+      internalID: -311892179877847813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_121
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 36
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de368ceaee34247a0800000000000000
+      internalID: -6394473828499037203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_122
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 36
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9529551231a7c010800000000000000
+      internalID: 1209112261450868123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_123
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 36
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e3cfe13ff4fa140800000000000000
+      internalID: 4733089639005175394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_124
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 36
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40e6b9dcf2aae1a0800000000000000
+      internalID: -6779427082184761265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_125
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 36
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b793db26284c380800000000000000
+      internalID: -8951886798712636546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_126
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 36
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a774babe34df8b740800000000000000
+      internalID: 5168159040566151034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_127
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 36
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0072b0ea6da142c70800000000000000
+      internalID: 8945304269209937664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_128
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 36
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a29517e86d346c0800000000000000
+      internalID: -4160245723484837267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_129
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 36
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5bd0a2a2ae44c10800000000000000
+      internalID: 2037010398293374387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_130
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 36
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c48455d31061250800000000000000
+      internalID: 5914916523533159464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_131
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 36
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8747a396713df3f30800000000000000
+      internalID: 4557593445425378424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_132
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 36
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8a55d7635e2f320800000000000000
+      internalID: 2590384757885217018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_133
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 36
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9af8b5c3e10d830800000000000000
+      internalID: 4093805305862793700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_134
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 36
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52c12d109ef63840800000000000000
+      internalID: 5203626314390684255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_135
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 36
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41bf4bc961f042b0800000000000000
+      internalID: -5602212499764039346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_136
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a319a90c8ed4ca930800000000000000
+      internalID: 4155782218215231802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_137
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 4
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab65df7b7f35ee10800000000000000
+      internalID: 2226255390462798759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_138
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5104ce8c105a4d060800000000000000
+      internalID: 6977383149788217365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_139
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f14d0d0c3d98e00800000000000000
+      internalID: 1047601213431095154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_140
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a924355ab0152c5e0800000000000000
+      internalID: -1890859783081999718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_141
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 4
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7a5bb7120186e20800000000000000
+      internalID: 3343940459318061034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_142
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22821f83eac884540800000000000000
+      internalID: 4992394866847721506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_143
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 4
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7190d4d794b94c3a0800000000000000
+      internalID: -6646016410154890985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_144
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aef5ac81462bd2b0800000000000000
+      internalID: -5558807252084326750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_145
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f71187efa781c290800000000000000
+      internalID: -7871861484093892619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_146
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 4
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d33fa5178927fe0800000000000000
+      internalID: -1192723338675143288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_147
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 4
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d8b540565559280800000000000000
+      internalID: -9037223184895865469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_148
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60becca123ba73bf0800000000000000
+      internalID: -344618614784201978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_149
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 4
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac729edf831fd360800000000000000
+      internalID: 7196492238196735138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_150
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 4
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb98b67e2418c0770800000000000000
+      internalID: 8578373514584361403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_151
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 4
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a592c2ebde2fb88e0800000000000000
+      internalID: -1689990132235753126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_building_cannon_152
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 4
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8621c003675652e50800000000000000
+      internalID: 6783939971990164072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

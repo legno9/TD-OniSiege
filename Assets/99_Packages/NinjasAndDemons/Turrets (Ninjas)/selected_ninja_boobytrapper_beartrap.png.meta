@@ -1,0 +1,1767 @@
+fileFormatVersion: 2
+guid: 606be6ff97f53294ea6eb083ca9eec17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1867950195987158546
+    second: selected_ninja_boobytrapper_beartrap_0
+  - first:
+      213: 250130817899945563
+    second: selected_ninja_boobytrapper_beartrap_1
+  - first:
+      213: 1484235616922920178
+    second: selected_ninja_boobytrapper_beartrap_2
+  - first:
+      213: -3592547372958362187
+    second: selected_ninja_boobytrapper_beartrap_3
+  - first:
+      213: 6872763654222149695
+    second: selected_ninja_boobytrapper_beartrap_4
+  - first:
+      213: 9024005926850280029
+    second: selected_ninja_boobytrapper_beartrap_5
+  - first:
+      213: -4573389629042221181
+    second: selected_ninja_boobytrapper_beartrap_6
+  - first:
+      213: 5211741541899390258
+    second: selected_ninja_boobytrapper_beartrap_7
+  - first:
+      213: 8695536820605511358
+    second: selected_ninja_boobytrapper_beartrap_8
+  - first:
+      213: 4405260207080783005
+    second: selected_ninja_boobytrapper_beartrap_9
+  - first:
+      213: -542354029975183349
+    second: selected_ninja_boobytrapper_beartrap_10
+  - first:
+      213: -8121725999730550994
+    second: selected_ninja_boobytrapper_beartrap_11
+  - first:
+      213: -8608614998630136599
+    second: selected_ninja_boobytrapper_beartrap_12
+  - first:
+      213: 590170808419193453
+    second: selected_ninja_boobytrapper_beartrap_13
+  - first:
+      213: 8315032846070613513
+    second: selected_ninja_boobytrapper_beartrap_14
+  - first:
+      213: -3989026676863787843
+    second: selected_ninja_boobytrapper_beartrap_15
+  - first:
+      213: 551275254969222090
+    second: selected_ninja_boobytrapper_beartrap_16
+  - first:
+      213: 6551657468851192064
+    second: selected_ninja_boobytrapper_beartrap_17
+  - first:
+      213: 7905460529360301831
+    second: selected_ninja_boobytrapper_beartrap_18
+  - first:
+      213: 6000546977276979330
+    second: selected_ninja_boobytrapper_beartrap_19
+  - first:
+      213: -6949255992713239909
+    second: selected_ninja_boobytrapper_beartrap_20
+  - first:
+      213: -5944579181723898531
+    second: selected_ninja_boobytrapper_beartrap_21
+  - first:
+      213: 3797263664960299327
+    second: selected_ninja_boobytrapper_beartrap_22
+  - first:
+      213: -5767650869340393861
+    second: selected_ninja_boobytrapper_beartrap_23
+  - first:
+      213: 6667166916644617125
+    second: selected_ninja_boobytrapper_beartrap_24
+  - first:
+      213: 8977040184445174570
+    second: selected_ninja_boobytrapper_beartrap_25
+  - first:
+      213: 767628869223945093
+    second: selected_ninja_boobytrapper_beartrap_26
+  - first:
+      213: 7525912698544520507
+    second: selected_ninja_boobytrapper_beartrap_27
+  - first:
+      213: 4858124533145959595
+    second: selected_ninja_boobytrapper_beartrap_28
+  - first:
+      213: -5210312467396077389
+    second: selected_ninja_boobytrapper_beartrap_29
+  - first:
+      213: -7096308550859686748
+    second: selected_ninja_boobytrapper_beartrap_30
+  - first:
+      213: 2004716494738811318
+    second: selected_ninja_boobytrapper_beartrap_31
+  - first:
+      213: -5862976708013111328
+    second: selected_ninja_boobytrapper_beartrap_32
+  - first:
+      213: 6091836498797998042
+    second: selected_ninja_boobytrapper_beartrap_33
+  - first:
+      213: 4145885522747576511
+    second: selected_ninja_boobytrapper_beartrap_34
+  - first:
+      213: 1136287862339134271
+    second: selected_ninja_boobytrapper_beartrap_35
+  - first:
+      213: -4933187653625795931
+    second: selected_ninja_boobytrapper_beartrap_36
+  - first:
+      213: -6225259069973239338
+    second: selected_ninja_boobytrapper_beartrap_37
+  - first:
+      213: 4867619993421688071
+    second: selected_ninja_boobytrapper_beartrap_38
+  - first:
+      213: -2655149100487277636
+    second: selected_ninja_boobytrapper_beartrap_39
+  - first:
+      213: 3915918104567466197
+    second: selected_ninja_boobytrapper_beartrap_40
+  - first:
+      213: 7484838352170407124
+    second: selected_ninja_boobytrapper_beartrap_41
+  - first:
+      213: -3958190318805884507
+    second: selected_ninja_boobytrapper_beartrap_42
+  - first:
+      213: -1605078364462189695
+    second: selected_ninja_boobytrapper_beartrap_43
+  - first:
+      213: -4072483145634809679
+    second: selected_ninja_boobytrapper_beartrap_44
+  - first:
+      213: -3172026860053500729
+    second: selected_ninja_boobytrapper_beartrap_45
+  - first:
+      213: -2914308427351271313
+    second: selected_ninja_boobytrapper_beartrap_46
+  - first:
+      213: -5661416413546991923
+    second: selected_ninja_boobytrapper_beartrap_47
+  - first:
+      213: 8281066611476641928
+    second: selected_ninja_boobytrapper_beartrap_48
+  - first:
+      213: 459752388685457837
+    second: selected_ninja_boobytrapper_beartrap_49
+  - first:
+      213: -7618670330167401039
+    second: selected_ninja_boobytrapper_beartrap_50
+  - first:
+      213: 1149763895730911996
+    second: selected_ninja_boobytrapper_beartrap_51
+  - first:
+      213: -5193594839920231656
+    second: selected_ninja_boobytrapper_beartrap_52
+  - first:
+      213: 7028652944457925802
+    second: selected_ninja_boobytrapper_beartrap_53
+  - first:
+      213: 4987542942608789372
+    second: selected_ninja_boobytrapper_beartrap_54
+  - first:
+      213: -7303551174664662050
+    second: selected_ninja_boobytrapper_beartrap_55
+  - first:
+      213: -156679392395159707
+    second: selected_ninja_boobytrapper_beartrap_56
+  - first:
+      213: -7177475825018259251
+    second: selected_ninja_boobytrapper_beartrap_57
+  - first:
+      213: -8191628578726662700
+    second: selected_ninja_boobytrapper_beartrap_58
+  - first:
+      213: -815814414286168437
+    second: selected_ninja_boobytrapper_beartrap_59
+  - first:
+      213: 794875448197163353
+    second: selected_ninja_boobytrapper_beartrap_60
+  - first:
+      213: 8432226624363146861
+    second: selected_ninja_boobytrapper_beartrap_61
+  - first:
+      213: 7762650783609772797
+    second: selected_ninja_boobytrapper_beartrap_62
+  - first:
+      213: 5117339661610431012
+    second: selected_ninja_boobytrapper_beartrap_63
+  - first:
+      213: 2060112988718790473
+    second: selected_ninja_boobytrapper_beartrap_64
+  - first:
+      213: 3666182867758197832
+    second: selected_ninja_boobytrapper_beartrap_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 165
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2169fe17eca4ce910800000000000000
+      internalID: 1867950195987158546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 165
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5edd4457a4a87300800000000000000
+      internalID: 250130817899945563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 165
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f46ca50e60199410800000000000000
+      internalID: 1484235616922920178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5dd0cc235b42ec0800000000000000
+      internalID: -3592547372958362187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38702b4126f06f50800000000000000
+      internalID: 6872763654222149695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a3ee84495bb3d70800000000000000
+      internalID: 9024005926850280029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f9b7dfc5e0880c0800000000000000
+      internalID: -4573389629042221181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 165
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d4f02c153d35840800000000000000
+      internalID: 5211741541899390258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 165
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6658bdaa0cca870800000000000000
+      internalID: 8695536820605511358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 165
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cb63a71d0a22d30800000000000000
+      internalID: 4405260207080783005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 165
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00e3dc12eb2978f0800000000000000
+      internalID: -542354029975183349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 133
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e279107eb35d94f80800000000000000
+      internalID: -8121725999730550994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 133
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e40d86e44e088880800000000000000
+      internalID: -8608614998630136599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 133
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6291a03935b03800800000000000000
+      internalID: 590170808419193453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 133
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9068ebd815ee46370800000000000000
+      internalID: 8315032846070613513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 133
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc1af54f5124a8c0800000000000000
+      internalID: -3989026676863787843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 133
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac347e17ce586a700800000000000000
+      internalID: 551275254969222090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 133
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00109e871c92cea50800000000000000
+      internalID: 6551657468851192064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 133
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f646e6776d5bd60800000000000000
+      internalID: 7905460529360301831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 133
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28863aefea9364350800000000000000
+      internalID: 6000546977276979330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 133
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92a21d4e784f8f90800000000000000
+      internalID: -6949255992713239909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 133
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d2a2edabc908da0800000000000000
+      internalID: -5944579181723898531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 101
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31e47c3f2792b430800000000000000
+      internalID: 3797263664960299327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 101
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e2e78b71035ffa0800000000000000
+      internalID: -5767650869340393861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 101
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abb6dc8cf8868c50800000000000000
+      internalID: 6667166916644617125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 101
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2303404c7ad49c70800000000000000
+      internalID: 8977040184445174570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 101
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5839d65b36a27aa00800000000000000
+      internalID: 767628869223945093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 101
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3df85fa9b9617860800000000000000
+      internalID: 7525912698544520507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 101
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac76c006868b6340800000000000000
+      internalID: 4858124533145959595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 101
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b851149a6041b7b0800000000000000
+      internalID: -5210312467396077389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_30
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 101
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acf07988f8d48d90800000000000000
+      internalID: -7096308550859686748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_31
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 101
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9e540d70f22db10800000000000000
+      internalID: 2004716494738811318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_32
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 101
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e74d785fb582aea0800000000000000
+      internalID: -5862976708013111328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 69
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf2d9c050d8a8450800000000000000
+      internalID: 6091836498797998042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 69
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0ddc6cae4298930800000000000000
+      internalID: 4145885522747576511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_35
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 69
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33ef4d5ac7e4cf00800000000000000
+      internalID: 1136287862339134271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 69
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaaa4757fbc98bb0800000000000000
+      internalID: -4933187653625795931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 69
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d96773dbdf6b99a0800000000000000
+      internalID: -6225259069973239338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 69
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d2d7128924d8340800000000000000
+      internalID: 4867619993421688071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_39
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 69
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb302cfe5f3072bd0800000000000000
+      internalID: -2655149100487277636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_40
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 69
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8c348c4c2285630800000000000000
+      internalID: 3915918104567466197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_41
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 69
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4565e23dc7fd760800000000000000
+      internalID: 7484838352170407124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 69
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a16f2e50eea119c0800000000000000
+      internalID: -3958190318805884507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_43
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 69
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183f0994bbd99b9e0800000000000000
+      internalID: -1605078364462189695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8fbaee722ab77c0800000000000000
+      internalID: -4072483145634809679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc638c7062baf3d0800000000000000
+      internalID: -3172026860053500729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68dccd0deb4e87d0800000000000000
+      internalID: -2914308427351271313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce27f074cb9e61b0800000000000000
+      internalID: -5661416413546991923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_48
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888b96a45324ce270800000000000000
+      internalID: 8281066611476641928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 37
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9eb349c5e516600800000000000000
+      internalID: 459752388685457837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_50
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5609d33bb054690800000000000000
+      internalID: -7618670330167401039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_51
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 37
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa3c94eb28c4ff00800000000000000
+      internalID: 1149763895730911996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 37
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bb04b8205ace7b0800000000000000
+      internalID: -5193594839920231656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_53
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 37
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa40be31d9aca8160800000000000000
+      internalID: 7028652944457925802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_54
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 37
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f043491ef473540800000000000000
+      internalID: 4987542942608789372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_55
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3d93b07e294aa90800000000000000
+      internalID: -7303551174664662050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56799a83cec53ddf0800000000000000
+      internalID: -156679392395159707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc835d9d3cb746c90800000000000000
+      internalID: -7177475825018259251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd2f01753d715e80800000000000000
+      internalID: -8191628578726662700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_59
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e54d1dc15ada4f0800000000000000
+      internalID: -815814414286168437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_60
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 5
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959a87a3207f70b00800000000000000
+      internalID: 794875448197163353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_61
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ea1c26079450570800000000000000
+      internalID: 8432226624363146861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_62
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 5
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfad77862c97abb60800000000000000
+      internalID: 7762650783609772797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 5
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422be453f41740740800000000000000
+      internalID: 5117339661610431012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_64
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 5
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94770c929ddf69c10800000000000000
+      internalID: 2060112988718790473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_beartrap_65
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 5
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ca95ad4e5e0e230800000000000000
+      internalID: 3666182867758197832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

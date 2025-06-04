@@ -1,0 +1,4167 @@
+fileFormatVersion: 2
+guid: bfc4640e72f264c4fb44f5b6dd52c01e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1207992635833878370
+    second: selected_ninja_sword_0
+  - first:
+      213: 5799338440079323985
+    second: selected_ninja_sword_1
+  - first:
+      213: 2458594861062048945
+    second: selected_ninja_sword_2
+  - first:
+      213: -2968948439618691609
+    second: selected_ninja_sword_3
+  - first:
+      213: -7916484319528563293
+    second: selected_ninja_sword_4
+  - first:
+      213: -7805325272715616828
+    second: selected_ninja_sword_5
+  - first:
+      213: 1107295908736716755
+    second: selected_ninja_sword_6
+  - first:
+      213: -1856500514710699800
+    second: selected_ninja_sword_7
+  - first:
+      213: 7596005972282867721
+    second: selected_ninja_sword_8
+  - first:
+      213: 2163980520104901186
+    second: selected_ninja_sword_9
+  - first:
+      213: -6969885877133212159
+    second: selected_ninja_sword_10
+  - first:
+      213: -8779675283032212625
+    second: selected_ninja_sword_11
+  - first:
+      213: -2072183610677434260
+    second: selected_ninja_sword_12
+  - first:
+      213: -7716416851286606328
+    second: selected_ninja_sword_13
+  - first:
+      213: -2173970160475409430
+    second: selected_ninja_sword_14
+  - first:
+      213: 351921798543318727
+    second: selected_ninja_sword_15
+  - first:
+      213: -6994049667916720141
+    second: selected_ninja_sword_16
+  - first:
+      213: 786864532212463418
+    second: selected_ninja_sword_17
+  - first:
+      213: -9154406294762821647
+    second: selected_ninja_sword_18
+  - first:
+      213: 1024925505183106109
+    second: selected_ninja_sword_19
+  - first:
+      213: -7359995414777911484
+    second: selected_ninja_sword_20
+  - first:
+      213: -2921375237916687330
+    second: selected_ninja_sword_21
+  - first:
+      213: 4620678939483105049
+    second: selected_ninja_sword_22
+  - first:
+      213: -2491509459857044235
+    second: selected_ninja_sword_23
+  - first:
+      213: 2761030729325953064
+    second: selected_ninja_sword_24
+  - first:
+      213: -8839017482055318574
+    second: selected_ninja_sword_25
+  - first:
+      213: -4991880852007995406
+    second: selected_ninja_sword_26
+  - first:
+      213: 2914295101951439847
+    second: selected_ninja_sword_27
+  - first:
+      213: -8649882186290505425
+    second: selected_ninja_sword_28
+  - first:
+      213: 8699888936705396680
+    second: selected_ninja_sword_29
+  - first:
+      213: -1134141340808911977
+    second: selected_ninja_sword_30
+  - first:
+      213: 4496197965571596247
+    second: selected_ninja_sword_31
+  - first:
+      213: -4857024468878883292
+    second: selected_ninja_sword_32
+  - first:
+      213: -5184745741336800808
+    second: selected_ninja_sword_33
+  - first:
+      213: 5295564647051125192
+    second: selected_ninja_sword_34
+  - first:
+      213: 4049804786336052798
+    second: selected_ninja_sword_35
+  - first:
+      213: 3000339914228354807
+    second: selected_ninja_sword_36
+  - first:
+      213: -5366398144656336160
+    second: selected_ninja_sword_37
+  - first:
+      213: 5625543692576493210
+    second: selected_ninja_sword_38
+  - first:
+      213: -8242094012073090765
+    second: selected_ninja_sword_39
+  - first:
+      213: 61855261980571895
+    second: selected_ninja_sword_40
+  - first:
+      213: -1482837592203818335
+    second: selected_ninja_sword_41
+  - first:
+      213: 1961248541373234161
+    second: selected_ninja_sword_42
+  - first:
+      213: -5807933212432744526
+    second: selected_ninja_sword_43
+  - first:
+      213: -4380502733904289930
+    second: selected_ninja_sword_44
+  - first:
+      213: 5368150197840062279
+    second: selected_ninja_sword_45
+  - first:
+      213: -5795178653387608277
+    second: selected_ninja_sword_46
+  - first:
+      213: 7364701226269356328
+    second: selected_ninja_sword_47
+  - first:
+      213: 1298097182711364745
+    second: selected_ninja_sword_48
+  - first:
+      213: -714533824908774145
+    second: selected_ninja_sword_49
+  - first:
+      213: -4123658633608853991
+    second: selected_ninja_sword_50
+  - first:
+      213: 1460759538662700131
+    second: selected_ninja_sword_51
+  - first:
+      213: 6888703529218502781
+    second: selected_ninja_sword_52
+  - first:
+      213: 8763356843113301119
+    second: selected_ninja_sword_53
+  - first:
+      213: 868079695508026707
+    second: selected_ninja_sword_54
+  - first:
+      213: -6958279494751681640
+    second: selected_ninja_sword_55
+  - first:
+      213: -4036300531697863362
+    second: selected_ninja_sword_56
+  - first:
+      213: 5872449571634853983
+    second: selected_ninja_sword_57
+  - first:
+      213: 4033820494702177741
+    second: selected_ninja_sword_58
+  - first:
+      213: 7694278153394109958
+    second: selected_ninja_sword_59
+  - first:
+      213: -6541140707555915676
+    second: selected_ninja_sword_60
+  - first:
+      213: 9039316084857788271
+    second: selected_ninja_sword_61
+  - first:
+      213: -3960565631072287039
+    second: selected_ninja_sword_62
+  - first:
+      213: 2344854304756560455
+    second: selected_ninja_sword_63
+  - first:
+      213: -17480696089058204
+    second: selected_ninja_sword_64
+  - first:
+      213: -8104928522906022636
+    second: selected_ninja_sword_65
+  - first:
+      213: -1879931829967796246
+    second: selected_ninja_sword_66
+  - first:
+      213: -1335872952033515876
+    second: selected_ninja_sword_67
+  - first:
+      213: 656796118709118221
+    second: selected_ninja_sword_68
+  - first:
+      213: 6809375714427606597
+    second: selected_ninja_sword_69
+  - first:
+      213: 6200959662303515333
+    second: selected_ninja_sword_70
+  - first:
+      213: -8932332230482151890
+    second: selected_ninja_sword_71
+  - first:
+      213: 577949544550330208
+    second: selected_ninja_sword_72
+  - first:
+      213: -5699543305794308801
+    second: selected_ninja_sword_73
+  - first:
+      213: 8948382123460266274
+    second: selected_ninja_sword_74
+  - first:
+      213: 270537418892370559
+    second: selected_ninja_sword_75
+  - first:
+      213: -3217929001703130594
+    second: selected_ninja_sword_76
+  - first:
+      213: 74724855292544259
+    second: selected_ninja_sword_77
+  - first:
+      213: 6850030988280459599
+    second: selected_ninja_sword_78
+  - first:
+      213: 1502998449994799452
+    second: selected_ninja_sword_79
+  - first:
+      213: 797745828545456590
+    second: selected_ninja_sword_80
+  - first:
+      213: 3876857546720908897
+    second: selected_ninja_sword_81
+  - first:
+      213: -4193789396956472794
+    second: selected_ninja_sword_82
+  - first:
+      213: -8725400578442490908
+    second: selected_ninja_sword_83
+  - first:
+      213: 8475964844390676222
+    second: selected_ninja_sword_84
+  - first:
+      213: -6586813416506054029
+    second: selected_ninja_sword_85
+  - first:
+      213: 341428641139192013
+    second: selected_ninja_sword_86
+  - first:
+      213: 6589826402743453688
+    second: selected_ninja_sword_87
+  - first:
+      213: 6035405414261924646
+    second: selected_ninja_sword_88
+  - first:
+      213: -8373146535791060470
+    second: selected_ninja_sword_89
+  - first:
+      213: 1604781950080854727
+    second: selected_ninja_sword_90
+  - first:
+      213: 8518998146772038362
+    second: selected_ninja_sword_91
+  - first:
+      213: -4427612957893353698
+    second: selected_ninja_sword_92
+  - first:
+      213: -1154581386850677044
+    second: selected_ninja_sword_93
+  - first:
+      213: 3580106299065139283
+    second: selected_ninja_sword_94
+  - first:
+      213: -2941763709625003518
+    second: selected_ninja_sword_95
+  - first:
+      213: 2722586258705081345
+    second: selected_ninja_sword_96
+  - first:
+      213: 6921033687513320321
+    second: selected_ninja_sword_97
+  - first:
+      213: -4516509993032431862
+    second: selected_ninja_sword_98
+  - first:
+      213: 8524765581836999636
+    second: selected_ninja_sword_99
+  - first:
+      213: 8916309924064431797
+    second: selected_ninja_sword_100
+  - first:
+      213: -7898270595325454869
+    second: selected_ninja_sword_101
+  - first:
+      213: 2396209036368431243
+    second: selected_ninja_sword_102
+  - first:
+      213: -8635860288074385829
+    second: selected_ninja_sword_103
+  - first:
+      213: -8537329937186904464
+    second: selected_ninja_sword_104
+  - first:
+      213: 1490374271387436001
+    second: selected_ninja_sword_105
+  - first:
+      213: -5306257101251354836
+    second: selected_ninja_sword_106
+  - first:
+      213: -5346485309434225703
+    second: selected_ninja_sword_107
+  - first:
+      213: 9146706910637071257
+    second: selected_ninja_sword_108
+  - first:
+      213: -1700181858945855920
+    second: selected_ninja_sword_109
+  - first:
+      213: 1923154058658915561
+    second: selected_ninja_sword_110
+  - first:
+      213: 4352471372787749904
+    second: selected_ninja_sword_111
+  - first:
+      213: -3519481044470246673
+    second: selected_ninja_sword_112
+  - first:
+      213: -2290500200464673425
+    second: selected_ninja_sword_113
+  - first:
+      213: 2072807788355150728
+    second: selected_ninja_sword_114
+  - first:
+      213: 199919671331673675
+    second: selected_ninja_sword_115
+  - first:
+      213: -8599494855069155625
+    second: selected_ninja_sword_116
+  - first:
+      213: -1865505146384623085
+    second: selected_ninja_sword_117
+  - first:
+      213: 6822490247812304376
+    second: selected_ninja_sword_118
+  - first:
+      213: 2654955019178693017
+    second: selected_ninja_sword_119
+  - first:
+      213: 1294926546602743012
+    second: selected_ninja_sword_120
+  - first:
+      213: 5878217063843805230
+    second: selected_ninja_sword_121
+  - first:
+      213: -8874351418216714774
+    second: selected_ninja_sword_122
+  - first:
+      213: -7305991746538237649
+    second: selected_ninja_sword_123
+  - first:
+      213: 4088969446424169908
+    second: selected_ninja_sword_124
+  - first:
+      213: 5233493521528177296
+    second: selected_ninja_sword_125
+  - first:
+      213: 3450509408721868220
+    second: selected_ninja_sword_126
+  - first:
+      213: 7208637090337202578
+    second: selected_ninja_sword_127
+  - first:
+      213: -7652596222084581615
+    second: selected_ninja_sword_128
+  - first:
+      213: 5968393405398270243
+    second: selected_ninja_sword_129
+  - first:
+      213: -1347119068235291985
+    second: selected_ninja_sword_130
+  - first:
+      213: -4764440671752256261
+    second: selected_ninja_sword_131
+  - first:
+      213: -9115806309115616546
+    second: selected_ninja_sword_132
+  - first:
+      213: 409093496650147422
+    second: selected_ninja_sword_133
+  - first:
+      213: 4102561328895927361
+    second: selected_ninja_sword_134
+  - first:
+      213: -2798422719989722730
+    second: selected_ninja_sword_135
+  - first:
+      213: -509255492374336434
+    second: selected_ninja_sword_136
+  - first:
+      213: 7617250071390023981
+    second: selected_ninja_sword_137
+  - first:
+      213: 1280675453512028561
+    second: selected_ninja_sword_138
+  - first:
+      213: -3737793860572474859
+    second: selected_ninja_sword_139
+  - first:
+      213: -8475023822319093960
+    second: selected_ninja_sword_140
+  - first:
+      213: -4010260025031954138
+    second: selected_ninja_sword_141
+  - first:
+      213: 8585620998049590637
+    second: selected_ninja_sword_142
+  - first:
+      213: 2986533381160795138
+    second: selected_ninja_sword_143
+  - first:
+      213: 5502250820437585602
+    second: selected_ninja_sword_144
+  - first:
+      213: -837678848987281637
+    second: selected_ninja_sword_145
+  - first:
+      213: -7191926009767672133
+    second: selected_ninja_sword_146
+  - first:
+      213: 5659383300078440006
+    second: selected_ninja_sword_147
+  - first:
+      213: 8289862855096952338
+    second: selected_ninja_sword_148
+  - first:
+      213: -3580014310712923014
+    second: selected_ninja_sword_149
+  - first:
+      213: -7744903882577531171
+    second: selected_ninja_sword_150
+  - first:
+      213: -8051466327442961545
+    second: selected_ninja_sword_151
+  - first:
+      213: -8786113521713043398
+    second: selected_ninja_sword_152
+  - first:
+      213: 2196918997871295816
+    second: selected_ninja_sword_153
+  - first:
+      213: 136503932728984052
+    second: selected_ninja_sword_154
+  - first:
+      213: 8571252423576804031
+    second: selected_ninja_sword_155
+  - first:
+      213: -7561169027286178527
+    second: selected_ninja_sword_156
+  - first:
+      213: 635276600488862595
+    second: selected_ninja_sword_157
+  - first:
+      213: -2161005535112249367
+    second: selected_ninja_sword_158
+  - first:
+      213: 3247438776026217176
+    second: selected_ninja_sword_159
+  - first:
+      213: -8090092994909407707
+    second: selected_ninja_sword_160
+  - first:
+      213: 8469423211070809487
+    second: selected_ninja_sword_161
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: selected_ninja_sword_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 533
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9875d119195c3fe0800000000000000
+      internalID: -1207992635833878370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 533
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1533235c5936b7050800000000000000
+      internalID: 5799338440079323985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 533
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc443cfffeae1220800000000000000
+      internalID: 2458594861062048945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 533
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edd314df1d2cc6d0800000000000000
+      internalID: -2968948439618691609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 533
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adcc88647ff22290800000000000000
+      internalID: -7916484319528563293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 533
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd1863d40aeda390800000000000000
+      internalID: -7805325272715616828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 530
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfce7523c7ed5f00800000000000000
+      internalID: 1107295908736716755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 518
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0c6573e926c36e0800000000000000
+      internalID: -1856500514710699800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_8
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 518
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9008aa9bf2f6a6960800000000000000
+      internalID: 7596005972282867721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_9
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 518
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ab7b951d0080e10800000000000000
+      internalID: 2163980520104901186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_10
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 522
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106867809bdf54f90800000000000000
+      internalID: -6969885877133212159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_11
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 533
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b7697c8d3582680800000000000000
+      internalID: -8779675283032212625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_12
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 533
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c686f282cff1e33e0800000000000000
+      internalID: -2072183610677434260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_13
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 533
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e3930d1c7c9e490800000000000000
+      internalID: -7716416851286606328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_14
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 533
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3709048a184d1e0800000000000000
+      internalID: -2173970160475409430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_15
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 533
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce14eed20742e400800000000000000
+      internalID: 351921798543318727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_16
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 533
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7926212e420fe90800000000000000
+      internalID: -6994049667916720141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_17
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 533
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37b0e08f118bea00800000000000000
+      internalID: 786864532212463418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 469
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7ef0f1af305f080800000000000000
+      internalID: -9154406294762821647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 469
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d344da11154493e00800000000000000
+      internalID: 1024925505183106109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 469
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447a8a94a2b0cd990800000000000000
+      internalID: -7359995414777911484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 469
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e148a5003b03577d0800000000000000
+      internalID: -2921375237916687330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_22
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 469
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917e4099303ff1040800000000000000
+      internalID: 4620678939483105049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 469
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc02bac8516c6dd0800000000000000
+      internalID: -2491509459857044235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_24
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 466
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820496bd1d6215620800000000000000
+      internalID: 2761030729325953064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 454
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d300a26e60855580800000000000000
+      internalID: -8839017482055318574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_26
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 454
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f73dfe20d649bab0800000000000000
+      internalID: -4991880852007995406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_27
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 454
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3f97264f7a17820800000000000000
+      internalID: 2914295101951439847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_28
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 458
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29dc290bf175f780800000000000000
+      internalID: -8649882186290505425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_29
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 469
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf0da9d4e63cb870800000000000000
+      internalID: 8699888936705396680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_30
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 469
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793efff9578b240f0800000000000000
+      internalID: -1134141340808911977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_31
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 469
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df9ab15a34b56e30800000000000000
+      internalID: 4496197965571596247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_32
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 469
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426081baaf1689cb0800000000000000
+      internalID: -4857024468878883292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_33
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 469
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d196ecd7351c08b0800000000000000
+      internalID: -5184745741336800808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_34
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 469
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c169984dff9d7940800000000000000
+      internalID: 5295564647051125192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_35
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 469
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36bc331ffbc33830800000000000000
+      internalID: 4049804786336052798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 405
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fec109614953a920800000000000000
+      internalID: 3000339914228354807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 405
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea9170e159b685b0800000000000000
+      internalID: -5366398144656336160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 405
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e0678de22f11e40800000000000000
+      internalID: 5625543692576493210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 405
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331620d1a233e9d80800000000000000
+      internalID: -8242094012073090765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 405
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f837d57801cbd000800000000000000
+      internalID: 61855261980571895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 405
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa8819f017eb6be0800000000000000
+      internalID: -1482837592203818335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 402
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbfdc04821c73b10800000000000000
+      internalID: 1961248541373234161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_43
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 390
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfb0c9d383166fa0800000000000000
+      internalID: -5807933212432744526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_44
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 390
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fd100f8f35533c0800000000000000
+      internalID: -4380502733904289930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_45
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 390
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747233bc9208f7a40800000000000000
+      internalID: 5368150197840062279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_46
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 394
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fa7ea08b3639fa0800000000000000
+      internalID: -5795178653387608277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_47
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 405
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8213ba4debca43660800000000000000
+      internalID: 7364701226269356328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_48
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 405
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c32739284c30210800000000000000
+      internalID: 1298097182711364745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_49
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 405
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4bf42a5477516f0800000000000000
+      internalID: -714533824908774145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_50
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 405
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91685c02252d5c6c0800000000000000
+      internalID: -4123658633608853991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_51
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 405
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364f04c9f09a54410800000000000000
+      internalID: 1460759538662700131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_52
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 405
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d707c06ac57999f50800000000000000
+      internalID: 6888703529218502781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_53
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 405
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74c1c95e92bd9970800000000000000
+      internalID: 8763356843113301119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_54
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 341
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3553c7f32e90c0c00800000000000000
+      internalID: 868079695508026707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_55
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 341
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89301738aa93f6f90800000000000000
+      internalID: -6958279494751681640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_56
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 341
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35bd693d0e2cf7c0800000000000000
+      internalID: -4036300531697863362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_57
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 341
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58b0b695c12f7150800000000000000
+      internalID: 5872449571634853983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_58
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 341
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcde96a2e520bf730800000000000000
+      internalID: 4033820494702177741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_59
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 341
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60eba18e63197ca60800000000000000
+      internalID: 7694278153394109958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_60
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 338
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4684844de233935a0800000000000000
+      internalID: -6541140707555915676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_61
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 326
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f675c6a361a127d70800000000000000
+      internalID: 9039316084857788271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_62
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 326
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6c052ea8e3909c0800000000000000
+      internalID: -3960565631072287039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_63
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 326
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7427f0d01989a8020800000000000000
+      internalID: 2344854304756560455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_64
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 330
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4646f274665e1cff0800000000000000
+      internalID: -17480696089058204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_65
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 341
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d414e3372858f80800000000000000
+      internalID: -8104928522906022636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_66
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 341
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7c1d006f329e5e0800000000000000
+      internalID: -1879931829967796246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_67
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 341
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c966dfcb0a6067de0800000000000000
+      internalID: -1335872952033515876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_68
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 341
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05238117986d1900800000000000000
+      internalID: 656796118709118221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_69
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 341
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54611a87223cf7e50800000000000000
+      internalID: 6809375714427606597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_70
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 341
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2902275fb3e0650800000000000000
+      internalID: 6200959662303515333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_71
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 341
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26b652792bf90480800000000000000
+      internalID: -8932332230482151890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_72
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 277
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f65057c0a450800800000000000000
+      internalID: 577949544550330208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_73
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 277
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35bc249f8727e0b0800000000000000
+      internalID: -5699543305794308801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_74
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 277
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2290e47712a0f2c70800000000000000
+      internalID: 8948382123460266274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_75
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 277
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72e78f595421c300800000000000000
+      internalID: 270537418892370559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_76
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 277
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1abe0d4f9e9753d0800000000000000
+      internalID: -3217929001703130594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_77
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 277
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305ca972cd9790100800000000000000
+      internalID: 74724855292544259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_78
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 274
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41ffdc04e2301f50800000000000000
+      internalID: 6850030988280459599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_79
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 262
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5917e58029bbd410800000000000000
+      internalID: 1502998449994799452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_80
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 262
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9608bba99221b00800000000000000
+      internalID: 797745828545456590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_81
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 262
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1669715f56d5dc530800000000000000
+      internalID: 3876857546720908897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_82
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 266
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a1c9b53caacc5c0800000000000000
+      internalID: -4193789396956472794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_83
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 277
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb82fe276629e680800000000000000
+      internalID: -8725400578442490908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_84
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 277
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6fa9e4e1da0a570800000000000000
+      internalID: 8475964844390676222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_85
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 277
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a216b9810f694a0800000000000000
+      internalID: -6586813416506054029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_86
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 277
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0fe374a8ffcb400800000000000000
+      internalID: 341428641139192013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_87
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 277
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7830be234c37b50800000000000000
+      internalID: 6589826402743453688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_88
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 277
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6232d805f3112c350800000000000000
+      internalID: 6035405414261924646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_89
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 277
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a91e9a69b9ccb80800000000000000
+      internalID: -8373146535791060470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_90
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 213
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca278c5ea4554610800000000000000
+      internalID: 1604781950080854727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_91
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 213
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2fe8ccdaf893670800000000000000
+      internalID: 8518998146772038362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_92
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 213
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f99d92975fd82c0800000000000000
+      internalID: -4427612957893353698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_93
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 213
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccecc7c885a1affe0800000000000000
+      internalID: -1154581386850677044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_94
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 213
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3508ae5f5b71fa130800000000000000
+      internalID: 3580106299065139283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_95
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 213
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2029aa20e71cc27d0800000000000000
+      internalID: -2941763709625003518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_96
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 210
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104e97407c198c520800000000000000
+      internalID: 2722586258705081345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_97
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 198
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b4eb638737c0060800000000000000
+      internalID: 6921033687513320321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_98
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 198
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07ccc047122251c0800000000000000
+      internalID: -4516509993032431862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_99
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 198
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbdeda612d0e4670800000000000000
+      internalID: 8524765581836999636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_100
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 202
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be8623a2a81dbb70800000000000000
+      internalID: 8916309924064431797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_101
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 213
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be596b98db4b36290800000000000000
+      internalID: -7898270595325454869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_102
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 213
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8842544c6b014120800000000000000
+      internalID: 2396209036368431243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_103
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 213
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b567c6f92d2472880800000000000000
+      internalID: -8635860288074385829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_104
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 213
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076aaa3a7af458980800000000000000
+      internalID: -8537329937186904464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_105
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 213
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e30e64e08fdea410800000000000000
+      internalID: 1490374271387436001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_106
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 213
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fd409b7436c56b0800000000000000
+      internalID: -5306257101251354836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_107
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 213
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db145e10f77dc5b0800000000000000
+      internalID: -5346485309434225703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_108
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 149
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b12215971afee70800000000000000
+      internalID: 9146706910637071257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_109
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 149
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e08f37b9db768e0800000000000000
+      internalID: -1700181858945855920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_110
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 149
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e427b25d6a60ba10800000000000000
+      internalID: 1923154058658915561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 149
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014121637a5176c30800000000000000
+      internalID: 4352471372787749904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 149
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe251a613aa482fc0800000000000000
+      internalID: -3519481044470246673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_113
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 149
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65975904328630e0800000000000000
+      internalID: -2290500200464673425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_114
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 146
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883629883b714cc10800000000000000
+      internalID: 2072807788355150728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_115
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 134
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b465651c1e146c200800000000000000
+      internalID: 199919671331673675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_116
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 134
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7debdcbcdf478a880800000000000000
+      internalID: -8599494855069155625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_117
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 134
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ad41704f46c16e0800000000000000
+      internalID: -1865505146384623085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_118
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 138
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd4b68bbba5eae50800000000000000
+      internalID: 6822490247812304376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_119
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 149
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99159ccf58b48d420800000000000000
+      internalID: 2654955019178693017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_120
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 149
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4da7455d088f110800000000000000
+      internalID: 1294926546602743012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_121
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 149
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28bc03864f939150800000000000000
+      internalID: 5878217063843805230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_122
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 149
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed65394768f7d480800000000000000
+      internalID: -8874351418216714774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_123
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 149
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2117af1737eb9a90800000000000000
+      internalID: -7305991746538237649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_124
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 149
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdc9871c00feb830800000000000000
+      internalID: 4088969446424169908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_125
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 149
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092cefc21aa11a840800000000000000
+      internalID: 5233493521528177296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_126
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 85
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb59201960ca2ef20800000000000000
+      internalID: 3450509408721868220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_127
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 85
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291214c9d393a0460800000000000000
+      internalID: 7208637090337202578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_128
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 85
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117f62df7448cc590800000000000000
+      internalID: -7652596222084581615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_129
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 85
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3214c882e2ef3d250800000000000000
+      internalID: 5968393405398270243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_130
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 85
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa22ea348521e4de0800000000000000
+      internalID: -1347119068235291985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_131
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 85
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf488ceb37e41edb0800000000000000
+      internalID: -4764440671752256261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_132
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 82
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed226ef95762e7180800000000000000
+      internalID: -9115806309115616546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_133
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 70
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5621c32e546da500800000000000000
+      internalID: 409093496650147422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_134
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 70
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144a816dac93fe830800000000000000
+      internalID: 4102561328895927361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_135
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 70
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69151a3ec510a29d0800000000000000
+      internalID: -2798422719989722730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_136
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 74
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c6c1de3d2cee8f0800000000000000
+      internalID: -509255492374336434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_137
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 85
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21758ef498e5b960800000000000000
+      internalID: 7617250071390023981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_138
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 85
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19195272a8fd5c110800000000000000
+      internalID: 1280675453512028561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_139
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 85
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51211f89940b02cc0800000000000000
+      internalID: -3737793860572474859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_140
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 85
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83772b77cbaa26a80800000000000000
+      internalID: -8475023822319093960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_141
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 85
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621750721c1b858c0800000000000000
+      internalID: -4010260025031954138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_142
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 85
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d61e42fc0462770800000000000000
+      internalID: 8585620998049590637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_143
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 85
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c7fed694c427920800000000000000
+      internalID: 2986533381160795138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_144
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 21
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cea84118fbeb5c40800000000000000
+      internalID: 5502250820437585602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_145
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 21
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17414a6687ff54f0800000000000000
+      internalID: -837678848987281637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_146
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 21
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6c7e80665213c90800000000000000
+      internalID: -7191926009767672133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_147
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 21
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e04f0702b2a8e40800000000000000
+      internalID: 5659383300078440006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_148
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 21
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21662ca58528b0370800000000000000
+      internalID: 8289862855096952338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_149
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 21
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c242fb3fb315ec0800000000000000
+      internalID: -3580014310712923014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_150
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 18
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde2c6bf3f2948490800000000000000
+      internalID: -7744903882577531171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_151
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 6
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b4ebf9802734090800000000000000
+      internalID: -8051466327442961545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_152
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 6
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38a9068d44711680800000000000000
+      internalID: -8786113521713043398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_153
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 6
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dfc6450360d7e10800000000000000
+      internalID: 2196918997871295816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_154
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 10
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f141c48a95f4e100800000000000000
+      internalID: 136503932728984052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_155
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 21
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba5083baa433f670800000000000000
+      internalID: 8571252423576804031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_156
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 21
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125ebe994d4511790800000000000000
+      internalID: -7561169027286178527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_157
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 21
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383a14ac3b4f0d800800000000000000
+      internalID: 635276600488862595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_158
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 21
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef3bf15ae09202e0800000000000000
+      internalID: -2161005535112249367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_159
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 21
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da3fd27c58311d20800000000000000
+      internalID: 3247438776026217176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_160
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 21
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5267c86c8473abf80800000000000000
+      internalID: -8090092994909407707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_sword_161
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 21
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85e25c998f698570800000000000000
+      internalID: 8469423211070809487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

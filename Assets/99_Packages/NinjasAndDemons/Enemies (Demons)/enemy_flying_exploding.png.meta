@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 34ebefc4fa8e45e46bf064b373d8b29c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2042976656696531658
+    second: enemy_flying_exploding_0
+  - first:
+      213: -1512209763611937209
+    second: enemy_flying_exploding_1
+  - first:
+      213: 5524884870840643026
+    second: enemy_flying_exploding_2
+  - first:
+      213: 8400612474688104773
+    second: enemy_flying_exploding_3
+  - first:
+      213: -7193131380038861907
+    second: enemy_flying_exploding_4
+  - first:
+      213: -7686356729595255718
+    second: enemy_flying_exploding_5
+  - first:
+      213: -7435443727170554664
+    second: enemy_flying_exploding_6
+  - first:
+      213: 6044328645092991263
+    second: enemy_flying_exploding_7
+  - first:
+      213: -3668411233988366768
+    second: enemy_flying_exploding_8
+  - first:
+      213: 3638930957842915164
+    second: enemy_flying_exploding_9
+  - first:
+      213: 5199010782623495497
+    second: enemy_flying_exploding_10
+  - first:
+      213: 1479661448237107551
+    second: enemy_flying_exploding_11
+  - first:
+      213: -8692025067796382072
+    second: enemy_flying_exploding_12
+  - first:
+      213: 4631066012734869614
+    second: enemy_flying_exploding_13
+  - first:
+      213: -3147952705968594713
+    second: enemy_flying_exploding_14
+  - first:
+      213: -5599268094780869347
+    second: enemy_flying_exploding_15
+  - first:
+      213: -9111040513475656843
+    second: enemy_flying_exploding_16
+  - first:
+      213: -3613467790616472292
+    second: enemy_flying_exploding_17
+  - first:
+      213: 2318697413739207778
+    second: enemy_flying_exploding_18
+  - first:
+      213: 7779342586256699726
+    second: enemy_flying_exploding_19
+  - first:
+      213: -6587188085332507022
+    second: enemy_flying_exploding_20
+  - first:
+      213: 8828597385348343325
+    second: enemy_flying_exploding_21
+  - first:
+      213: -1627394622009158747
+    second: enemy_flying_exploding_22
+  - first:
+      213: -2913019598022627049
+    second: enemy_flying_exploding_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy_flying_exploding_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 45
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635203d0e83e5a3e0800000000000000
+      internalID: -2042976656696531658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 45
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74678066b3d830be0800000000000000
+      internalID: -1512209763611937209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 44
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dde26794855cac40800000000000000
+      internalID: 5524884870840643026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 46
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549ef719988f49470800000000000000
+      internalID: 8400612474688104773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 45
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab7116ee1ddc2c90800000000000000
+      internalID: -7193131380038861907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 45
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54aa8b4743945590800000000000000
+      internalID: -7686356729595255718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 38
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4b796235fffc890800000000000000
+      internalID: -7435443727170554664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 38
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f116c74e0e4c1e350800000000000000
+      internalID: 6044328645092991263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 38
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e22143b6f271dc0800000000000000
+      internalID: -3668411233988366768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 38
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f16602d64108230800000000000000
+      internalID: 3638930957842915164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 38
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945f2b1e2c8962840800000000000000
+      internalID: 5199010782623495497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 38
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5943026f30d88410800000000000000
+      internalID: 1479661448237107551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 13
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88eb43fc049bf5780800000000000000
+      internalID: -8692025067796382072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 13
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60527c800ad44040800000000000000
+      internalID: 4631066012734869614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 12
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0230741b93054d0800000000000000
+      internalID: -3147952705968594713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 14
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15786085576b42b0800000000000000
+      internalID: -5599268094780869347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 13
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5734714ece41f8180800000000000000
+      internalID: -9111040513475656843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 13
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c155dfc70326addc0800000000000000
+      internalID: -3613467790616472292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cda87430bad2020800000000000000
+      internalID: 2318697413739207778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 6
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4136ef8dd6c5fb60800000000000000
+      internalID: 7779342586256699726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 6
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2760219365b9594a0800000000000000
+      internalID: -6587188085332507022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 6
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1661aacb8a758a70800000000000000
+      internalID: 8828597385348343325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 6
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a353cda6355a69e0800000000000000
+      internalID: -1627394622009158747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_flying_exploding_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 6
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7113c140c10e297d0800000000000000
+      internalID: -2913019598022627049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

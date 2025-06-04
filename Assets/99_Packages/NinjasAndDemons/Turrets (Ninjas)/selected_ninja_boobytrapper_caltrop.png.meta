@@ -1,0 +1,1767 @@
+fileFormatVersion: 2
+guid: 272962e610140894aaa6148dda932286
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6783034652298505896
+    second: selected_ninja_boobytrapper_caltrop_0
+  - first:
+      213: 2125859574582363586
+    second: selected_ninja_boobytrapper_caltrop_1
+  - first:
+      213: 4219606562681638537
+    second: selected_ninja_boobytrapper_caltrop_2
+  - first:
+      213: 2469539310709789945
+    second: selected_ninja_boobytrapper_caltrop_3
+  - first:
+      213: -1227613560016484648
+    second: selected_ninja_boobytrapper_caltrop_4
+  - first:
+      213: 1014957520987520081
+    second: selected_ninja_boobytrapper_caltrop_5
+  - first:
+      213: 3254297637959111002
+    second: selected_ninja_boobytrapper_caltrop_6
+  - first:
+      213: -7341752698938631517
+    second: selected_ninja_boobytrapper_caltrop_7
+  - first:
+      213: -6369955184555215578
+    second: selected_ninja_boobytrapper_caltrop_8
+  - first:
+      213: 4322633643266842939
+    second: selected_ninja_boobytrapper_caltrop_9
+  - first:
+      213: 7910373645055461258
+    second: selected_ninja_boobytrapper_caltrop_10
+  - first:
+      213: -5033425984317723242
+    second: selected_ninja_boobytrapper_caltrop_11
+  - first:
+      213: -7415244721258389804
+    second: selected_ninja_boobytrapper_caltrop_12
+  - first:
+      213: -6178057854703829439
+    second: selected_ninja_boobytrapper_caltrop_13
+  - first:
+      213: -8630819632983517392
+    second: selected_ninja_boobytrapper_caltrop_14
+  - first:
+      213: 1491155539733339451
+    second: selected_ninja_boobytrapper_caltrop_15
+  - first:
+      213: 1166955420339320435
+    second: selected_ninja_boobytrapper_caltrop_16
+  - first:
+      213: -6139538513772965748
+    second: selected_ninja_boobytrapper_caltrop_17
+  - first:
+      213: 7196534149925816476
+    second: selected_ninja_boobytrapper_caltrop_18
+  - first:
+      213: 2919029786584557126
+    second: selected_ninja_boobytrapper_caltrop_19
+  - first:
+      213: -8869041966222888878
+    second: selected_ninja_boobytrapper_caltrop_20
+  - first:
+      213: 864558437184722559
+    second: selected_ninja_boobytrapper_caltrop_21
+  - first:
+      213: -7506502424620386421
+    second: selected_ninja_boobytrapper_caltrop_22
+  - first:
+      213: -8561631029471187442
+    second: selected_ninja_boobytrapper_caltrop_23
+  - first:
+      213: -1058755548554488479
+    second: selected_ninja_boobytrapper_caltrop_24
+  - first:
+      213: -6330600744663290076
+    second: selected_ninja_boobytrapper_caltrop_25
+  - first:
+      213: 1240915621554310154
+    second: selected_ninja_boobytrapper_caltrop_26
+  - first:
+      213: 1924637278111023858
+    second: selected_ninja_boobytrapper_caltrop_27
+  - first:
+      213: -8812944975680861433
+    second: selected_ninja_boobytrapper_caltrop_28
+  - first:
+      213: -1901700099794454834
+    second: selected_ninja_boobytrapper_caltrop_29
+  - first:
+      213: -2790711847617807600
+    second: selected_ninja_boobytrapper_caltrop_30
+  - first:
+      213: 8022107277654068855
+    second: selected_ninja_boobytrapper_caltrop_31
+  - first:
+      213: 5231041167159489396
+    second: selected_ninja_boobytrapper_caltrop_32
+  - first:
+      213: 1453561404684768892
+    second: selected_ninja_boobytrapper_caltrop_33
+  - first:
+      213: -3620279216592879445
+    second: selected_ninja_boobytrapper_caltrop_34
+  - first:
+      213: -9078664892971784839
+    second: selected_ninja_boobytrapper_caltrop_35
+  - first:
+      213: -871091106084934349
+    second: selected_ninja_boobytrapper_caltrop_36
+  - first:
+      213: 7270348997157019116
+    second: selected_ninja_boobytrapper_caltrop_37
+  - first:
+      213: -4165158222525348932
+    second: selected_ninja_boobytrapper_caltrop_38
+  - first:
+      213: 6970648456245840537
+    second: selected_ninja_boobytrapper_caltrop_39
+  - first:
+      213: 6419921752037664658
+    second: selected_ninja_boobytrapper_caltrop_40
+  - first:
+      213: 5664019301192668319
+    second: selected_ninja_boobytrapper_caltrop_41
+  - first:
+      213: -3192519710014522803
+    second: selected_ninja_boobytrapper_caltrop_42
+  - first:
+      213: -3753658381964134661
+    second: selected_ninja_boobytrapper_caltrop_43
+  - first:
+      213: 2730089982386701576
+    second: selected_ninja_boobytrapper_caltrop_44
+  - first:
+      213: -8624943154420399988
+    second: selected_ninja_boobytrapper_caltrop_45
+  - first:
+      213: 718259340616572690
+    second: selected_ninja_boobytrapper_caltrop_46
+  - first:
+      213: -8955382282664858813
+    second: selected_ninja_boobytrapper_caltrop_47
+  - first:
+      213: -3110676946351890033
+    second: selected_ninja_boobytrapper_caltrop_48
+  - first:
+      213: 6882047407568951912
+    second: selected_ninja_boobytrapper_caltrop_49
+  - first:
+      213: -4994556826075260757
+    second: selected_ninja_boobytrapper_caltrop_50
+  - first:
+      213: -1194601153338324854
+    second: selected_ninja_boobytrapper_caltrop_51
+  - first:
+      213: -2549416244802849779
+    second: selected_ninja_boobytrapper_caltrop_52
+  - first:
+      213: -3035791058159020278
+    second: selected_ninja_boobytrapper_caltrop_53
+  - first:
+      213: -1222403246349959119
+    second: selected_ninja_boobytrapper_caltrop_54
+  - first:
+      213: 1785986205702762070
+    second: selected_ninja_boobytrapper_caltrop_55
+  - first:
+      213: -1097230942296912712
+    second: selected_ninja_boobytrapper_caltrop_56
+  - first:
+      213: -7443460044482510964
+    second: selected_ninja_boobytrapper_caltrop_57
+  - first:
+      213: 3798186546328831774
+    second: selected_ninja_boobytrapper_caltrop_58
+  - first:
+      213: -4362148297968665538
+    second: selected_ninja_boobytrapper_caltrop_59
+  - first:
+      213: 7524085629342946178
+    second: selected_ninja_boobytrapper_caltrop_60
+  - first:
+      213: 613846044021352516
+    second: selected_ninja_boobytrapper_caltrop_61
+  - first:
+      213: 8825402838132508286
+    second: selected_ninja_boobytrapper_caltrop_62
+  - first:
+      213: 4157392333114571516
+    second: selected_ninja_boobytrapper_caltrop_63
+  - first:
+      213: 2900999610557855215
+    second: selected_ninja_boobytrapper_caltrop_64
+  - first:
+      213: -5968426870470949846
+    second: selected_ninja_boobytrapper_caltrop_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 165
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851159afbe1ddd1a0800000000000000
+      internalID: -6783034652298505896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 165
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c548511502908d10800000000000000
+      internalID: 2125859574582363586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 165
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ecb84ffcd0f8a30800000000000000
+      internalID: 4219606562681638537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f458bd3be0954220800000000000000
+      internalID: 2469539310709789945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6c3c9a8f3a6fee0800000000000000
+      internalID: -1227613560016484648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c7294ec7ad51e00800000000000000
+      internalID: 1014957520987520081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5112ffa576992d20800000000000000
+      internalID: 3254297637959111002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 165
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa5ffe81dadc1a90800000000000000
+      internalID: -7341752698938631517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 165
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625bd65528f5997a0800000000000000
+      internalID: -6369955184555215578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 165
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31a21175641dfb30800000000000000
+      internalID: 4322633643266842939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 165
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8784225bea47cd60800000000000000
+      internalID: 7910373645055461258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 133
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d65894cbda52ab0800000000000000
+      internalID: -5033425984317723242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 133
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de9dc2b632c71990800000000000000
+      internalID: -7415244721258389804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 133
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ef0982d11234aa0800000000000000
+      internalID: -6178057854703829439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 133
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037dc87954b293880800000000000000
+      internalID: -8630819632983517392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 133
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d59aa1016a1b410800000000000000
+      internalID: 1491155539733339451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 133
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376ba02a5cbd13010800000000000000
+      internalID: 1166955420339320435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 133
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c809bb9104afbcaa0800000000000000
+      internalID: -6139538513772965748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 133
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98cb443ea93fd360800000000000000
+      internalID: 7196534149925816476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 133
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646282e002a728820800000000000000
+      internalID: 2919029786584557126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 133
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250b0496255dae480800000000000000
+      internalID: -8869041966222888878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 133
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7656f761578ffb00800000000000000
+      internalID: 864558437184722559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 101
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87b4e2e0db83d790800000000000000
+      internalID: -7506502424620386421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 101
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e686ea0f9fe2980800000000000000
+      internalID: -8561631029471187442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 101
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1659f68207b8e41f0800000000000000
+      internalID: -1058755548554488479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 101
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f6587e9203528a0800000000000000
+      internalID: -6330600744663290076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 101
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c4af2ee2e983110800000000000000
+      internalID: 1240915621554310154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 101
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f24843486fa5ba10800000000000000
+      internalID: 1924637278111023858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 101
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b8a73dc3122b580800000000000000
+      internalID: -8812944975680861433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 101
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec63d6ab5ddcb95e0800000000000000
+      internalID: -1901700099794454834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_30
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 101
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b34444c566549d0800000000000000
+      internalID: -2790711847617807600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_31
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 101
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e85aae010445f60800000000000000
+      internalID: 8022107277654068855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_32
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 101
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4737cfde934689840800000000000000
+      internalID: 5231041167159489396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 69
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76147175661c2410800000000000000
+      internalID: 1453561404684768892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 69
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0804bcb3f22cdc0800000000000000
+      internalID: -3620279216592879445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_35
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 69
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9756b93716a120280800000000000000
+      internalID: -9078664892971784839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 69
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d2ec6114349e3f0800000000000000
+      internalID: -871091106084934349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 69
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced59a894e775e460800000000000000
+      internalID: 7270348997157019116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 69
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb344112aa26236c0800000000000000
+      internalID: -4165158222525348932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_39
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 69
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a88a0c6d7bcb060800000000000000
+      internalID: 6970648456245840537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_40
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 69
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297220cb1d4281950800000000000000
+      internalID: 6419921752037664658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_41
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 69
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f949b809b83aa9e40800000000000000
+      internalID: 5664019301192668319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 69
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ab62a0d34e1b3d0800000000000000
+      internalID: -3192519710014522803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_43
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 69
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf63cded69358ebc0800000000000000
+      internalID: -3753658381964134661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8050305df5a33e520800000000000000
+      internalID: 2730089982386701576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80c5d0e5eb0e4880800000000000000
+      internalID: -8624943154420399988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f9e069015c7f900800000000000000
+      internalID: 718259340616572690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b2fe5f24718b380800000000000000
+      internalID: -8955382282664858813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_48
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81e2b16cc7a4d4d0800000000000000
+      internalID: -3110676946351890033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 37
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a9b8f87a1f18f50800000000000000
+      internalID: 6882047407568951912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_50
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8184b6705cfaab0800000000000000
+      internalID: -4994556826075260757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_51
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 37
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a884ffe849ceb6fe0800000000000000
+      internalID: -1194601153338324854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 37
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d047ae7ce67ae9cd0800000000000000
+      internalID: -2549416244802849779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_53
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 37
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07df1eed14bed5d0800000000000000
+      internalID: -3035791058159020278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_54
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 37
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130c60959b6290fe0800000000000000
+      internalID: -1222403246349959119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_55
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e29a4ddf819c810800000000000000
+      internalID: 1785986205702762070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc43d7754ad5c0f0800000000000000
+      internalID: -1097230942296912712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f7ec4d68483b890800000000000000
+      internalID: -7443460044482510964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17099c4a8ed5b430800000000000000
+      internalID: 3798186546328831774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_59
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cb0021c398673c0800000000000000
+      internalID: -4362148297968665538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_60
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 5
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2839b9cf30cea6860800000000000000
+      internalID: 7524085629342946178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_61
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448eba889b1d48800800000000000000
+      internalID: 613846044021352516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_62
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 5
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76cc9e4f112a7a70800000000000000
+      internalID: 8825402838132508286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 5
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaf937dc4602b930800000000000000
+      internalID: 4157392333114571516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_64
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 5
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5f8d096cb624820800000000000000
+      internalID: 2900999610557855215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_boobytrapper_caltrop_65
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 5
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24cea52263eb2da0800000000000000
+      internalID: -5968426870470949846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

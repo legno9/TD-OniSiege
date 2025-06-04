@@ -1,0 +1,3417 @@
+fileFormatVersion: 2
+guid: fe5be311a76bd054b9f8a61faaa8f86e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3607900138321393703
+    second: tower_ninja_magic_1-0_0
+  - first:
+      213: 4547666933500397139
+    second: tower_ninja_magic_1-0_1
+  - first:
+      213: -7153319666313334242
+    second: tower_ninja_magic_1-0_2
+  - first:
+      213: 5034670379986622389
+    second: tower_ninja_magic_1-0_3
+  - first:
+      213: -4333831722531698006
+    second: tower_ninja_magic_1-0_4
+  - first:
+      213: 2880489483322561170
+    second: tower_ninja_magic_1-0_5
+  - first:
+      213: 7360945872371665103
+    second: tower_ninja_magic_1-0_6
+  - first:
+      213: -5604459470449484310
+    second: tower_ninja_magic_1-0_7
+  - first:
+      213: -5188020307001423144
+    second: tower_ninja_magic_1-0_8
+  - first:
+      213: 8296009502718947021
+    second: tower_ninja_magic_1-0_9
+  - first:
+      213: -9086572630438012447
+    second: tower_ninja_magic_1-0_10
+  - first:
+      213: -3713939417818148014
+    second: tower_ninja_magic_1-0_11
+  - first:
+      213: -3767076487663126863
+    second: tower_ninja_magic_1-0_12
+  - first:
+      213: -4975586839350601640
+    second: tower_ninja_magic_1-0_13
+  - first:
+      213: -3329148912588468027
+    second: tower_ninja_magic_1-0_14
+  - first:
+      213: -3601567043169427598
+    second: tower_ninja_magic_1-0_15
+  - first:
+      213: -264994984528011594
+    second: tower_ninja_magic_1-0_16
+  - first:
+      213: -7131149614022836503
+    second: tower_ninja_magic_1-0_17
+  - first:
+      213: -4002360432389005634
+    second: tower_ninja_magic_1-0_18
+  - first:
+      213: -7085526398526356472
+    second: tower_ninja_magic_1-0_19
+  - first:
+      213: 7350840915417443130
+    second: tower_ninja_magic_1-0_20
+  - first:
+      213: -5586446124317182968
+    second: tower_ninja_magic_1-0_21
+  - first:
+      213: -2407335618641825640
+    second: tower_ninja_magic_1-0_22
+  - first:
+      213: 6133265207665805870
+    second: tower_ninja_magic_1-0_23
+  - first:
+      213: 3081359907559534257
+    second: tower_ninja_magic_1-0_24
+  - first:
+      213: -1718971365282078228
+    second: tower_ninja_magic_1-0_25
+  - first:
+      213: -8653057479341433177
+    second: tower_ninja_magic_1-0_26
+  - first:
+      213: 2327489910994840676
+    second: tower_ninja_magic_1-0_27
+  - first:
+      213: -614613606096770804
+    second: tower_ninja_magic_1-0_28
+  - first:
+      213: 2102397252582773213
+    second: tower_ninja_magic_1-0_29
+  - first:
+      213: -9005957158748915223
+    second: tower_ninja_magic_1-0_30
+  - first:
+      213: 5238321459931596234
+    second: tower_ninja_magic_1-0_31
+  - first:
+      213: -8454002591922076397
+    second: tower_ninja_magic_1-0_32
+  - first:
+      213: 4525901881805117299
+    second: tower_ninja_magic_1-0_33
+  - first:
+      213: 3135812038099084143
+    second: tower_ninja_magic_1-0_34
+  - first:
+      213: 8486753664605310252
+    second: tower_ninja_magic_1-0_35
+  - first:
+      213: -338243458642430822
+    second: tower_ninja_magic_1-0_36
+  - first:
+      213: -4531626249143027288
+    second: tower_ninja_magic_1-0_37
+  - first:
+      213: 4936770195027152291
+    second: tower_ninja_magic_1-0_38
+  - first:
+      213: -2015369131875260800
+    second: tower_ninja_magic_1-0_39
+  - first:
+      213: -8899340846917780684
+    second: tower_ninja_magic_1-0_40
+  - first:
+      213: -8716401460227825840
+    second: tower_ninja_magic_1-0_41
+  - first:
+      213: 3548532408704776082
+    second: tower_ninja_magic_1-0_42
+  - first:
+      213: 4363688795346790464
+    second: tower_ninja_magic_1-0_43
+  - first:
+      213: 6748371523880036200
+    second: tower_ninja_magic_1-0_44
+  - first:
+      213: 2469659514526695926
+    second: tower_ninja_magic_1-0_45
+  - first:
+      213: -8633535913946596045
+    second: tower_ninja_magic_1-0_46
+  - first:
+      213: 2526275192880792694
+    second: tower_ninja_magic_1-0_47
+  - first:
+      213: 2608894594811657365
+    second: tower_ninja_magic_1-0_48
+  - first:
+      213: -118628062986792975
+    second: tower_ninja_magic_1-0_49
+  - first:
+      213: 2720090892715143509
+    second: tower_ninja_magic_1-0_50
+  - first:
+      213: -3732541376415196752
+    second: tower_ninja_magic_1-0_51
+  - first:
+      213: 2492726844855888478
+    second: tower_ninja_magic_1-0_52
+  - first:
+      213: 7670909260337472222
+    second: tower_ninja_magic_1-0_53
+  - first:
+      213: -8368860940728653254
+    second: tower_ninja_magic_1-0_54
+  - first:
+      213: 3342034576639715920
+    second: tower_ninja_magic_1-0_55
+  - first:
+      213: -9210743134696885731
+    second: tower_ninja_magic_1-0_56
+  - first:
+      213: 8815822760279207046
+    second: tower_ninja_magic_1-0_57
+  - first:
+      213: 6161042337829135563
+    second: tower_ninja_magic_1-0_58
+  - first:
+      213: -2642746964778742889
+    second: tower_ninja_magic_1-0_59
+  - first:
+      213: -5904931330475702122
+    second: tower_ninja_magic_1-0_60
+  - first:
+      213: 4288941473075129416
+    second: tower_ninja_magic_1-0_61
+  - first:
+      213: -8238969876468072386
+    second: tower_ninja_magic_1-0_62
+  - first:
+      213: 8072996898817576497
+    second: tower_ninja_magic_1-0_63
+  - first:
+      213: -4295978523796900447
+    second: tower_ninja_magic_1-0_64
+  - first:
+      213: -7943376702990775575
+    second: tower_ninja_magic_1-0_65
+  - first:
+      213: -7780524723345600109
+    second: tower_ninja_magic_1-0_66
+  - first:
+      213: 1793788427201039469
+    second: tower_ninja_magic_1-0_67
+  - first:
+      213: 8717097071365301590
+    second: tower_ninja_magic_1-0_68
+  - first:
+      213: 1047519024963031421
+    second: tower_ninja_magic_1-0_69
+  - first:
+      213: -5598611148285272911
+    second: tower_ninja_magic_1-0_70
+  - first:
+      213: -5389342646954772971
+    second: tower_ninja_magic_1-0_71
+  - first:
+      213: -3549235594063223007
+    second: tower_ninja_magic_1-0_72
+  - first:
+      213: -7239688908177790309
+    second: tower_ninja_magic_1-0_73
+  - first:
+      213: 3768408907839112201
+    second: tower_ninja_magic_1-0_74
+  - first:
+      213: 7952599922321505261
+    second: tower_ninja_magic_1-0_75
+  - first:
+      213: -5544602158696141944
+    second: tower_ninja_magic_1-0_76
+  - first:
+      213: -8996387657550995839
+    second: tower_ninja_magic_1-0_77
+  - first:
+      213: -5976965466407013801
+    second: tower_ninja_magic_1-0_78
+  - first:
+      213: 8533840782227052361
+    second: tower_ninja_magic_1-0_79
+  - first:
+      213: -9223062781392472949
+    second: tower_ninja_magic_1-0_80
+  - first:
+      213: 5461319762703038978
+    second: tower_ninja_magic_1-0_81
+  - first:
+      213: 1050603271413434873
+    second: tower_ninja_magic_1-0_82
+  - first:
+      213: 6650490510199445818
+    second: tower_ninja_magic_1-0_83
+  - first:
+      213: 5556790860593016816
+    second: tower_ninja_magic_1-0_84
+  - first:
+      213: 8593164772013191246
+    second: tower_ninja_magic_1-0_85
+  - first:
+      213: -4664557741586470140
+    second: tower_ninja_magic_1-0_86
+  - first:
+      213: 6364569090933029690
+    second: tower_ninja_magic_1-0_87
+  - first:
+      213: -3999674906548047706
+    second: tower_ninja_magic_1-0_88
+  - first:
+      213: 2953911785150699478
+    second: tower_ninja_magic_1-0_89
+  - first:
+      213: -4538391300096448996
+    second: tower_ninja_magic_1-0_90
+  - first:
+      213: 4951085080173531148
+    second: tower_ninja_magic_1-0_91
+  - first:
+      213: 5810030518139107967
+    second: tower_ninja_magic_1-0_92
+  - first:
+      213: -8741780392952223701
+    second: tower_ninja_magic_1-0_93
+  - first:
+      213: 4271591959074122507
+    second: tower_ninja_magic_1-0_94
+  - first:
+      213: 3339770871605108265
+    second: tower_ninja_magic_1-0_95
+  - first:
+      213: -4953565194080853791
+    second: tower_ninja_magic_1-0_96
+  - first:
+      213: -1156543974018456051
+    second: tower_ninja_magic_1-0_97
+  - first:
+      213: -7410633410195696483
+    second: tower_ninja_magic_1-0_98
+  - first:
+      213: 4248894760822644298
+    second: tower_ninja_magic_1-0_99
+  - first:
+      213: 6461073580617854999
+    second: tower_ninja_magic_1-0_100
+  - first:
+      213: 6022087938721174171
+    second: tower_ninja_magic_1-0_101
+  - first:
+      213: -6183546017733593908
+    second: tower_ninja_magic_1-0_102
+  - first:
+      213: 3406789533944670844
+    second: tower_ninja_magic_1-0_103
+  - first:
+      213: -7074259961880426801
+    second: tower_ninja_magic_1-0_104
+  - first:
+      213: 420504870041820158
+    second: tower_ninja_magic_1-0_105
+  - first:
+      213: 8949549729140820004
+    second: tower_ninja_magic_1-0_106
+  - first:
+      213: 9039706016696778082
+    second: tower_ninja_magic_1-0_107
+  - first:
+      213: 2670422403116376488
+    second: tower_ninja_magic_1-0_108
+  - first:
+      213: 2669541566171372094
+    second: tower_ninja_magic_1-0_109
+  - first:
+      213: -2683684359235008999
+    second: tower_ninja_magic_1-0_110
+  - first:
+      213: 1234028379693026365
+    second: tower_ninja_magic_1-0_111
+  - first:
+      213: -6538178805476810022
+    second: tower_ninja_magic_1-0_112
+  - first:
+      213: 730230829970022292
+    second: tower_ninja_magic_1-0_113
+  - first:
+      213: 4701354233033824092
+    second: tower_ninja_magic_1-0_114
+  - first:
+      213: -2081268892770823464
+    second: tower_ninja_magic_1-0_115
+  - first:
+      213: -4284123002926419798
+    second: tower_ninja_magic_1-0_116
+  - first:
+      213: 7685175746891402111
+    second: tower_ninja_magic_1-0_117
+  - first:
+      213: 7367851899443314838
+    second: tower_ninja_magic_1-0_118
+  - first:
+      213: 4501973550034141972
+    second: tower_ninja_magic_1-0_119
+  - first:
+      213: -1259690493355258553
+    second: tower_ninja_magic_1-0_120
+  - first:
+      213: 8147889715342395706
+    second: tower_ninja_magic_1-0_121
+  - first:
+      213: -2567744861565395969
+    second: tower_ninja_magic_1-0_122
+  - first:
+      213: 3924933499203456862
+    second: tower_ninja_magic_1-0_123
+  - first:
+      213: -4498062475386487730
+    second: tower_ninja_magic_1-0_124
+  - first:
+      213: 2855118555569204882
+    second: tower_ninja_magic_1-0_125
+  - first:
+      213: -7451029721915537314
+    second: tower_ninja_magic_1-0_126
+  - first:
+      213: -3300770885837494369
+    second: tower_ninja_magic_1-0_127
+  - first:
+      213: 422004317885641913
+    second: tower_ninja_magic_1-0_128
+  - first:
+      213: -5707304906313022110
+    second: tower_ninja_magic_1-0_129
+  - first:
+      213: 6649989699769033351
+    second: tower_ninja_magic_1-0_130
+  - first:
+      213: 4799904522594425476
+    second: tower_ninja_magic_1-0_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728bab17f06d11230800000000000000
+      internalID: 3607900138321393703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 164
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356c4104bfe8c1f30800000000000000
+      internalID: 4547666933500397139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 164
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12f394d9ad4abc90800000000000000
+      internalID: -7153319666313334242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b79848290ebed540800000000000000
+      internalID: 5034670379986622389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaacd2e82032bd3c0800000000000000
+      internalID: -4333831722531698006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29290b07ced89f720800000000000000
+      internalID: 2880489483322561170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8479d5545572660800000000000000
+      internalID: 7360945872371665103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedd8c92ec5f832b0800000000000000
+      internalID: -5604459470449484310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dacaa1a4037008b0800000000000000
+      internalID: -5188020307001423144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcee3d640b8512370800000000000000
+      internalID: 8296009502718947021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e994f8d55206e180800000000000000
+      internalID: -9086572630438012447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253d0abd6cf657cc0800000000000000
+      internalID: -3713939417818148014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6fc1fa4e7a8bbc0800000000000000
+      internalID: -3767076487663126863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8581663a12a23fab0800000000000000
+      internalID: -4975586839350601640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c059ccd3bc7cc1d0800000000000000
+      internalID: -3329148912588468027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fd12d2bd9a40ec0800000000000000
+      internalID: -3601567043169427598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 164
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be92ff277c825cf0800000000000000
+      internalID: -264994984528011594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_17
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 164
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee31006531190d90800000000000000
+      internalID: -7131149614022836503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_18
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 162
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebedf546462c478c0800000000000000
+      internalID: -4002360432389005634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 160
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8040f2108472bad90800000000000000
+      internalID: -7085526398526356472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_20
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 164
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b2ddbbdde630660800000000000000
+      internalID: 7350840915417443130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_21
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 164
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804773329d4f872b0800000000000000
+      internalID: -5586446124317182968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89075bb620d679ed0800000000000000
+      internalID: -2407335618641825640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 132
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ace20063cbd1550800000000000000
+      internalID: 6133265207665805870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 132
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be673b928033ca20800000000000000
+      internalID: 3081359907559534257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 132
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce12b4996acf428e0800000000000000
+      internalID: -1718971365282078228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 132
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae11d2811a2ae780800000000000000
+      internalID: -8653057479341433177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 132
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c27231eb7ec4020800000000000000
+      internalID: 2327489910994840676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 132
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09ea7e7e247877f0800000000000000
+      internalID: -614613606096770804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 132
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd114f889273d2d10800000000000000
+      internalID: 2102397252582773213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_30
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 132
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e972620ea9640380800000000000000
+      internalID: -9005957158748915223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 132
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5478e2d9142b840800000000000000
+      internalID: 5238321459931596234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_32
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 132
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315c0421f695daa80800000000000000
+      internalID: -8454002591922076397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_33
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 132
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377144148cb3fce30800000000000000
+      internalID: 4525901881805117299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_34
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 132
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f632a453f64a48b20800000000000000
+      internalID: 3135812038099084143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_35
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 132
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d4b034e7107c570800000000000000
+      internalID: 8486753664605310252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_36
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 132
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94b400dd515e4bf0800000000000000
+      internalID: -338243458642430822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_37
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 132
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a97efc9fed6c11c0800000000000000
+      internalID: -4531626249143027288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_38
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 132
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad4454165ee28440800000000000000
+      internalID: 4936770195027152291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_39
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 132
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086a943d378f704e0800000000000000
+      internalID: -2015369131875260800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_40
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 130
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b775486a03f7480800000000000000
+      internalID: -8899340846917780684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_41
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 128
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f9c6bad0f190780800000000000000
+      internalID: -8716401460227825840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_42
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 132
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2973fcebc6bee3130800000000000000
+      internalID: 3548532408704776082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_43
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 132
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0486ffce6dfee8c30800000000000000
+      internalID: 4363688795346790464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8672b35852807ad50800000000000000
+      internalID: 6748371523880036200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 100
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1078f5e3ef54220800000000000000
+      internalID: 2469659514526695926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 100
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33db2a524d48f2880800000000000000
+      internalID: -8633535913946596045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_47
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6748a8437e12f0320800000000000000
+      internalID: 2526275192880792694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_48
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 100
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c7f2cbfc7a43420800000000000000
+      internalID: 2608894594811657365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_49
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 100
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff874db76c8a5ef0800000000000000
+      internalID: -118628062986792975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_50
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 100
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551bf095144bfb520800000000000000
+      internalID: 2720090892715143509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 100
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9135dd469533cc0800000000000000
+      internalID: -3732541376415196752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_52
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 100
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a27bdbbd1f79220800000000000000
+      internalID: 2492726844855888478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_53
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 100
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed26bae745b847a60800000000000000
+      internalID: 7670909260337472222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_54
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 100
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a2a358055dbdb80800000000000000
+      internalID: -8368860940728653254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_55
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 100
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05aeea79dba416e20800000000000000
+      internalID: 3342034576639715920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_56
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 100
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12360b6beddc2080800000000000000
+      internalID: -9210743134696885731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_57
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 100
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cee3d9718185a70800000000000000
+      internalID: 8815822760279207046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_58
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 100
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4a2781d5b608550800000000000000
+      internalID: 6161042337829135563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_59
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 100
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b0f1d23a3135bd0800000000000000
+      internalID: -2642746964778742889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_60
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698cbe79d387d0ea0800000000000000
+      internalID: -5904931330475702122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_61
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 100
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c6515cb81658b30800000000000000
+      internalID: 4288941473075129416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_62
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 100
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e300afd9c8c49ad80800000000000000
+      internalID: -8238969876468072386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_63
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 98
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e0ada28eb090070800000000000000
+      internalID: 8072996898817576497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_64
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 100
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5f06e2b4e9164c0800000000000000
+      internalID: -4295978523796900447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_65
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea0f1579f473c190800000000000000
+      internalID: -7943376702990775575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39157d2bcf5060490800000000000000
+      internalID: -7780524723345600109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 68
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c46851211d4e810800000000000000
+      internalID: 1793788427201039469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_68
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 68
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655a35be99959f870800000000000000
+      internalID: 8717097071365301590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_69
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 68
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d719262d009898e00800000000000000
+      internalID: 1047519024963031421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_70
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 68
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc1ae6c2dcbd42b0800000000000000
+      internalID: -5598611148285272911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_71
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 68
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516b563aa653535b0800000000000000
+      internalID: -5389342646954772971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_72
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 68
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12760b728059ebec0800000000000000
+      internalID: -3549235594063223007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_73
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 68
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a2ab7ab45778b90800000000000000
+      internalID: -7239688908177790309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_74
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 68
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9040b209fe31c4430800000000000000
+      internalID: 3768408907839112201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_75
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 68
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debb5c2ae7f4d5e60800000000000000
+      internalID: 7952599922321505261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_76
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 68
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b6d0696bd9d03b0800000000000000
+      internalID: -5544602158696141944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_77
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 68
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ed6f12719662380800000000000000
+      internalID: -8996387657550995839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_78
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 68
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752780c539d8d0da0800000000000000
+      internalID: -5976965466407013801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_79
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 68
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947926a2afa4e6670800000000000000
+      internalID: 8533840782227052361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_80
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 68
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84b9f52449110080800000000000000
+      internalID: -9223062781392472949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_81
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 68
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a3cbc83618acb40800000000000000
+      internalID: 5461319762703038978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_82
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 68
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f90678eb1e749e00800000000000000
+      internalID: 1050603271413434873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_83
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 68
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a395b8a12e94b4c50800000000000000
+      internalID: 6650490510199445818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_84
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 68
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffa8c8b8dfad1d40800000000000000
+      internalID: 5556790860593016816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_85
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 68
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e403f34e4dd014770800000000000000
+      internalID: 8593164772013191246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_86
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 68
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ba07aa279244fb0800000000000000
+      internalID: -4664557741586470140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_87
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 68
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b7e750edd735850800000000000000
+      internalID: 6364569090933029690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 36
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0f82a1ddc4e78c0800000000000000
+      internalID: -3999674906548047706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_89
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d75fbb3e176ef820800000000000000
+      internalID: 2953911785150699478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_90
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 36
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16270278256401c0800000000000000
+      internalID: -4538391300096448996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_91
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 36
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00da7006a9c5b440800000000000000
+      internalID: 4951085080173531148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_92
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 36
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a3cdf29ff51a050800000000000000
+      internalID: 5810030518139107967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_93
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 36
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28ab9d6c05fea680800000000000000
+      internalID: -8741780392952223701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_94
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 36
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b2702414eb74b30800000000000000
+      internalID: 4271591959074122507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_95
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 36
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e1831b9ef395e20800000000000000
+      internalID: 3339770871605108265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_96
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 36
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0621b73b6614bb0800000000000000
+      internalID: -4953565194080853791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_97
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 36
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06e28d126123ffe0800000000000000
+      internalID: -1156543974018456051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_98
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 36
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94d4a83d24282990800000000000000
+      internalID: -7410633410195696483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_99
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 36
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e1adaf54b17fa30800000000000000
+      internalID: 4248894760822644298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_100
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 36
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710736870385aa950800000000000000
+      internalID: 6461073580617854999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_101
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 36
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92d3a9e211c29350800000000000000
+      internalID: 6022087938721174171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_102
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 36
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc435b0a8a1af2aa0800000000000000
+      internalID: -6183546017733593908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_103
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 36
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a6a4bf709574f20800000000000000
+      internalID: 3406789533944670844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_104
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 36
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc64953bb0e23dd90800000000000000
+      internalID: -7074259961880426801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_105
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 36
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb1a2d83fee5d500800000000000000
+      internalID: 420504870041820158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_106
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 36
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428c129df00333c70800000000000000
+      internalID: 8949549729140820004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_107
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 36
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d3c2f4abc737d70800000000000000
+      internalID: 9039706016696778082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_108
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 36
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a12ff1f60f3f0520800000000000000
+      internalID: 2670422403116376488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_109
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 36
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ad8cc19ed1c0520800000000000000
+      internalID: 2669541566171372094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91686864b43a1cad0800000000000000
+      internalID: -2683684359235008999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_111
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c8a5ee546202110800000000000000
+      internalID: 1234028379693026365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_112
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad221956409b345a0800000000000000
+      internalID: -6538178805476810022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_113
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fd668221d422a00800000000000000
+      internalID: 730230829970022292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_114
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 4
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57924f14c09e3140800000000000000
+      internalID: 4701354233033824092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_115
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2135418f8dd13e0800000000000000
+      internalID: -2081268892770823464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_116
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0bd7cb3dcbb84c0800000000000000
+      internalID: -4284123002926419798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_117
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 4
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bc8edbf9a37aa60800000000000000
+      internalID: 7685175746891402111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_118
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 4
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6908108144edf3660800000000000000
+      internalID: 7367851899443314838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_119
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4134dfd57193a7e30800000000000000
+      internalID: 4501973550034141972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_120
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 4
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d8f90ab2ea48ee0800000000000000
+      internalID: -1259690493355258553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_121
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 4
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39ca08d68e131170800000000000000
+      internalID: 8147889715342395706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_122
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 4
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb5f8427a98d5cd0800000000000000
+      internalID: -2567744861565395969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_123
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f8d0be83a287630800000000000000
+      internalID: 3924933499203456862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_124
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 4
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cf219a20ca391c0800000000000000
+      internalID: -4498062475386487730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_125
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 4
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e2450033b6f9720800000000000000
+      internalID: 2855118555569204882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_126
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 4
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58c856f1ff989890800000000000000
+      internalID: -7451029721915537314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_127
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 4
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9764b81e5e4132d0800000000000000
+      internalID: -3300770885837494369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_128
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 4
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b43145f0b24bd500800000000000000
+      internalID: 422004317885641913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_129
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 4
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2654e522d649bc0b0800000000000000
+      internalID: -5707304906313022110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_130
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 4
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7826db61662894c50800000000000000
+      internalID: 6649989699769033351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tower_ninja_magic_1-0_131
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 4
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a18097bbfac9240800000000000000
+      internalID: 4799904522594425476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

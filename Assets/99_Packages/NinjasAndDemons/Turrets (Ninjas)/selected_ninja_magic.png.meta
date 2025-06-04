@@ -1,0 +1,3417 @@
+fileFormatVersion: 2
+guid: 80ec16437ad6ea54093cb282cdec7861
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7976673728623356133
+    second: selected_ninja_magic_0
+  - first:
+      213: -8310856342640554337
+    second: selected_ninja_magic_1
+  - first:
+      213: -6401342015752444937
+    second: selected_ninja_magic_2
+  - first:
+      213: 6847229434702292808
+    second: selected_ninja_magic_3
+  - first:
+      213: 438309270629659630
+    second: selected_ninja_magic_4
+  - first:
+      213: 6285569351693909203
+    second: selected_ninja_magic_5
+  - first:
+      213: 295908804607168746
+    second: selected_ninja_magic_6
+  - first:
+      213: 95494881837034306
+    second: selected_ninja_magic_7
+  - first:
+      213: 5975275507623193324
+    second: selected_ninja_magic_8
+  - first:
+      213: -8486925478567861301
+    second: selected_ninja_magic_9
+  - first:
+      213: -7134849935564204280
+    second: selected_ninja_magic_10
+  - first:
+      213: 2148017425555110319
+    second: selected_ninja_magic_11
+  - first:
+      213: 8142293735929037776
+    second: selected_ninja_magic_12
+  - first:
+      213: 7291147465362452566
+    second: selected_ninja_magic_13
+  - first:
+      213: -7355397078928660566
+    second: selected_ninja_magic_14
+  - first:
+      213: 1984390589963962718
+    second: selected_ninja_magic_15
+  - first:
+      213: 6575171982192614013
+    second: selected_ninja_magic_16
+  - first:
+      213: 2641927098691603851
+    second: selected_ninja_magic_17
+  - first:
+      213: 2360084019906632278
+    second: selected_ninja_magic_18
+  - first:
+      213: -2551894336154664727
+    second: selected_ninja_magic_19
+  - first:
+      213: 7364280829839137
+    second: selected_ninja_magic_20
+  - first:
+      213: 2113133993741952031
+    second: selected_ninja_magic_21
+  - first:
+      213: 1306660666188591032
+    second: selected_ninja_magic_22
+  - first:
+      213: -2123686556387525157
+    second: selected_ninja_magic_23
+  - first:
+      213: 9212099907690241796
+    second: selected_ninja_magic_24
+  - first:
+      213: 5236241281611504408
+    second: selected_ninja_magic_25
+  - first:
+      213: -9124443156397979011
+    second: selected_ninja_magic_26
+  - first:
+      213: -3034477766661722574
+    second: selected_ninja_magic_27
+  - first:
+      213: 4096838927931128208
+    second: selected_ninja_magic_28
+  - first:
+      213: -7460176492681682258
+    second: selected_ninja_magic_29
+  - first:
+      213: -162188993692727610
+    second: selected_ninja_magic_30
+  - first:
+      213: -5741081508941685743
+    second: selected_ninja_magic_31
+  - first:
+      213: 4903610697404321261
+    second: selected_ninja_magic_32
+  - first:
+      213: -5626060654671550476
+    second: selected_ninja_magic_33
+  - first:
+      213: 2134060447239275945
+    second: selected_ninja_magic_34
+  - first:
+      213: 2349178974347798955
+    second: selected_ninja_magic_35
+  - first:
+      213: -1132668977744984104
+    second: selected_ninja_magic_36
+  - first:
+      213: 7984022111663425320
+    second: selected_ninja_magic_37
+  - first:
+      213: 8345427050439241603
+    second: selected_ninja_magic_38
+  - first:
+      213: 7471662987508538048
+    second: selected_ninja_magic_39
+  - first:
+      213: -8090774343333324952
+    second: selected_ninja_magic_40
+  - first:
+      213: -1917074587514369686
+    second: selected_ninja_magic_41
+  - first:
+      213: -6915385189950225490
+    second: selected_ninja_magic_42
+  - first:
+      213: -288414014354569507
+    second: selected_ninja_magic_43
+  - first:
+      213: -7866123877183079260
+    second: selected_ninja_magic_44
+  - first:
+      213: -3705668896806199958
+    second: selected_ninja_magic_45
+  - first:
+      213: 7892093883455239523
+    second: selected_ninja_magic_46
+  - first:
+      213: -1188816726428963395
+    second: selected_ninja_magic_47
+  - first:
+      213: 5645682921130975581
+    second: selected_ninja_magic_48
+  - first:
+      213: 325044934586923998
+    second: selected_ninja_magic_49
+  - first:
+      213: -3970814173209797212
+    second: selected_ninja_magic_50
+  - first:
+      213: 1858959864314897790
+    second: selected_ninja_magic_51
+  - first:
+      213: 3893249015004781302
+    second: selected_ninja_magic_52
+  - first:
+      213: 7026800764702004894
+    second: selected_ninja_magic_53
+  - first:
+      213: 6594939199846054147
+    second: selected_ninja_magic_54
+  - first:
+      213: 7775999890189995238
+    second: selected_ninja_magic_55
+  - first:
+      213: 8202471462830260315
+    second: selected_ninja_magic_56
+  - first:
+      213: -3565410742481542696
+    second: selected_ninja_magic_57
+  - first:
+      213: 3490621627059708575
+    second: selected_ninja_magic_58
+  - first:
+      213: 9169822207492369414
+    second: selected_ninja_magic_59
+  - first:
+      213: 5532904929742650008
+    second: selected_ninja_magic_60
+  - first:
+      213: 1476935363941786635
+    second: selected_ninja_magic_61
+  - first:
+      213: 403857424390444160
+    second: selected_ninja_magic_62
+  - first:
+      213: 5242064456149426945
+    second: selected_ninja_magic_63
+  - first:
+      213: -7795702857478723470
+    second: selected_ninja_magic_64
+  - first:
+      213: 7830215803530354613
+    second: selected_ninja_magic_65
+  - first:
+      213: -8787594640148883208
+    second: selected_ninja_magic_66
+  - first:
+      213: 5425701677524246541
+    second: selected_ninja_magic_67
+  - first:
+      213: -2274990064709690187
+    second: selected_ninja_magic_68
+  - first:
+      213: 3955639842081840192
+    second: selected_ninja_magic_69
+  - first:
+      213: -9061701532022980447
+    second: selected_ninja_magic_70
+  - first:
+      213: -2140013411050880495
+    second: selected_ninja_magic_71
+  - first:
+      213: -7186997839291897941
+    second: selected_ninja_magic_72
+  - first:
+      213: 1713221190485921566
+    second: selected_ninja_magic_73
+  - first:
+      213: -6206647651841910735
+    second: selected_ninja_magic_74
+  - first:
+      213: -4347722796448840082
+    second: selected_ninja_magic_75
+  - first:
+      213: 2757885471094692900
+    second: selected_ninja_magic_76
+  - first:
+      213: 5966178374686543637
+    second: selected_ninja_magic_77
+  - first:
+      213: -1529798331734788640
+    second: selected_ninja_magic_78
+  - first:
+      213: 6422542041547412017
+    second: selected_ninja_magic_79
+  - first:
+      213: -195729640059096180
+    second: selected_ninja_magic_80
+  - first:
+      213: 4465096132577987729
+    second: selected_ninja_magic_81
+  - first:
+      213: 1555228042223470189
+    second: selected_ninja_magic_82
+  - first:
+      213: 8441849328820660919
+    second: selected_ninja_magic_83
+  - first:
+      213: 6281909780197249389
+    second: selected_ninja_magic_84
+  - first:
+      213: -8005360767418853701
+    second: selected_ninja_magic_85
+  - first:
+      213: -8290157169823747737
+    second: selected_ninja_magic_86
+  - first:
+      213: -3248964379043722830
+    second: selected_ninja_magic_87
+  - first:
+      213: -6815361714300871653
+    second: selected_ninja_magic_88
+  - first:
+      213: 7799753650837845292
+    second: selected_ninja_magic_89
+  - first:
+      213: -5115985235045984260
+    second: selected_ninja_magic_90
+  - first:
+      213: 5049919656774124044
+    second: selected_ninja_magic_91
+  - first:
+      213: -6524419973295914500
+    second: selected_ninja_magic_92
+  - first:
+      213: -8856384090527483261
+    second: selected_ninja_magic_93
+  - first:
+      213: -5451502238810289460
+    second: selected_ninja_magic_94
+  - first:
+      213: 7463050279679003669
+    second: selected_ninja_magic_95
+  - first:
+      213: 4671110998294370499
+    second: selected_ninja_magic_96
+  - first:
+      213: -2208149839501378968
+    second: selected_ninja_magic_97
+  - first:
+      213: 1211995997529075776
+    second: selected_ninja_magic_98
+  - first:
+      213: -3197390085726913829
+    second: selected_ninja_magic_99
+  - first:
+      213: -5168595919345635430
+    second: selected_ninja_magic_100
+  - first:
+      213: 1194413505234421428
+    second: selected_ninja_magic_101
+  - first:
+      213: -7991826098836193475
+    second: selected_ninja_magic_102
+  - first:
+      213: 7796967243105526055
+    second: selected_ninja_magic_103
+  - first:
+      213: 7119160778484056578
+    second: selected_ninja_magic_104
+  - first:
+      213: 3201227344720840240
+    second: selected_ninja_magic_105
+  - first:
+      213: 5788642676980271548
+    second: selected_ninja_magic_106
+  - first:
+      213: 5470618284484659003
+    second: selected_ninja_magic_107
+  - first:
+      213: 434008102872402422
+    second: selected_ninja_magic_108
+  - first:
+      213: -7804677510094943826
+    second: selected_ninja_magic_109
+  - first:
+      213: 9584080762300800
+    second: selected_ninja_magic_110
+  - first:
+      213: 4088430813727061259
+    second: selected_ninja_magic_111
+  - first:
+      213: 6086106871062968071
+    second: selected_ninja_magic_112
+  - first:
+      213: -1969929775669201729
+    second: selected_ninja_magic_113
+  - first:
+      213: 8326000611524526943
+    second: selected_ninja_magic_114
+  - first:
+      213: -7621400437750545655
+    second: selected_ninja_magic_115
+  - first:
+      213: 1362352604648482338
+    second: selected_ninja_magic_116
+  - first:
+      213: 140702421875481416
+    second: selected_ninja_magic_117
+  - first:
+      213: -2438863793066279196
+    second: selected_ninja_magic_118
+  - first:
+      213: 8222352309490508900
+    second: selected_ninja_magic_119
+  - first:
+      213: 2526142811281612353
+    second: selected_ninja_magic_120
+  - first:
+      213: 5285522362507051277
+    second: selected_ninja_magic_121
+  - first:
+      213: 1031231160745736404
+    second: selected_ninja_magic_122
+  - first:
+      213: 5889071796628209848
+    second: selected_ninja_magic_123
+  - first:
+      213: -106301573083812684
+    second: selected_ninja_magic_124
+  - first:
+      213: 1646205202475408494
+    second: selected_ninja_magic_125
+  - first:
+      213: -6953042202211704143
+    second: selected_ninja_magic_126
+  - first:
+      213: -3261738822366083773
+    second: selected_ninja_magic_127
+  - first:
+      213: 7883493696252578602
+    second: selected_ninja_magic_128
+  - first:
+      213: -7268767030538135725
+    second: selected_ninja_magic_129
+  - first:
+      213: -2823176437912488320
+    second: selected_ninja_magic_130
+  - first:
+      213: 2799839847939154580
+    second: selected_ninja_magic_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: selected_ninja_magic_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 165
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e829c37e76d2be60800000000000000
+      internalID: 7976673728623356133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 165
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e8b9d6038e9ac80800000000000000
+      internalID: -8310856342640554337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 165
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3ea493a5dd927a0800000000000000
+      internalID: -6401342015752444937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847670784ee360f50800000000000000
+      internalID: 6847229434702292808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee334a995ff251600800000000000000
+      internalID: 438309270629659630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc3cc2e504da3750800000000000000
+      internalID: 6285569351693909203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae055807d774b1400800000000000000
+      internalID: 295908804607168746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ba3cdc614435100800000000000000
+      internalID: 95494881837034306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceae8f27a617ce250800000000000000
+      internalID: 5975275507623193324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc320ce2e32683a80800000000000000
+      internalID: -8486925478567861301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8071af029cbebfc90800000000000000
+      internalID: -7134849935564204280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9bf85c77a4fcd10800000000000000
+      internalID: 2148017425555110319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d340fa530d3ff070800000000000000
+      internalID: 8142293735929037776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6503be55dfb5f2560800000000000000
+      internalID: 7291147465362452566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7e288c3516ce990800000000000000
+      internalID: -7355397078928660566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 165
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e590e625ab8f98b10800000000000000
+      internalID: 1984390589963962718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_16
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a11bfb414bf3b50800000000000000
+      internalID: 6575171982192614013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_17
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 165
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dcdffd2b20aa420800000000000000
+      internalID: 2641927098691603851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_18
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 161
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a5c9e69e3b0c020800000000000000
+      internalID: 2360084019906632278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_19
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 159
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e08b2d2f99d59cd0800000000000000
+      internalID: -2551894336154664727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_20
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 165
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12783ee36c92a1000800000000000000
+      internalID: 7364280829839137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_21
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 165
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14aac3eb2c535d10800000000000000
+      internalID: 2113133993741952031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 133
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf6522f3f0322210800000000000000
+      internalID: 1306660666188591032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 133
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddbf3824562782e0800000000000000
+      internalID: -2123686556387525157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 133
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f1949ee04f7df70800000000000000
+      internalID: 9212099907690241796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 133
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b90bce3bddaa840800000000000000
+      internalID: 5236241281611504408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 133
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a87a9ea477f5180800000000000000
+      internalID: -9124443156397979011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_27
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 133
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23eae4f6c8e53e5d0800000000000000
+      internalID: -3034477766661722574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_28
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 133
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099b3598c45ead830800000000000000
+      internalID: 4096838927931128208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_29
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 133
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea22dff6101287890800000000000000
+      internalID: -7460176492681682258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 133
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6877438f9cfbdf0800000000000000
+      internalID: -162188993692727610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_31
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 133
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c97f009c49350b0800000000000000
+      internalID: -5741081508941685743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_32
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 133
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded0797e2ff1d0440800000000000000
+      internalID: 4903610697404321261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_33
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 133
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7208984a73ce1b0800000000000000
+      internalID: -5626060654671550476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_34
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 133
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a588e68ba4bd9d10800000000000000
+      internalID: 2134060447239275945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_35
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 133
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba921d7a4d5f99020800000000000000
+      internalID: 2349178974347798955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_36
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 133
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7c76dd093f740f0800000000000000
+      internalID: -1132668977744984104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_37
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 133
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82700943fc1fcce60800000000000000
+      internalID: 7984022111663425320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_38
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 133
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fed58bfa9e0d370800000000000000
+      internalID: 8345427050439241603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_39
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 133
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca51eb86eda0b760800000000000000
+      internalID: 7471662987508538048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_40
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 129
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867d5cbf99bc7bf80800000000000000
+      internalID: -8090774343333324952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_41
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 127
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69074bd1de2565e0800000000000000
+      internalID: -1917074587514369686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_42
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 133
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3050c1fcd9700a0800000000000000
+      internalID: -6915385189950225490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_43
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 133
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6c6266bf85ffbf0800000000000000
+      internalID: -288414014354569507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 101
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acb84d920ae5d290800000000000000
+      internalID: -7866123877183079260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 101
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d17a695c1d29cc0800000000000000
+      internalID: -3705668896806199958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 101
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365f169a299568d60800000000000000
+      internalID: 7892093883455239523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_47
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 101
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbda8266c79708fe0800000000000000
+      internalID: -1188816726428963395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51608464be795e40800000000000000
+      internalID: 5645682921130975581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_49
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbf71655aac28400800000000000000
+      internalID: 325044934586923998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_50
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad5eb83c85d4e8c0800000000000000
+      internalID: -3970814173209797212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_51
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75a23cb52a5cc910800000000000000
+      internalID: 1858959864314897790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_52
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fadf711a59970630800000000000000
+      internalID: 3893249015004781302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_53
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96918fd016348160800000000000000
+      internalID: 7026800764702004894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_54
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3097f12c24ee58b50800000000000000
+      internalID: 6594939199846054147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_55
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec404c73b6e9eb60800000000000000
+      internalID: 7775999890189995238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_56
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50c64e365805d170800000000000000
+      internalID: 8202471462830260315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_57
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1a600f1dd158ec0800000000000000
+      internalID: -3565410742481542696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_58
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92a03e20ed217030800000000000000
+      internalID: 3490621627059708575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_59
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c2213c6b0c14f70800000000000000
+      internalID: 9169822207492369414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_60
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 101
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a715118b3d8cc40800000000000000
+      internalID: 5532904929742650008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_61
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 101
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0466fb63e02f7410800000000000000
+      internalID: 1476935363941786635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_62
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 99
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08452b0103aca9500800000000000000
+      internalID: 403857424390444160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_63
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 97
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103ec7669dd8fb840800000000000000
+      internalID: 5242064456149426945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_64
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 101
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278ab75fd8910d390800000000000000
+      internalID: -7795702857478723470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_65
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 101
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf931c79c38aac60800000000000000
+      internalID: 7830215803530354613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 69
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f89cc3cb313c0680800000000000000
+      internalID: -8787594640148883208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 69
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00e21adde6fb4b40800000000000000
+      internalID: 5425701677524246541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_68
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 69
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc9f6de69c9d60e0800000000000000
+      internalID: -2274990064709690187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_69
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 69
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c9bae7a7145e630800000000000000
+      internalID: 3955639842081840192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_70
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 69
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a04823b77e5e3280800000000000000
+      internalID: -9061701532022980447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_71
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 69
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1128db314252d42e0800000000000000
+      internalID: -2140013411050880495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_72
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 69
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7a1832b87a24c90800000000000000
+      internalID: -7186997839291897941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_73
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 69
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fc590889596c710800000000000000
+      internalID: 1713221190485921566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_74
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 69
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13853f948de8dd9a0800000000000000
+      internalID: -6206647651841910735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_75
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 69
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e668ccfd629c9a3c0800000000000000
+      internalID: -4347722796448840082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_76
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 69
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c5fcb593af54620800000000000000
+      internalID: 2757885471094692900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_77
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 69
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f0fc12f9f1cc250800000000000000
+      internalID: 5966178374686543637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_78
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 69
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e576f2c58015cae0800000000000000
+      internalID: -1529798331734788640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_79
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 69
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132127d65f3712950800000000000000
+      internalID: 6422542041547412017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_80
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 69
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83334cede0a84df0800000000000000
+      internalID: -195729640059096180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_81
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 69
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c0846864537fd30800000000000000
+      internalID: 4465096132577987729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_82
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 69
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66c4791aa7459510800000000000000
+      internalID: 1555228042223470189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_83
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 69
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baa9bbdc39772570800000000000000
+      internalID: 8441849328820660919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_84
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 69
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6195bf79a3dd2750800000000000000
+      internalID: 6281909780197249389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_85
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 69
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb69627dbce37e090800000000000000
+      internalID: -8005360767418853701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_86
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 69
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7617f782af173fc80800000000000000
+      internalID: -8290157169823747737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_87
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 69
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9833b6c1c59e2d0800000000000000
+      internalID: -3248964379043722830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_88
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c9c4351a8fa61a0800000000000000
+      internalID: -6815361714300871653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_89
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25febdde9a4e3c60800000000000000
+      internalID: 7799753650837845292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_90
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7d0fcc88e5009b0800000000000000
+      internalID: -5115985235045984260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_91
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 37
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02c8461c2be41640800000000000000
+      internalID: 5049919656774124044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_92
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 37
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1cb362a9a9475a0800000000000000
+      internalID: -6524419973295914500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_93
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a30b1c79dc71580800000000000000
+      internalID: -8856384090527483261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_94
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca477bd89f5854b0800000000000000
+      internalID: -5451502238810289460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_95
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c852d30b4129760800000000000000
+      internalID: 7463050279679003669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_96
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 37
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c891cf44be13d040800000000000000
+      internalID: 4671110998294370499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_97
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a3fa59b631b51e0800000000000000
+      internalID: -2208149839501378968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_98
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 37
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0407ae530ffd1d010800000000000000
+      internalID: 1211995997529075776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_99
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 37
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda34e358a690a3d0800000000000000
+      internalID: -3197390085726913829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_100
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 37
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9faedf45657548b0800000000000000
+      internalID: -5168595919345635430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_101
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 37
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b64d6631c8639010800000000000000
+      internalID: 1194413505234421428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_102
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 37
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f3c207184571190800000000000000
+      internalID: -7991826098836193475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_103
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 37
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72169a2c564643c60800000000000000
+      internalID: 7796967243105526055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_104
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 37
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2028f6452075cc260800000000000000
+      internalID: 7119160778484056578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_105
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 37
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0364a572f4b0d6c20800000000000000
+      internalID: 3201227344720840240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_106
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 37
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9431d58d3655050800000000000000
+      internalID: 5788642676980271548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_107
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 37
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37077c585a8beb40800000000000000
+      internalID: 5470618284484659003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_108
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 37
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9c951f118e50600800000000000000
+      internalID: 434008102872402422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_109
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 37
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea98f40d72730b390800000000000000
+      internalID: -7804677510094943826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_110
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089e551bbac022000800000000000000
+      internalID: 9584080762300800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_111
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0576f4e9260db830800000000000000
+      internalID: 4088430813727061259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_112
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707b5c224f1367450800000000000000
+      internalID: 6086106871062968071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_113
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 5
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4b5c06e4769a4e0800000000000000
+      internalID: -1969929775669201729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_114
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 5
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53ca917175eb8370800000000000000
+      internalID: 8326000611524526943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_115
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9034fd88ea85b3690800000000000000
+      internalID: -7621400437750545655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_116
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226a6e2d97c08e210800000000000000
+      internalID: 1362352604648482338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_117
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bdce27b10e3f100800000000000000
+      internalID: 140702421875481416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_118
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 5
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eef8b64d4a672ed0800000000000000
+      internalID: -2438863793066279196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_119
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4646b419cd9ab1270800000000000000
+      internalID: 8222352309490508900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_120
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 5
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ed856b089ae0320800000000000000
+      internalID: 2526142811281612353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_121
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 5
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01cd95b592f95940800000000000000
+      internalID: 5285522362507051277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_122
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d83099e64baf4e00800000000000000
+      internalID: 1031231160745736404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_123
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 5
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0cbcee89f2ab150800000000000000
+      internalID: 5889071796628209848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_124
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc26415847568ef0800000000000000
+      internalID: -106301573083812684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_125
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 5
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c52f0e8ee78d610800000000000000
+      internalID: 1646205202475408494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_126
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 5
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b22fd4b4f4d18f90800000000000000
+      internalID: -6953042202211704143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_127
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 5
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345c4ce82d9fbb2d0800000000000000
+      internalID: -3261738822366083773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_128
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 5
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b8a2a8fbbc76d60800000000000000
+      internalID: 7883493696252578602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_129
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 5
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35714b5b5e6202b90800000000000000
+      internalID: -7268767030538135725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_130
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 5
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08639ffccff02d8d0800000000000000
+      internalID: -2823176437912488320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selected_ninja_magic_131
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 5
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492a56ce1870bd620800000000000000
+      internalID: 2799839847939154580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
