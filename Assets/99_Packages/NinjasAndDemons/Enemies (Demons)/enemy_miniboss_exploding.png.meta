@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy_miniboss_exploding_0: 5028524428077557295
+      enemy_miniboss_exploding_1: 438574575371642430
+      enemy_miniboss_exploding_10: -7604139368381264719
+      enemy_miniboss_exploding_11: -6350795522925389693
+      enemy_miniboss_exploding_12: 2388649399305430639
+      enemy_miniboss_exploding_13: 2547540978200032283
+      enemy_miniboss_exploding_14: 8699100632833081413
+      enemy_miniboss_exploding_15: -8815459484598938256
+      enemy_miniboss_exploding_16: 52271610311029010
+      enemy_miniboss_exploding_17: -2709253656673281876
+      enemy_miniboss_exploding_18: 7099446071403294115
+      enemy_miniboss_exploding_19: 5654708129743196847
+      enemy_miniboss_exploding_2: -5068634998628101515
+      enemy_miniboss_exploding_20: 2602511043103405443
+      enemy_miniboss_exploding_21: 6236938694832457920
+      enemy_miniboss_exploding_22: -2449043584140405956
+      enemy_miniboss_exploding_23: 1935144987012887697
+      enemy_miniboss_exploding_3: 4372518695897264048
+      enemy_miniboss_exploding_4: 6427418847680835486
+      enemy_miniboss_exploding_5: -6583439345478970680
+      enemy_miniboss_exploding_6: 7357744935809906785
+      enemy_miniboss_exploding_7: 5479269798156515841
+      enemy_miniboss_exploding_8: 2410280105067814538
+      enemy_miniboss_exploding_9: -8123369344704798089
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

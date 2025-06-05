@@ -232,7 +232,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -246,7 +246,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -270,7 +270,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1759,7 +1759,73 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tower_ninja_boobytrapper_3-0_0: -8612183151298078113
+      tower_ninja_boobytrapper_3-0_1: 257234164116645880
+      tower_ninja_boobytrapper_3-0_10: -4795491453553409905
+      tower_ninja_boobytrapper_3-0_11: -4728125053737585055
+      tower_ninja_boobytrapper_3-0_12: 3250721292301609803
+      tower_ninja_boobytrapper_3-0_13: -2889498289409672993
+      tower_ninja_boobytrapper_3-0_14: 5917015700414427460
+      tower_ninja_boobytrapper_3-0_15: 4529835673573340721
+      tower_ninja_boobytrapper_3-0_16: 3721026299576081472
+      tower_ninja_boobytrapper_3-0_17: 5897533475717761647
+      tower_ninja_boobytrapper_3-0_18: -5723413667324561855
+      tower_ninja_boobytrapper_3-0_19: 215613051782918617
+      tower_ninja_boobytrapper_3-0_2: 8030222302590876491
+      tower_ninja_boobytrapper_3-0_20: 6092453547851701183
+      tower_ninja_boobytrapper_3-0_21: 7428697942845333673
+      tower_ninja_boobytrapper_3-0_22: 9090190578613485885
+      tower_ninja_boobytrapper_3-0_23: -3614411181952563857
+      tower_ninja_boobytrapper_3-0_24: -2675487876111518805
+      tower_ninja_boobytrapper_3-0_25: 3237875845729434228
+      tower_ninja_boobytrapper_3-0_26: 339765812353202608
+      tower_ninja_boobytrapper_3-0_27: -3320416770984384888
+      tower_ninja_boobytrapper_3-0_28: -8907214714004803374
+      tower_ninja_boobytrapper_3-0_29: -3065728474978029908
+      tower_ninja_boobytrapper_3-0_3: -6162371136205116757
+      tower_ninja_boobytrapper_3-0_30: 5030982196221325668
+      tower_ninja_boobytrapper_3-0_31: 8608828739229175136
+      tower_ninja_boobytrapper_3-0_32: -2144137059337430530
+      tower_ninja_boobytrapper_3-0_33: -8216840623432098597
+      tower_ninja_boobytrapper_3-0_34: 3942278583792320681
+      tower_ninja_boobytrapper_3-0_35: 4324158218344470838
+      tower_ninja_boobytrapper_3-0_36: 7336143540423196155
+      tower_ninja_boobytrapper_3-0_37: -4740026623135421392
+      tower_ninja_boobytrapper_3-0_38: -8298947362741063734
+      tower_ninja_boobytrapper_3-0_39: 2134322398178454089
+      tower_ninja_boobytrapper_3-0_4: -6013204461717823431
+      tower_ninja_boobytrapper_3-0_40: -6336978514310121221
+      tower_ninja_boobytrapper_3-0_41: -8317657173887998942
+      tower_ninja_boobytrapper_3-0_42: 3604951509832348191
+      tower_ninja_boobytrapper_3-0_43: -635994771833255857
+      tower_ninja_boobytrapper_3-0_44: 2702675558888252344
+      tower_ninja_boobytrapper_3-0_45: 7012092230514469146
+      tower_ninja_boobytrapper_3-0_46: 8667702205872977992
+      tower_ninja_boobytrapper_3-0_47: -1508404292296443820
+      tower_ninja_boobytrapper_3-0_48: -4127676788558617361
+      tower_ninja_boobytrapper_3-0_49: 995240596475960544
+      tower_ninja_boobytrapper_3-0_5: -1569702250605943059
+      tower_ninja_boobytrapper_3-0_50: 6688831544338508917
+      tower_ninja_boobytrapper_3-0_51: -6733796359227596264
+      tower_ninja_boobytrapper_3-0_52: 2544884761198490438
+      tower_ninja_boobytrapper_3-0_53: -422437427310402865
+      tower_ninja_boobytrapper_3-0_54: 2869931511377104700
+      tower_ninja_boobytrapper_3-0_55: 7323974434869125081
+      tower_ninja_boobytrapper_3-0_56: -7351501543490714817
+      tower_ninja_boobytrapper_3-0_57: -6585641950801582190
+      tower_ninja_boobytrapper_3-0_58: -2168451646591700664
+      tower_ninja_boobytrapper_3-0_59: -4935372032966648724
+      tower_ninja_boobytrapper_3-0_6: 3903477317493235236
+      tower_ninja_boobytrapper_3-0_60: -7481175663098293035
+      tower_ninja_boobytrapper_3-0_61: 5149008366131127025
+      tower_ninja_boobytrapper_3-0_62: 5913072738559862590
+      tower_ninja_boobytrapper_3-0_63: 6901477004305359420
+      tower_ninja_boobytrapper_3-0_64: 8521418489904631845
+      tower_ninja_boobytrapper_3-0_65: -2344660991580987362
+      tower_ninja_boobytrapper_3-0_7: -649425125458337448
+      tower_ninja_boobytrapper_3-0_8: -8986118598403196770
+      tower_ninja_boobytrapper_3-0_9: 90045597407681821
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

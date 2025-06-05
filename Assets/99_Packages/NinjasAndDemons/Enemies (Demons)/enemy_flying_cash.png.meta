@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy_flying_cash_0: -16781724578345531
+      enemy_flying_cash_1: 8603454672303188894
+      enemy_flying_cash_10: -4041766965236792621
+      enemy_flying_cash_11: 5451724316090865213
+      enemy_flying_cash_12: 2487351919387559811
+      enemy_flying_cash_13: 7156252464481767621
+      enemy_flying_cash_14: 5931403602256534620
+      enemy_flying_cash_15: -5884001797374342136
+      enemy_flying_cash_16: 4250941183898846792
+      enemy_flying_cash_17: -1788742884142479249
+      enemy_flying_cash_18: -7194844506801618728
+      enemy_flying_cash_19: -4056196907430776421
+      enemy_flying_cash_2: -2617079871636095313
+      enemy_flying_cash_20: -1468926358215806958
+      enemy_flying_cash_21: -2052008229874294507
+      enemy_flying_cash_22: -6701980596135426121
+      enemy_flying_cash_23: -8784911277800550610
+      enemy_flying_cash_3: -6957108394455920487
+      enemy_flying_cash_4: 2873491752846829225
+      enemy_flying_cash_5: 588986456199443322
+      enemy_flying_cash_6: 1892813398127611650
+      enemy_flying_cash_7: -6889852869366558251
+      enemy_flying_cash_8: -7298662447750596103
+      enemy_flying_cash_9: -9012187296854138141
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

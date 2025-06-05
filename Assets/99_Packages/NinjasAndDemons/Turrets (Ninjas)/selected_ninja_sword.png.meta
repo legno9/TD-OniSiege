@@ -520,7 +520,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -534,7 +534,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -558,7 +558,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -4159,7 +4159,169 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      selected_ninja_sword_0: -1207992635833878370
+      selected_ninja_sword_1: 5799338440079323985
+      selected_ninja_sword_10: -6969885877133212159
+      selected_ninja_sword_100: 8916309924064431797
+      selected_ninja_sword_101: -7898270595325454869
+      selected_ninja_sword_102: 2396209036368431243
+      selected_ninja_sword_103: -8635860288074385829
+      selected_ninja_sword_104: -8537329937186904464
+      selected_ninja_sword_105: 1490374271387436001
+      selected_ninja_sword_106: -5306257101251354836
+      selected_ninja_sword_107: -5346485309434225703
+      selected_ninja_sword_108: 9146706910637071257
+      selected_ninja_sword_109: -1700181858945855920
+      selected_ninja_sword_11: -8779675283032212625
+      selected_ninja_sword_110: 1923154058658915561
+      selected_ninja_sword_111: 4352471372787749904
+      selected_ninja_sword_112: -3519481044470246673
+      selected_ninja_sword_113: -2290500200464673425
+      selected_ninja_sword_114: 2072807788355150728
+      selected_ninja_sword_115: 199919671331673675
+      selected_ninja_sword_116: -8599494855069155625
+      selected_ninja_sword_117: -1865505146384623085
+      selected_ninja_sword_118: 6822490247812304376
+      selected_ninja_sword_119: 2654955019178693017
+      selected_ninja_sword_12: -2072183610677434260
+      selected_ninja_sword_120: 1294926546602743012
+      selected_ninja_sword_121: 5878217063843805230
+      selected_ninja_sword_122: -8874351418216714774
+      selected_ninja_sword_123: -7305991746538237649
+      selected_ninja_sword_124: 4088969446424169908
+      selected_ninja_sword_125: 5233493521528177296
+      selected_ninja_sword_126: 3450509408721868220
+      selected_ninja_sword_127: 7208637090337202578
+      selected_ninja_sword_128: -7652596222084581615
+      selected_ninja_sword_129: 5968393405398270243
+      selected_ninja_sword_13: -7716416851286606328
+      selected_ninja_sword_130: -1347119068235291985
+      selected_ninja_sword_131: -4764440671752256261
+      selected_ninja_sword_132: -9115806309115616546
+      selected_ninja_sword_133: 409093496650147422
+      selected_ninja_sword_134: 4102561328895927361
+      selected_ninja_sword_135: -2798422719989722730
+      selected_ninja_sword_136: -509255492374336434
+      selected_ninja_sword_137: 7617250071390023981
+      selected_ninja_sword_138: 1280675453512028561
+      selected_ninja_sword_139: -3737793860572474859
+      selected_ninja_sword_14: -2173970160475409430
+      selected_ninja_sword_140: -8475023822319093960
+      selected_ninja_sword_141: -4010260025031954138
+      selected_ninja_sword_142: 8585620998049590637
+      selected_ninja_sword_143: 2986533381160795138
+      selected_ninja_sword_144: 5502250820437585602
+      selected_ninja_sword_145: -837678848987281637
+      selected_ninja_sword_146: -7191926009767672133
+      selected_ninja_sword_147: 5659383300078440006
+      selected_ninja_sword_148: 8289862855096952338
+      selected_ninja_sword_149: -3580014310712923014
+      selected_ninja_sword_15: 351921798543318727
+      selected_ninja_sword_150: -7744903882577531171
+      selected_ninja_sword_151: -8051466327442961545
+      selected_ninja_sword_152: -8786113521713043398
+      selected_ninja_sword_153: 2196918997871295816
+      selected_ninja_sword_154: 136503932728984052
+      selected_ninja_sword_155: 8571252423576804031
+      selected_ninja_sword_156: -7561169027286178527
+      selected_ninja_sword_157: 635276600488862595
+      selected_ninja_sword_158: -2161005535112249367
+      selected_ninja_sword_159: 3247438776026217176
+      selected_ninja_sword_16: -6994049667916720141
+      selected_ninja_sword_160: -8090092994909407707
+      selected_ninja_sword_161: 8469423211070809487
+      selected_ninja_sword_17: 786864532212463418
+      selected_ninja_sword_18: -9154406294762821647
+      selected_ninja_sword_19: 1024925505183106109
+      selected_ninja_sword_2: 2458594861062048945
+      selected_ninja_sword_20: -7359995414777911484
+      selected_ninja_sword_21: -2921375237916687330
+      selected_ninja_sword_22: 4620678939483105049
+      selected_ninja_sword_23: -2491509459857044235
+      selected_ninja_sword_24: 2761030729325953064
+      selected_ninja_sword_25: -8839017482055318574
+      selected_ninja_sword_26: -4991880852007995406
+      selected_ninja_sword_27: 2914295101951439847
+      selected_ninja_sword_28: -8649882186290505425
+      selected_ninja_sword_29: 8699888936705396680
+      selected_ninja_sword_3: -2968948439618691609
+      selected_ninja_sword_30: -1134141340808911977
+      selected_ninja_sword_31: 4496197965571596247
+      selected_ninja_sword_32: -4857024468878883292
+      selected_ninja_sword_33: -5184745741336800808
+      selected_ninja_sword_34: 5295564647051125192
+      selected_ninja_sword_35: 4049804786336052798
+      selected_ninja_sword_36: 3000339914228354807
+      selected_ninja_sword_37: -5366398144656336160
+      selected_ninja_sword_38: 5625543692576493210
+      selected_ninja_sword_39: -8242094012073090765
+      selected_ninja_sword_4: -7916484319528563293
+      selected_ninja_sword_40: 61855261980571895
+      selected_ninja_sword_41: -1482837592203818335
+      selected_ninja_sword_42: 1961248541373234161
+      selected_ninja_sword_43: -5807933212432744526
+      selected_ninja_sword_44: -4380502733904289930
+      selected_ninja_sword_45: 5368150197840062279
+      selected_ninja_sword_46: -5795178653387608277
+      selected_ninja_sword_47: 7364701226269356328
+      selected_ninja_sword_48: 1298097182711364745
+      selected_ninja_sword_49: -714533824908774145
+      selected_ninja_sword_5: -7805325272715616828
+      selected_ninja_sword_50: -4123658633608853991
+      selected_ninja_sword_51: 1460759538662700131
+      selected_ninja_sword_52: 6888703529218502781
+      selected_ninja_sword_53: 8763356843113301119
+      selected_ninja_sword_54: 868079695508026707
+      selected_ninja_sword_55: -6958279494751681640
+      selected_ninja_sword_56: -4036300531697863362
+      selected_ninja_sword_57: 5872449571634853983
+      selected_ninja_sword_58: 4033820494702177741
+      selected_ninja_sword_59: 7694278153394109958
+      selected_ninja_sword_6: 1107295908736716755
+      selected_ninja_sword_60: -6541140707555915676
+      selected_ninja_sword_61: 9039316084857788271
+      selected_ninja_sword_62: -3960565631072287039
+      selected_ninja_sword_63: 2344854304756560455
+      selected_ninja_sword_64: -17480696089058204
+      selected_ninja_sword_65: -8104928522906022636
+      selected_ninja_sword_66: -1879931829967796246
+      selected_ninja_sword_67: -1335872952033515876
+      selected_ninja_sword_68: 656796118709118221
+      selected_ninja_sword_69: 6809375714427606597
+      selected_ninja_sword_7: -1856500514710699800
+      selected_ninja_sword_70: 6200959662303515333
+      selected_ninja_sword_71: -8932332230482151890
+      selected_ninja_sword_72: 577949544550330208
+      selected_ninja_sword_73: -5699543305794308801
+      selected_ninja_sword_74: 8948382123460266274
+      selected_ninja_sword_75: 270537418892370559
+      selected_ninja_sword_76: -3217929001703130594
+      selected_ninja_sword_77: 74724855292544259
+      selected_ninja_sword_78: 6850030988280459599
+      selected_ninja_sword_79: 1502998449994799452
+      selected_ninja_sword_8: 7596005972282867721
+      selected_ninja_sword_80: 797745828545456590
+      selected_ninja_sword_81: 3876857546720908897
+      selected_ninja_sword_82: -4193789396956472794
+      selected_ninja_sword_83: -8725400578442490908
+      selected_ninja_sword_84: 8475964844390676222
+      selected_ninja_sword_85: -6586813416506054029
+      selected_ninja_sword_86: 341428641139192013
+      selected_ninja_sword_87: 6589826402743453688
+      selected_ninja_sword_88: 6035405414261924646
+      selected_ninja_sword_89: -8373146535791060470
+      selected_ninja_sword_9: 2163980520104901186
+      selected_ninja_sword_90: 1604781950080854727
+      selected_ninja_sword_91: 8518998146772038362
+      selected_ninja_sword_92: -4427612957893353698
+      selected_ninja_sword_93: -1154581386850677044
+      selected_ninja_sword_94: 3580106299065139283
+      selected_ninja_sword_95: -2941763709625003518
+      selected_ninja_sword_96: 2722586258705081345
+      selected_ninja_sword_97: 6921033687513320321
+      selected_ninja_sword_98: -4516509993032431862
+      selected_ninja_sword_99: 8524765581836999636
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

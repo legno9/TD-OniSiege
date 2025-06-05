@@ -232,7 +232,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -246,7 +246,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -270,7 +270,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1759,7 +1759,73 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      selected_ninja_boobytrapper_beartrap_0: 1867950195987158546
+      selected_ninja_boobytrapper_beartrap_1: 250130817899945563
+      selected_ninja_boobytrapper_beartrap_10: -542354029975183349
+      selected_ninja_boobytrapper_beartrap_11: -8121725999730550994
+      selected_ninja_boobytrapper_beartrap_12: -8608614998630136599
+      selected_ninja_boobytrapper_beartrap_13: 590170808419193453
+      selected_ninja_boobytrapper_beartrap_14: 8315032846070613513
+      selected_ninja_boobytrapper_beartrap_15: -3989026676863787843
+      selected_ninja_boobytrapper_beartrap_16: 551275254969222090
+      selected_ninja_boobytrapper_beartrap_17: 6551657468851192064
+      selected_ninja_boobytrapper_beartrap_18: 7905460529360301831
+      selected_ninja_boobytrapper_beartrap_19: 6000546977276979330
+      selected_ninja_boobytrapper_beartrap_2: 1484235616922920178
+      selected_ninja_boobytrapper_beartrap_20: -6949255992713239909
+      selected_ninja_boobytrapper_beartrap_21: -5944579181723898531
+      selected_ninja_boobytrapper_beartrap_22: 3797263664960299327
+      selected_ninja_boobytrapper_beartrap_23: -5767650869340393861
+      selected_ninja_boobytrapper_beartrap_24: 6667166916644617125
+      selected_ninja_boobytrapper_beartrap_25: 8977040184445174570
+      selected_ninja_boobytrapper_beartrap_26: 767628869223945093
+      selected_ninja_boobytrapper_beartrap_27: 7525912698544520507
+      selected_ninja_boobytrapper_beartrap_28: 4858124533145959595
+      selected_ninja_boobytrapper_beartrap_29: -5210312467396077389
+      selected_ninja_boobytrapper_beartrap_3: -3592547372958362187
+      selected_ninja_boobytrapper_beartrap_30: -7096308550859686748
+      selected_ninja_boobytrapper_beartrap_31: 2004716494738811318
+      selected_ninja_boobytrapper_beartrap_32: -5862976708013111328
+      selected_ninja_boobytrapper_beartrap_33: 6091836498797998042
+      selected_ninja_boobytrapper_beartrap_34: 4145885522747576511
+      selected_ninja_boobytrapper_beartrap_35: 1136287862339134271
+      selected_ninja_boobytrapper_beartrap_36: -4933187653625795931
+      selected_ninja_boobytrapper_beartrap_37: -6225259069973239338
+      selected_ninja_boobytrapper_beartrap_38: 4867619993421688071
+      selected_ninja_boobytrapper_beartrap_39: -2655149100487277636
+      selected_ninja_boobytrapper_beartrap_4: 6872763654222149695
+      selected_ninja_boobytrapper_beartrap_40: 3915918104567466197
+      selected_ninja_boobytrapper_beartrap_41: 7484838352170407124
+      selected_ninja_boobytrapper_beartrap_42: -3958190318805884507
+      selected_ninja_boobytrapper_beartrap_43: -1605078364462189695
+      selected_ninja_boobytrapper_beartrap_44: -4072483145634809679
+      selected_ninja_boobytrapper_beartrap_45: -3172026860053500729
+      selected_ninja_boobytrapper_beartrap_46: -2914308427351271313
+      selected_ninja_boobytrapper_beartrap_47: -5661416413546991923
+      selected_ninja_boobytrapper_beartrap_48: 8281066611476641928
+      selected_ninja_boobytrapper_beartrap_49: 459752388685457837
+      selected_ninja_boobytrapper_beartrap_5: 9024005926850280029
+      selected_ninja_boobytrapper_beartrap_50: -7618670330167401039
+      selected_ninja_boobytrapper_beartrap_51: 1149763895730911996
+      selected_ninja_boobytrapper_beartrap_52: -5193594839920231656
+      selected_ninja_boobytrapper_beartrap_53: 7028652944457925802
+      selected_ninja_boobytrapper_beartrap_54: 4987542942608789372
+      selected_ninja_boobytrapper_beartrap_55: -7303551174664662050
+      selected_ninja_boobytrapper_beartrap_56: -156679392395159707
+      selected_ninja_boobytrapper_beartrap_57: -7177475825018259251
+      selected_ninja_boobytrapper_beartrap_58: -8191628578726662700
+      selected_ninja_boobytrapper_beartrap_59: -815814414286168437
+      selected_ninja_boobytrapper_beartrap_6: -4573389629042221181
+      selected_ninja_boobytrapper_beartrap_60: 794875448197163353
+      selected_ninja_boobytrapper_beartrap_61: 8432226624363146861
+      selected_ninja_boobytrapper_beartrap_62: 7762650783609772797
+      selected_ninja_boobytrapper_beartrap_63: 5117339661610431012
+      selected_ninja_boobytrapper_beartrap_64: 2060112988718790473
+      selected_ninja_boobytrapper_beartrap_65: 3666182867758197832
+      selected_ninja_boobytrapper_beartrap_7: 5211741541899390258
+      selected_ninja_boobytrapper_beartrap_8: 8695536820605511358
+      selected_ninja_boobytrapper_beartrap_9: 4405260207080783005
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

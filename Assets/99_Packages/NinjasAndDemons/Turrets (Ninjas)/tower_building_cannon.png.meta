@@ -493,7 +493,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -507,7 +507,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -531,7 +531,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -3934,7 +3934,160 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tower_building_cannon_0: 2684851128615545916
+      tower_building_cannon_1: -2085431893309146941
+      tower_building_cannon_10: -3355445944142724668
+      tower_building_cannon_100: -5448893551068584232
+      tower_building_cannon_101: 973813770636492077
+      tower_building_cannon_102: 2353916879524495658
+      tower_building_cannon_103: -2647838735925868483
+      tower_building_cannon_104: 123328691450296230
+      tower_building_cannon_105: 7984211969407791920
+      tower_building_cannon_106: -5478533494963775179
+      tower_building_cannon_107: 7248025902244958217
+      tower_building_cannon_108: 1758782476262127094
+      tower_building_cannon_109: 3476626985443352255
+      tower_building_cannon_11: -3379160941885471462
+      tower_building_cannon_110: -5321106161413251935
+      tower_building_cannon_111: 915970300622204034
+      tower_building_cannon_112: -3179071859686879853
+      tower_building_cannon_113: -813275582719905345
+      tower_building_cannon_114: -8777070593317433572
+      tower_building_cannon_115: -2050721621820556273
+      tower_building_cannon_116: 5373116978258491026
+      tower_building_cannon_117: -6396389806590247954
+      tower_building_cannon_118: -1561775198985338471
+      tower_building_cannon_119: 7660748169534453534
+      tower_building_cannon_12: 7581164611027872426
+      tower_building_cannon_120: -5038078276148903795
+      tower_building_cannon_121: 7381907367889989189
+      tower_building_cannon_122: 2258205659252923479
+      tower_building_cannon_123: -1634918886258390647
+      tower_building_cannon_124: -2389424415433064105
+      tower_building_cannon_125: -2296945527543101242
+      tower_building_cannon_126: 8118337565275306280
+      tower_building_cannon_127: -5871193141096776313
+      tower_building_cannon_128: -4775935741969231396
+      tower_building_cannon_129: -5712282227728246222
+      tower_building_cannon_13: 1058731082109688408
+      tower_building_cannon_130: -4435796294293509914
+      tower_building_cannon_131: -3364775620935994904
+      tower_building_cannon_132: -886303412250759161
+      tower_building_cannon_133: 2826701465827021408
+      tower_building_cannon_134: -6667994073954956181
+      tower_building_cannon_135: 6857721229920377
+      tower_building_cannon_136: 7539797348572228087
+      tower_building_cannon_137: -1947696822899365394
+      tower_building_cannon_138: -8078134758106774150
+      tower_building_cannon_139: 4223371822680455835
+      tower_building_cannon_14: -4085990086018076194
+      tower_building_cannon_140: 3386347396929031244
+      tower_building_cannon_141: -5357692634401151635
+      tower_building_cannon_142: -5846468152124646776
+      tower_building_cannon_143: 7786574965990907837
+      tower_building_cannon_144: -6969289382649645699
+      tower_building_cannon_145: -4668938472911300023
+      tower_building_cannon_146: -312765929374922321
+      tower_building_cannon_147: 6017310371098678364
+      tower_building_cannon_148: -8874144648550662767
+      tower_building_cannon_149: -6141128131900870522
+      tower_building_cannon_15: -878985437680094764
+      tower_building_cannon_150: -8581439043551965794
+      tower_building_cannon_151: 1032430298818054043
+      tower_building_cannon_152: -470662015959211021
+      tower_building_cannon_16: -5159648285279848184
+      tower_building_cannon_17: -2486826322193420495
+      tower_building_cannon_18: -8228428689153220794
+      tower_building_cannon_19: -8992415068536259377
+      tower_building_cannon_2: -2106724763365594230
+      tower_building_cannon_20: 8576755892133453469
+      tower_building_cannon_21: -7440976502259695605
+      tower_building_cannon_22: -7494641564808583862
+      tower_building_cannon_23: -285474723337019527
+      tower_building_cannon_24: -6828854538826111817
+      tower_building_cannon_25: 3280162924268581729
+      tower_building_cannon_26: 8455663281119001797
+      tower_building_cannon_27: 5496843411315437784
+      tower_building_cannon_28: -5752252688630937669
+      tower_building_cannon_29: -3491086814215843931
+      tower_building_cannon_3: -3638915910879748274
+      tower_building_cannon_30: 4423871559069944103
+      tower_building_cannon_31: 2800922613152492663
+      tower_building_cannon_32: 3203651623203683006
+      tower_building_cannon_33: -4206912102549354614
+      tower_building_cannon_34: 7947471889967975154
+      tower_building_cannon_35: 8059739617953753878
+      tower_building_cannon_36: 2060170529876990446
+      tower_building_cannon_37: 648574737305245991
+      tower_building_cannon_38: 3644245604127928738
+      tower_building_cannon_39: 1124144844477375605
+      tower_building_cannon_4: -7848118996713260654
+      tower_building_cannon_40: 2397048547109738982
+      tower_building_cannon_41: -5701124896004409025
+      tower_building_cannon_42: -7663624725033262295
+      tower_building_cannon_43: 4391114302716562733
+      tower_building_cannon_44: 4872543912899082951
+      tower_building_cannon_45: -5371511077836222172
+      tower_building_cannon_46: 4511433207704161230
+      tower_building_cannon_47: -2969077460447090698
+      tower_building_cannon_48: 1522584943017542908
+      tower_building_cannon_49: -4795726401538830825
+      tower_building_cannon_5: -929988090713562025
+      tower_building_cannon_50: 2067779899179750610
+      tower_building_cannon_51: -3957615830751399781
+      tower_building_cannon_52: -985850511802669405
+      tower_building_cannon_53: 3807680389765919452
+      tower_building_cannon_54: -8836527422585588424
+      tower_building_cannon_55: -3594318455635258132
+      tower_building_cannon_56: -9085035113132944133
+      tower_building_cannon_57: -6126968685568051746
+      tower_building_cannon_58: 1160550360080698939
+      tower_building_cannon_59: 731157838998590008
+      tower_building_cannon_6: 2586768831463980173
+      tower_building_cannon_60: 6578006024428407680
+      tower_building_cannon_61: 3580893980662949256
+      tower_building_cannon_62: -7463438713120466585
+      tower_building_cannon_63: -9147889562021585647
+      tower_building_cannon_64: 1745330585368212768
+      tower_building_cannon_65: -5008415108459259874
+      tower_building_cannon_66: -9174845665366042370
+      tower_building_cannon_67: -4991126995569565151
+      tower_building_cannon_68: 4570903037240801406
+      tower_building_cannon_69: -8886629768439474647
+      tower_building_cannon_7: -2470150311797048405
+      tower_building_cannon_70: -5167871847046490932
+      tower_building_cannon_71: -348447583942981638
+      tower_building_cannon_72: -3266696273827761256
+      tower_building_cannon_73: -4572129571914119490
+      tower_building_cannon_74: 2675849644490786722
+      tower_building_cannon_75: -2082394312215981345
+      tower_building_cannon_76: 8337105252265736347
+      tower_building_cannon_77: -3649077100545910420
+      tower_building_cannon_78: -4954597579492700757
+      tower_building_cannon_79: 7460644950781518301
+      tower_building_cannon_8: -5557380592856927462
+      tower_building_cannon_80: 333295323309724419
+      tower_building_cannon_81: 6188880636530620874
+      tower_building_cannon_82: 8157705302695815765
+      tower_building_cannon_83: -3492534003989460131
+      tower_building_cannon_84: -5958972323008592666
+      tower_building_cannon_85: -6222166846792223101
+      tower_building_cannon_86: 8209841912539246479
+      tower_building_cannon_87: -5465213158056957789
+      tower_building_cannon_88: 383579305412410629
+      tower_building_cannon_89: 8541583113089806882
+      tower_building_cannon_9: 6993466657270940425
+      tower_building_cannon_90: 6945785476186838378
+      tower_building_cannon_91: -4957144069695972220
+      tower_building_cannon_92: 5845156816312622888
+      tower_building_cannon_93: 3434798754832374911
+      tower_building_cannon_94: 2601453100326323051
+      tower_building_cannon_95: 8264279774412255041
+      tower_building_cannon_96: 1532379191509269565
+      tower_building_cannon_97: -3198534633130416062
+      tower_building_cannon_98: -1578293407151603848
+      tower_building_cannon_99: -2546778219368025145
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

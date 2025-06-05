@@ -268,7 +268,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -282,7 +282,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -306,7 +306,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -2059,7 +2059,85 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      selected_ninja_basic_0: -9152414113237745783
+      selected_ninja_basic_1: 86271416765803856
+      selected_ninja_basic_10: -2704596912691363850
+      selected_ninja_basic_11: 8732666199529873208
+      selected_ninja_basic_12: -2007266494175764419
+      selected_ninja_basic_13: -53818606434499467
+      selected_ninja_basic_14: 3321294685611290934
+      selected_ninja_basic_15: -844840109292649361
+      selected_ninja_basic_16: -3523045693731061381
+      selected_ninja_basic_17: -1821981673658977379
+      selected_ninja_basic_18: -540053240154448247
+      selected_ninja_basic_19: -6066947048097325919
+      selected_ninja_basic_2: 5148061637799064220
+      selected_ninja_basic_20: -2956980029372505478
+      selected_ninja_basic_21: 299155908756491424
+      selected_ninja_basic_22: -857323239866289828
+      selected_ninja_basic_23: -8169401651406190498
+      selected_ninja_basic_24: 7471983831545008607
+      selected_ninja_basic_25: -821510204305896447
+      selected_ninja_basic_26: 4658634119630988876
+      selected_ninja_basic_27: -9015291088610305716
+      selected_ninja_basic_28: -6417168154968490466
+      selected_ninja_basic_29: -1212075479435326522
+      selected_ninja_basic_3: 906995640769711737
+      selected_ninja_basic_30: -1168896794317426869
+      selected_ninja_basic_31: 858468654225572082
+      selected_ninja_basic_32: -5985420866988938406
+      selected_ninja_basic_33: -7260839150344821281
+      selected_ninja_basic_34: 8863265419240349333
+      selected_ninja_basic_35: -8601452184705013953
+      selected_ninja_basic_36: -6536760379213286443
+      selected_ninja_basic_37: -7373901825137704845
+      selected_ninja_basic_38: 1360501408975352363
+      selected_ninja_basic_39: 2960287747104234794
+      selected_ninja_basic_4: 405127161215535886
+      selected_ninja_basic_40: 1655462296884664091
+      selected_ninja_basic_41: -2624592341651168138
+      selected_ninja_basic_42: 8627654380567381783
+      selected_ninja_basic_43: 4666198678442012907
+      selected_ninja_basic_44: 1018760669148307923
+      selected_ninja_basic_45: -6555372444722889126
+      selected_ninja_basic_46: -7041796936000695478
+      selected_ninja_basic_47: -5997786038662205941
+      selected_ninja_basic_48: 7288033380618769963
+      selected_ninja_basic_49: -3757745071291776146
+      selected_ninja_basic_5: -564132502416105084
+      selected_ninja_basic_50: 1855065952044062058
+      selected_ninja_basic_51: -6557180812340865504
+      selected_ninja_basic_52: 5729542767641773832
+      selected_ninja_basic_53: -1983441593078903245
+      selected_ninja_basic_54: -3539473210449396382
+      selected_ninja_basic_55: 3717210471048650436
+      selected_ninja_basic_56: -2904765840905481945
+      selected_ninja_basic_57: -6900877140666493367
+      selected_ninja_basic_58: 510436756698842027
+      selected_ninja_basic_59: 7215926014363129574
+      selected_ninja_basic_6: 7756286817156521040
+      selected_ninja_basic_60: -8884263296729841314
+      selected_ninja_basic_61: 8291351837046259838
+      selected_ninja_basic_62: 525718755249089303
+      selected_ninja_basic_63: 7854162085425544980
+      selected_ninja_basic_64: 1312918403502963263
+      selected_ninja_basic_65: -4744452632542221811
+      selected_ninja_basic_66: -3175175385309880740
+      selected_ninja_basic_67: 5910169600546093078
+      selected_ninja_basic_68: 6119684324868101663
+      selected_ninja_basic_69: -6830435458374192480
+      selected_ninja_basic_7: -5301157344142697643
+      selected_ninja_basic_70: -3940732455802075814
+      selected_ninja_basic_71: 2443386309401729181
+      selected_ninja_basic_72: -7120070704063291860
+      selected_ninja_basic_73: 1036068166770175786
+      selected_ninja_basic_74: -7648044563908077008
+      selected_ninja_basic_75: 8512931912983517101
+      selected_ninja_basic_76: -2321928375815906550
+      selected_ninja_basic_77: -2725577674242925017
+      selected_ninja_basic_8: -5581874261071077279
+      selected_ninja_basic_9: 2733122206132110806
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

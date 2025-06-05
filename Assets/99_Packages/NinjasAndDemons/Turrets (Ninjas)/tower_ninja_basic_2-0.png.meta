@@ -268,7 +268,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -282,7 +282,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -306,7 +306,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -334,10 +334,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 164
-        width: 24
-        height: 22
+        x: 0
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,10 +356,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_1
       rect:
         serializedVersion: 2
-        x: 36
-        y: 164
-        width: 24
-        height: 21
+        x: 32
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -378,10 +378,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_2
       rect:
         serializedVersion: 2
-        x: 66
-        y: 164
-        width: 26
-        height: 22
+        x: 64
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -400,10 +400,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_3
       rect:
         serializedVersion: 2
-        x: 97
-        y: 164
-        width: 27
-        height: 22
+        x: 96
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -423,9 +423,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 164
-        width: 27
-        height: 22
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -444,10 +444,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_5
       rect:
         serializedVersion: 2
-        x: 162
-        y: 164
-        width: 25
-        height: 22
+        x: 160
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -466,10 +466,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_6
       rect:
         serializedVersion: 2
-        x: 194
-        y: 164
-        width: 25
-        height: 23
+        x: 192
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -488,10 +488,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_7
       rect:
         serializedVersion: 2
-        x: 226
-        y: 164
-        width: 25
-        height: 22
+        x: 224
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -510,10 +510,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_8
       rect:
         serializedVersion: 2
-        x: 257
-        y: 164
-        width: 28
-        height: 22
+        x: 256
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -532,10 +532,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_9
       rect:
         serializedVersion: 2
-        x: 292
-        y: 164
-        width: 25
-        height: 22
+        x: 288
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -554,10 +554,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_10
       rect:
         serializedVersion: 2
-        x: 325
-        y: 164
-        width: 24
-        height: 22
+        x: 320
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -576,10 +576,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_11
       rect:
         serializedVersion: 2
-        x: 356
-        y: 164
-        width: 25
-        height: 22
+        x: 352
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -598,10 +598,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_12
       rect:
         serializedVersion: 2
-        x: 388
-        y: 164
-        width: 25
-        height: 22
+        x: 384
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -620,10 +620,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_13
       rect:
         serializedVersion: 2
-        x: 5
-        y: 132
-        width: 23
-        height: 22
+        x: 0
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -642,10 +642,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_14
       rect:
         serializedVersion: 2
-        x: 37
-        y: 132
-        width: 23
-        height: 21
+        x: 32
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -664,10 +664,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_15
       rect:
         serializedVersion: 2
-        x: 67
-        y: 132
-        width: 25
-        height: 22
+        x: 64
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -686,10 +686,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_16
       rect:
         serializedVersion: 2
-        x: 98
-        y: 132
-        width: 26
-        height: 22
+        x: 96
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -708,10 +708,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_17
       rect:
         serializedVersion: 2
-        x: 129
-        y: 132
-        width: 28
-        height: 22
+        x: 128
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -730,10 +730,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_18
       rect:
         serializedVersion: 2
-        x: 163
-        y: 132
-        width: 25
-        height: 22
+        x: 160
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -752,10 +752,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_19
       rect:
         serializedVersion: 2
-        x: 195
-        y: 132
-        width: 25
-        height: 22
+        x: 192
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -774,10 +774,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_20
       rect:
         serializedVersion: 2
-        x: 227
-        y: 132
-        width: 26
-        height: 22
+        x: 224
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -796,10 +796,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_21
       rect:
         serializedVersion: 2
-        x: 257
-        y: 132
-        width: 29
-        height: 22
+        x: 256
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -818,10 +818,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_22
       rect:
         serializedVersion: 2
-        x: 292
-        y: 132
-        width: 24
-        height: 22
+        x: 288
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -840,10 +840,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_23
       rect:
         serializedVersion: 2
-        x: 327
-        y: 132
-        width: 21
-        height: 22
+        x: 320
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -862,10 +862,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_24
       rect:
         serializedVersion: 2
-        x: 358
-        y: 132
-        width: 22
-        height: 22
+        x: 352
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -884,10 +884,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_25
       rect:
         serializedVersion: 2
-        x: 390
-        y: 132
-        width: 22
-        height: 22
+        x: 384
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -906,10 +906,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_26
       rect:
         serializedVersion: 2
-        x: 4
-        y: 100
-        width: 23
-        height: 22
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -928,10 +928,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_27
       rect:
         serializedVersion: 2
-        x: 36
-        y: 100
-        width: 23
-        height: 21
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -950,10 +950,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_28
       rect:
         serializedVersion: 2
-        x: 66
-        y: 100
-        width: 25
-        height: 22
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -972,10 +972,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_29
       rect:
         serializedVersion: 2
-        x: 97
-        y: 100
-        width: 26
-        height: 22
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -994,10 +994,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_30
       rect:
         serializedVersion: 2
-        x: 129
-        y: 100
-        width: 26
-        height: 22
+        x: 128
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1016,10 +1016,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_31
       rect:
         serializedVersion: 2
-        x: 162
-        y: 100
-        width: 25
-        height: 22
+        x: 160
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1038,10 +1038,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_32
       rect:
         serializedVersion: 2
-        x: 194
-        y: 100
-        width: 25
-        height: 22
+        x: 192
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1060,10 +1060,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_33
       rect:
         serializedVersion: 2
-        x: 227
-        y: 100
-        width: 24
-        height: 22
+        x: 224
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1082,10 +1082,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_34
       rect:
         serializedVersion: 2
-        x: 258
-        y: 100
-        width: 26
-        height: 22
+        x: 256
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1104,10 +1104,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_35
       rect:
         serializedVersion: 2
-        x: 292
-        y: 100
-        width: 25
-        height: 22
+        x: 288
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1126,10 +1126,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_36
       rect:
         serializedVersion: 2
-        x: 325
-        y: 100
-        width: 24
-        height: 22
+        x: 320
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1148,10 +1148,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_37
       rect:
         serializedVersion: 2
-        x: 355
-        y: 100
-        width: 26
-        height: 22
+        x: 352
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1170,10 +1170,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_38
       rect:
         serializedVersion: 2
-        x: 387
-        y: 100
-        width: 25
-        height: 22
+        x: 384
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1192,10 +1192,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_39
       rect:
         serializedVersion: 2
-        x: 4
-        y: 68
-        width: 24
-        height: 22
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1214,10 +1214,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_40
       rect:
         serializedVersion: 2
-        x: 36
-        y: 68
-        width: 24
-        height: 21
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1236,10 +1236,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_41
       rect:
         serializedVersion: 2
-        x: 68
-        y: 68
-        width: 26
-        height: 22
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1258,10 +1258,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_42
       rect:
         serializedVersion: 2
-        x: 100
-        y: 68
-        width: 27
-        height: 22
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1280,10 +1280,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_43
       rect:
         serializedVersion: 2
-        x: 133
-        y: 68
-        width: 27
-        height: 22
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1302,10 +1302,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_44
       rect:
         serializedVersion: 2
-        x: 166
-        y: 68
-        width: 24
-        height: 22
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1324,10 +1324,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_45
       rect:
         serializedVersion: 2
-        x: 198
-        y: 68
-        width: 24
-        height: 22
+        x: 192
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1346,10 +1346,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_46
       rect:
         serializedVersion: 2
-        x: 229
-        y: 68
-        width: 25
-        height: 22
+        x: 224
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1368,10 +1368,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_47
       rect:
         serializedVersion: 2
-        x: 259
-        y: 68
-        width: 28
-        height: 22
+        x: 256
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1390,10 +1390,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_48
       rect:
         serializedVersion: 2
-        x: 291
-        y: 68
-        width: 25
-        height: 22
+        x: 288
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1412,10 +1412,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_49
       rect:
         serializedVersion: 2
-        x: 323
-        y: 68
-        width: 24
-        height: 22
+        x: 320
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1434,10 +1434,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_50
       rect:
         serializedVersion: 2
-        x: 355
-        y: 68
-        width: 25
-        height: 22
+        x: 352
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1456,10 +1456,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_51
       rect:
         serializedVersion: 2
-        x: 387
-        y: 68
-        width: 25
-        height: 22
+        x: 384
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1478,10 +1478,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_52
       rect:
         serializedVersion: 2
-        x: 5
-        y: 36
-        width: 22
-        height: 22
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1500,10 +1500,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_53
       rect:
         serializedVersion: 2
-        x: 37
-        y: 36
-        width: 22
-        height: 21
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1522,10 +1522,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_54
       rect:
         serializedVersion: 2
-        x: 69
-        y: 36
-        width: 24
-        height: 22
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1544,10 +1544,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_55
       rect:
         serializedVersion: 2
-        x: 101
-        y: 36
-        width: 25
-        height: 22
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1566,10 +1566,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_56
       rect:
         serializedVersion: 2
-        x: 134
-        y: 36
-        width: 24
-        height: 22
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1588,10 +1588,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_57
       rect:
         serializedVersion: 2
-        x: 167
-        y: 36
-        width: 23
-        height: 22
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1610,10 +1610,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_58
       rect:
         serializedVersion: 2
-        x: 199
-        y: 36
-        width: 23
-        height: 22
+        x: 192
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1632,10 +1632,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_59
       rect:
         serializedVersion: 2
-        x: 230
-        y: 36
-        width: 24
-        height: 22
+        x: 224
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1654,10 +1654,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_60
       rect:
         serializedVersion: 2
-        x: 260
-        y: 36
-        width: 28
-        height: 22
+        x: 256
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1676,10 +1676,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_61
       rect:
         serializedVersion: 2
-        x: 291
-        y: 36
-        width: 28
-        height: 22
+        x: 288
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1698,10 +1698,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_62
       rect:
         serializedVersion: 2
-        x: 322
-        y: 36
-        width: 27
-        height: 22
+        x: 320
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1720,10 +1720,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_63
       rect:
         serializedVersion: 2
-        x: 355
-        y: 36
-        width: 27
-        height: 22
+        x: 352
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1742,10 +1742,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_64
       rect:
         serializedVersion: 2
-        x: 388
-        y: 36
-        width: 25
-        height: 22
+        x: 384
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1764,10 +1764,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_65
       rect:
         serializedVersion: 2
-        x: 5
-        y: 4
-        width: 22
-        height: 22
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1786,10 +1786,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_66
       rect:
         serializedVersion: 2
-        x: 37
-        y: 4
-        width: 22
-        height: 21
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1808,10 +1808,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_67
       rect:
         serializedVersion: 2
-        x: 69
-        y: 4
-        width: 24
-        height: 22
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1830,10 +1830,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_68
       rect:
         serializedVersion: 2
-        x: 101
-        y: 4
-        width: 25
-        height: 22
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1852,10 +1852,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_69
       rect:
         serializedVersion: 2
-        x: 132
-        y: 4
-        width: 27
-        height: 22
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1874,10 +1874,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_70
       rect:
         serializedVersion: 2
-        x: 163
-        y: 4
-        width: 28
-        height: 22
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1896,10 +1896,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_71
       rect:
         serializedVersion: 2
-        x: 196
-        y: 4
-        width: 27
-        height: 22
+        x: 192
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1918,10 +1918,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_72
       rect:
         serializedVersion: 2
-        x: 228
-        y: 4
-        width: 26
-        height: 22
+        x: 224
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1940,10 +1940,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_73
       rect:
         serializedVersion: 2
-        x: 261
-        y: 4
-        width: 26
-        height: 22
+        x: 256
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1962,10 +1962,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_74
       rect:
         serializedVersion: 2
-        x: 294
-        y: 4
-        width: 21
-        height: 22
+        x: 288
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1984,10 +1984,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_75
       rect:
         serializedVersion: 2
-        x: 326
-        y: 4
-        width: 21
-        height: 22
+        x: 320
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2006,10 +2006,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_76
       rect:
         serializedVersion: 2
-        x: 358
-        y: 4
-        width: 21
-        height: 22
+        x: 352
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2028,10 +2028,10 @@ TextureImporter:
       name: tower_ninja_basic_2-0_77
       rect:
         serializedVersion: 2
-        x: 389
-        y: 4
-        width: 22
-        height: 22
+        x: 384
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2050,7 +2050,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8b83fa3637b34a343b4af74ce5a98726
     internalID: 0
     vertices: []
     indices: 
@@ -2059,7 +2059,85 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tower_ninja_basic_2-0_0: -273187499521080240
+      tower_ninja_basic_2-0_1: -130742236911765129
+      tower_ninja_basic_2-0_10: -2153922430124261546
+      tower_ninja_basic_2-0_11: -3285733740608203074
+      tower_ninja_basic_2-0_12: 2658089311418515334
+      tower_ninja_basic_2-0_13: 5055231443521194423
+      tower_ninja_basic_2-0_14: 486223173854612668
+      tower_ninja_basic_2-0_15: 3597524228774955314
+      tower_ninja_basic_2-0_16: -7422430251721786868
+      tower_ninja_basic_2-0_17: -1764655907790736953
+      tower_ninja_basic_2-0_18: 8267849971141622248
+      tower_ninja_basic_2-0_19: 6617064342333315965
+      tower_ninja_basic_2-0_2: 2102687200534543762
+      tower_ninja_basic_2-0_20: 9058949727023453745
+      tower_ninja_basic_2-0_21: 1521951712869313722
+      tower_ninja_basic_2-0_22: 4363173983247219486
+      tower_ninja_basic_2-0_23: -1414625415481945917
+      tower_ninja_basic_2-0_24: -384454450897576858
+      tower_ninja_basic_2-0_25: -5481173488689892807
+      tower_ninja_basic_2-0_26: 4046566965202638562
+      tower_ninja_basic_2-0_27: -6232592626061985480
+      tower_ninja_basic_2-0_28: -8223684637781438608
+      tower_ninja_basic_2-0_29: 2978079480258342662
+      tower_ninja_basic_2-0_3: 637571278825171206
+      tower_ninja_basic_2-0_30: -4323104137551002046
+      tower_ninja_basic_2-0_31: 4293530560911215031
+      tower_ninja_basic_2-0_32: -4106546890865885387
+      tower_ninja_basic_2-0_33: 7490622322849333666
+      tower_ninja_basic_2-0_34: -4782416180166981690
+      tower_ninja_basic_2-0_35: 5107933913006260766
+      tower_ninja_basic_2-0_36: -5516558296877539351
+      tower_ninja_basic_2-0_37: -8750438030559302105
+      tower_ninja_basic_2-0_38: -2537994165611094092
+      tower_ninja_basic_2-0_39: 1487166145593544156
+      tower_ninja_basic_2-0_4: -8306865639853223049
+      tower_ninja_basic_2-0_40: 5756431644571492155
+      tower_ninja_basic_2-0_41: -8934596223913900304
+      tower_ninja_basic_2-0_42: -3185272133247959907
+      tower_ninja_basic_2-0_43: 8025545386417896910
+      tower_ninja_basic_2-0_44: -3187325280668371766
+      tower_ninja_basic_2-0_45: -7878336510823260384
+      tower_ninja_basic_2-0_46: -5555851167037292319
+      tower_ninja_basic_2-0_47: 6783825856040515773
+      tower_ninja_basic_2-0_48: 6581672879613480831
+      tower_ninja_basic_2-0_49: -5468115008059918184
+      tower_ninja_basic_2-0_5: -9052956797850006037
+      tower_ninja_basic_2-0_50: 8833168168432495275
+      tower_ninja_basic_2-0_51: 6346953703143997136
+      tower_ninja_basic_2-0_52: 8602804591863465161
+      tower_ninja_basic_2-0_53: -5106867652380969899
+      tower_ninja_basic_2-0_54: 3782352968250052026
+      tower_ninja_basic_2-0_55: 7879618173726089147
+      tower_ninja_basic_2-0_56: -7473258106546601712
+      tower_ninja_basic_2-0_57: 8949960280179645612
+      tower_ninja_basic_2-0_58: 8020787107966021922
+      tower_ninja_basic_2-0_59: 1712514306682925204
+      tower_ninja_basic_2-0_6: 7846330068485448253
+      tower_ninja_basic_2-0_60: 612745933859433895
+      tower_ninja_basic_2-0_61: 8236737005220778766
+      tower_ninja_basic_2-0_62: 4050869783753381101
+      tower_ninja_basic_2-0_63: -6259290151662216559
+      tower_ninja_basic_2-0_64: -2414425527291924085
+      tower_ninja_basic_2-0_65: -6865223259643136025
+      tower_ninja_basic_2-0_66: -8758676425889966734
+      tower_ninja_basic_2-0_67: 4804264931833970790
+      tower_ninja_basic_2-0_68: -3695323579895669695
+      tower_ninja_basic_2-0_69: 2891125259607457236
+      tower_ninja_basic_2-0_7: -316978999379347022
+      tower_ninja_basic_2-0_70: 4562229964474464730
+      tower_ninja_basic_2-0_71: 6357390507868426844
+      tower_ninja_basic_2-0_72: -6572593203430461148
+      tower_ninja_basic_2-0_73: 2393168639729603426
+      tower_ninja_basic_2-0_74: 6516714542944734843
+      tower_ninja_basic_2-0_75: 7595496707111976642
+      tower_ninja_basic_2-0_76: -4118067488275295486
+      tower_ninja_basic_2-0_77: -225792243098466508
+      tower_ninja_basic_2-0_8: 2637144077816931257
+      tower_ninja_basic_2-0_9: 1485175435316789630
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

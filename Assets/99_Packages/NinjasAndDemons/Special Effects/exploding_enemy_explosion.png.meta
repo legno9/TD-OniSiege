@@ -70,7 +70,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -84,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +108,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      exploding_enemy_explosion_0: 946576655683576304
+      exploding_enemy_explosion_1: 71973814199100010
+      exploding_enemy_explosion_10: 25812082054601085
+      exploding_enemy_explosion_11: -2717643470943741978
+      exploding_enemy_explosion_2: 7923999416926750800
+      exploding_enemy_explosion_3: -6917847184461787007
+      exploding_enemy_explosion_4: -7002687399912295514
+      exploding_enemy_explosion_5: -922091265570709445
+      exploding_enemy_explosion_6: -6265505887005404424
+      exploding_enemy_explosion_7: 3017629644438081672
+      exploding_enemy_explosion_8: 1430609868827433042
+      exploding_enemy_explosion_9: 8307859112387572666
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy_miniboss_cash_0: -2399127491316264717
+      enemy_miniboss_cash_1: 49544428677209836
+      enemy_miniboss_cash_10: -1318106779656799063
+      enemy_miniboss_cash_11: 7496005361840689079
+      enemy_miniboss_cash_12: 8227352604512384374
+      enemy_miniboss_cash_13: -986293227973993275
+      enemy_miniboss_cash_14: 1282293835392945861
+      enemy_miniboss_cash_15: 4374924080660007251
+      enemy_miniboss_cash_16: 3181392260112747884
+      enemy_miniboss_cash_17: 538543755327540694
+      enemy_miniboss_cash_18: -2223792263073492688
+      enemy_miniboss_cash_19: -7083258368075961036
+      enemy_miniboss_cash_2: -7897993513356998044
+      enemy_miniboss_cash_20: 2179618766906888805
+      enemy_miniboss_cash_21: -5764935519365350474
+      enemy_miniboss_cash_22: -2976327828108027850
+      enemy_miniboss_cash_23: -2079818675384640564
+      enemy_miniboss_cash_3: 5075887520475257730
+      enemy_miniboss_cash_4: 722678589369221838
+      enemy_miniboss_cash_5: -493345692520398026
+      enemy_miniboss_cash_6: -3343299253735464304
+      enemy_miniboss_cash_7: -4513771057419682691
+      enemy_miniboss_cash_8: 9218980510077789776
+      enemy_miniboss_cash_9: 5100148117504637656
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

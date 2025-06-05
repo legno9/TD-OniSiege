@@ -196,7 +196,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -210,7 +210,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -234,7 +234,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1459,7 +1459,61 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      selected_ninja_gun_0: 6787563890967507996
+      selected_ninja_gun_1: 1488128459412630090
+      selected_ninja_gun_10: -1640725940421833138
+      selected_ninja_gun_11: -4732548695199089649
+      selected_ninja_gun_12: -6146377067067358192
+      selected_ninja_gun_13: 8279894473060993750
+      selected_ninja_gun_14: 2327385645456071846
+      selected_ninja_gun_15: -4547682561019218197
+      selected_ninja_gun_16: -8872072008206540183
+      selected_ninja_gun_17: -3311707358403854023
+      selected_ninja_gun_18: -3675125489298506758
+      selected_ninja_gun_19: 711383908553814839
+      selected_ninja_gun_2: 6589807682318227965
+      selected_ninja_gun_20: 8155863379135339227
+      selected_ninja_gun_21: -3265184730255752825
+      selected_ninja_gun_22: 3939396295605888186
+      selected_ninja_gun_23: -1754847959035267181
+      selected_ninja_gun_24: 2480189141279367974
+      selected_ninja_gun_25: 5775082142505135394
+      selected_ninja_gun_26: 5765961785691020624
+      selected_ninja_gun_27: -8568157477503225779
+      selected_ninja_gun_28: 540462554143540545
+      selected_ninja_gun_29: 7505056263141032721
+      selected_ninja_gun_3: -6442035729728434138
+      selected_ninja_gun_30: -5889271970440405862
+      selected_ninja_gun_31: -1430188226845249485
+      selected_ninja_gun_32: -4923452516830327525
+      selected_ninja_gun_33: -1339167441932587969
+      selected_ninja_gun_34: 8351201005284026795
+      selected_ninja_gun_35: -900627746469878544
+      selected_ninja_gun_36: -4306611359705261560
+      selected_ninja_gun_37: 5271196990258570950
+      selected_ninja_gun_38: -5974902590159199570
+      selected_ninja_gun_39: 4827381895334615978
+      selected_ninja_gun_4: 7365737480005262518
+      selected_ninja_gun_40: 8390222606993100429
+      selected_ninja_gun_41: 4724225859864584373
+      selected_ninja_gun_42: 5651078064834103123
+      selected_ninja_gun_43: -7919444283750562885
+      selected_ninja_gun_44: -150122090742981963
+      selected_ninja_gun_45: -1598198294393588538
+      selected_ninja_gun_46: -4742581975039356441
+      selected_ninja_gun_47: -2893862411153194201
+      selected_ninja_gun_48: 3904655667819626240
+      selected_ninja_gun_49: -4008555040092995251
+      selected_ninja_gun_5: -3247811393962555127
+      selected_ninja_gun_50: -510915481988470081
+      selected_ninja_gun_51: 3818737245949604177
+      selected_ninja_gun_52: 5430640372655572787
+      selected_ninja_gun_53: 2060777341291288888
+      selected_ninja_gun_6: -2524320365738812387
+      selected_ninja_gun_7: -4835355470178677019
+      selected_ninja_gun_8: -1104625632064735995
+      selected_ninja_gun_9: -493991268271410716
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

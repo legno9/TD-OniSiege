@@ -268,7 +268,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -282,7 +282,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -306,7 +306,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -2059,7 +2059,85 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      selected_ninja_smoke_0: -3012748782347654417
+      selected_ninja_smoke_1: 9202735813963476596
+      selected_ninja_smoke_10: -4754669501469281597
+      selected_ninja_smoke_11: -4336032580451862450
+      selected_ninja_smoke_12: 8782912490447687334
+      selected_ninja_smoke_13: 224875763617335903
+      selected_ninja_smoke_14: -3519091402109657593
+      selected_ninja_smoke_15: 8228586027901160367
+      selected_ninja_smoke_16: -6639297494925862679
+      selected_ninja_smoke_17: -7696315159984669128
+      selected_ninja_smoke_18: 6432633931753195676
+      selected_ninja_smoke_19: -3374149524145605532
+      selected_ninja_smoke_2: 6529558359106274317
+      selected_ninja_smoke_20: 646621142667128722
+      selected_ninja_smoke_21: 4385613090829671065
+      selected_ninja_smoke_22: 292542972432475478
+      selected_ninja_smoke_23: 6577753362409920136
+      selected_ninja_smoke_24: -6349051315857993698
+      selected_ninja_smoke_25: 8107847583449199189
+      selected_ninja_smoke_26: 5903539230449144202
+      selected_ninja_smoke_27: -8204899875758967511
+      selected_ninja_smoke_28: -5189433247439407724
+      selected_ninja_smoke_29: -4243836031457950538
+      selected_ninja_smoke_3: -4808748707905029170
+      selected_ninja_smoke_30: -9146143983873525674
+      selected_ninja_smoke_31: -1885507728345657038
+      selected_ninja_smoke_32: 1082015457732216701
+      selected_ninja_smoke_33: -1882883736282237295
+      selected_ninja_smoke_34: 2861166156535945158
+      selected_ninja_smoke_35: -4633312067498059324
+      selected_ninja_smoke_36: -6291678506279658976
+      selected_ninja_smoke_37: 5072250196024695308
+      selected_ninja_smoke_38: 2872553095495396248
+      selected_ninja_smoke_39: 5355588932271579809
+      selected_ninja_smoke_4: -2678305331786824102
+      selected_ninja_smoke_40: 5098694647329699980
+      selected_ninja_smoke_41: -5920097127116254962
+      selected_ninja_smoke_42: 1946446218213121917
+      selected_ninja_smoke_43: -6460283167339864605
+      selected_ninja_smoke_44: -6085947589799882110
+      selected_ninja_smoke_45: -3680014692814923780
+      selected_ninja_smoke_46: -9190158962093150018
+      selected_ninja_smoke_47: 2418506151441340999
+      selected_ninja_smoke_48: 4311916579524971185
+      selected_ninja_smoke_49: -4093976481149398200
+      selected_ninja_smoke_5: -6118653605191280555
+      selected_ninja_smoke_50: -3807422943392760590
+      selected_ninja_smoke_51: 1904082322162096310
+      selected_ninja_smoke_52: -5965605548127326085
+      selected_ninja_smoke_53: 4326751880956398905
+      selected_ninja_smoke_54: -3956412022758493132
+      selected_ninja_smoke_55: 9079759480088148563
+      selected_ninja_smoke_56: 3165947367137588288
+      selected_ninja_smoke_57: 7760460935828745581
+      selected_ninja_smoke_58: -2911908559343948334
+      selected_ninja_smoke_59: 2097488251565305695
+      selected_ninja_smoke_6: -4076327205392313486
+      selected_ninja_smoke_60: -1696991959451153246
+      selected_ninja_smoke_61: 4733929820213349052
+      selected_ninja_smoke_62: -778962446567350390
+      selected_ninja_smoke_63: 7414094137872012026
+      selected_ninja_smoke_64: -6686025345258706545
+      selected_ninja_smoke_65: -2172431832893233995
+      selected_ninja_smoke_66: -8232790190708009187
+      selected_ninja_smoke_67: -2418789489414935399
+      selected_ninja_smoke_68: -923295236727492007
+      selected_ninja_smoke_69: -2169827333001730352
+      selected_ninja_smoke_7: 4319271230973453756
+      selected_ninja_smoke_70: 6798243869244888700
+      selected_ninja_smoke_71: 4086617655748245156
+      selected_ninja_smoke_72: -8802718956750964002
+      selected_ninja_smoke_73: -3474536102388036107
+      selected_ninja_smoke_74: -2438927300622598346
+      selected_ninja_smoke_75: -2495037897750139184
+      selected_ninja_smoke_76: 6525490745666924837
+      selected_ninja_smoke_77: 3019791623795732353
+      selected_ninja_smoke_8: 7120853012614226274
+      selected_ninja_smoke_9: 8630562388588131677
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

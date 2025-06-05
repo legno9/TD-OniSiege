@@ -232,7 +232,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -246,7 +246,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -270,7 +270,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1759,7 +1759,73 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      selected_ninja_boobytrapper_caltrop_0: -6783034652298505896
+      selected_ninja_boobytrapper_caltrop_1: 2125859574582363586
+      selected_ninja_boobytrapper_caltrop_10: 7910373645055461258
+      selected_ninja_boobytrapper_caltrop_11: -5033425984317723242
+      selected_ninja_boobytrapper_caltrop_12: -7415244721258389804
+      selected_ninja_boobytrapper_caltrop_13: -6178057854703829439
+      selected_ninja_boobytrapper_caltrop_14: -8630819632983517392
+      selected_ninja_boobytrapper_caltrop_15: 1491155539733339451
+      selected_ninja_boobytrapper_caltrop_16: 1166955420339320435
+      selected_ninja_boobytrapper_caltrop_17: -6139538513772965748
+      selected_ninja_boobytrapper_caltrop_18: 7196534149925816476
+      selected_ninja_boobytrapper_caltrop_19: 2919029786584557126
+      selected_ninja_boobytrapper_caltrop_2: 4219606562681638537
+      selected_ninja_boobytrapper_caltrop_20: -8869041966222888878
+      selected_ninja_boobytrapper_caltrop_21: 864558437184722559
+      selected_ninja_boobytrapper_caltrop_22: -7506502424620386421
+      selected_ninja_boobytrapper_caltrop_23: -8561631029471187442
+      selected_ninja_boobytrapper_caltrop_24: -1058755548554488479
+      selected_ninja_boobytrapper_caltrop_25: -6330600744663290076
+      selected_ninja_boobytrapper_caltrop_26: 1240915621554310154
+      selected_ninja_boobytrapper_caltrop_27: 1924637278111023858
+      selected_ninja_boobytrapper_caltrop_28: -8812944975680861433
+      selected_ninja_boobytrapper_caltrop_29: -1901700099794454834
+      selected_ninja_boobytrapper_caltrop_3: 2469539310709789945
+      selected_ninja_boobytrapper_caltrop_30: -2790711847617807600
+      selected_ninja_boobytrapper_caltrop_31: 8022107277654068855
+      selected_ninja_boobytrapper_caltrop_32: 5231041167159489396
+      selected_ninja_boobytrapper_caltrop_33: 1453561404684768892
+      selected_ninja_boobytrapper_caltrop_34: -3620279216592879445
+      selected_ninja_boobytrapper_caltrop_35: -9078664892971784839
+      selected_ninja_boobytrapper_caltrop_36: -871091106084934349
+      selected_ninja_boobytrapper_caltrop_37: 7270348997157019116
+      selected_ninja_boobytrapper_caltrop_38: -4165158222525348932
+      selected_ninja_boobytrapper_caltrop_39: 6970648456245840537
+      selected_ninja_boobytrapper_caltrop_4: -1227613560016484648
+      selected_ninja_boobytrapper_caltrop_40: 6419921752037664658
+      selected_ninja_boobytrapper_caltrop_41: 5664019301192668319
+      selected_ninja_boobytrapper_caltrop_42: -3192519710014522803
+      selected_ninja_boobytrapper_caltrop_43: -3753658381964134661
+      selected_ninja_boobytrapper_caltrop_44: 2730089982386701576
+      selected_ninja_boobytrapper_caltrop_45: -8624943154420399988
+      selected_ninja_boobytrapper_caltrop_46: 718259340616572690
+      selected_ninja_boobytrapper_caltrop_47: -8955382282664858813
+      selected_ninja_boobytrapper_caltrop_48: -3110676946351890033
+      selected_ninja_boobytrapper_caltrop_49: 6882047407568951912
+      selected_ninja_boobytrapper_caltrop_5: 1014957520987520081
+      selected_ninja_boobytrapper_caltrop_50: -4994556826075260757
+      selected_ninja_boobytrapper_caltrop_51: -1194601153338324854
+      selected_ninja_boobytrapper_caltrop_52: -2549416244802849779
+      selected_ninja_boobytrapper_caltrop_53: -3035791058159020278
+      selected_ninja_boobytrapper_caltrop_54: -1222403246349959119
+      selected_ninja_boobytrapper_caltrop_55: 1785986205702762070
+      selected_ninja_boobytrapper_caltrop_56: -1097230942296912712
+      selected_ninja_boobytrapper_caltrop_57: -7443460044482510964
+      selected_ninja_boobytrapper_caltrop_58: 3798186546328831774
+      selected_ninja_boobytrapper_caltrop_59: -4362148297968665538
+      selected_ninja_boobytrapper_caltrop_6: 3254297637959111002
+      selected_ninja_boobytrapper_caltrop_60: 7524085629342946178
+      selected_ninja_boobytrapper_caltrop_61: 613846044021352516
+      selected_ninja_boobytrapper_caltrop_62: 8825402838132508286
+      selected_ninja_boobytrapper_caltrop_63: 4157392333114571516
+      selected_ninja_boobytrapper_caltrop_64: 2900999610557855215
+      selected_ninja_boobytrapper_caltrop_65: -5968426870470949846
+      selected_ninja_boobytrapper_caltrop_7: -7341752698938631517
+      selected_ninja_boobytrapper_caltrop_8: -6369955184555215578
+      selected_ninja_boobytrapper_caltrop_9: 4322633643266842939
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

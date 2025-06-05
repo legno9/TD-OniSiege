@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy_miniboss_teleporting_0: 4982789518356440590
+      enemy_miniboss_teleporting_1: -636622771008190482
+      enemy_miniboss_teleporting_10: -4138711633798886246
+      enemy_miniboss_teleporting_11: -4619286502537998515
+      enemy_miniboss_teleporting_12: 9218931671325122089
+      enemy_miniboss_teleporting_13: -8063752898652514033
+      enemy_miniboss_teleporting_14: 3186596839145549805
+      enemy_miniboss_teleporting_15: 3059383977290067492
+      enemy_miniboss_teleporting_16: 1241161351326462459
+      enemy_miniboss_teleporting_17: -6539333903477096198
+      enemy_miniboss_teleporting_18: -2022831414040584580
+      enemy_miniboss_teleporting_19: -6522106471254485616
+      enemy_miniboss_teleporting_2: 7248224250762154262
+      enemy_miniboss_teleporting_20: -8615326799178272580
+      enemy_miniboss_teleporting_21: -8325136868754045076
+      enemy_miniboss_teleporting_22: -599510634741925796
+      enemy_miniboss_teleporting_23: 2449654119209352441
+      enemy_miniboss_teleporting_3: -3818464374754200781
+      enemy_miniboss_teleporting_4: -4831721294274809127
+      enemy_miniboss_teleporting_5: -4262929849221275426
+      enemy_miniboss_teleporting_6: 3478573795898309379
+      enemy_miniboss_teleporting_7: 3142296502554241735
+      enemy_miniboss_teleporting_8: -8984622954611642223
+      enemy_miniboss_teleporting_9: 2772528975183449739
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

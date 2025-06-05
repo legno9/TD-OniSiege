@@ -1,0 +1,83 @@
+using UnityEngine;
+
+public class MouseManager : MonoBehaviour
+{
+    public static MouseManager Instance { get; private set; }
+    
+    [SerializeField] private LayerMask mapLayer;
+    [SerializeField] private GameObject highlightPrefab;
+    
+    private GameObject _currentHighlight;
+    private Vector3Int _previousCellPosition = Vector3Int.zero;
+    private Camera _mainCamera;
+    private MapManager _currentMapManager;
+    
+    private void Awake()
+    {
+        if (!Instance)
+        {
+            Instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+    
+    private void Start()
+    {
+        if (!highlightPrefab) return;
+        _currentHighlight = Instantiate(highlightPrefab);
+        _currentHighlight.SetActive(false);
+
+        if (!_mainCamera)
+        {
+            _mainCamera = Camera.main;
+        }
+    }
+
+    private void Update()
+    {
+        if (!_currentMapManager || !_mainCamera) {return;}
+        
+        Vector3 mouseWorldPos = _mainCamera.ScreenToWorldPoint(Input.mousePosition);
+        
+        Vector3Int currentCellPosition = _currentMapManager.GetTileFromWorldPos(mouseWorldPos);
+        UpdateHighlight(currentCellPosition);
+
+        if (Input.GetMouseButtonDown(0))
+        {
+            _currentMapManager.ProcessClickOnCell(currentCellPosition);
+        }
+    }
+
+    private void UpdateHighlight(Vector3Int cellPosition)
+    {
+        if (!_currentHighlight) return;
+        if (cellPosition == _previousCellPosition) return;
+        if (_currentMapManager.GetTileType(cellPosition) == CellType.Empty) return;
+        
+        _previousCellPosition = cellPosition;
+        _currentHighlight.transform.position = _currentMapManager.GetTileWorldCenter(cellPosition);
+        _currentHighlight.SetActive(true);
+    }
+    
+    public void RegisterMapManager(MapManager mapManager)
+    {
+        if (!mapManager) return;
+
+        _currentMapManager = mapManager;
+
+        if (_currentHighlight)
+        {
+            _currentHighlight.SetActive(false);
+        }
+    }
+
+    public void UnregisterMapManager(MapManager mapManager)
+    {
+        if (!mapManager || mapManager != _currentMapManager) return;
+        _currentMapManager = null;
+    }
+}

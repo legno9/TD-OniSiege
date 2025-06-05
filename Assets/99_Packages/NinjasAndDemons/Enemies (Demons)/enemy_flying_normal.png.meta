@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -172,10 +172,10 @@ TextureImporter:
       name: enemy_flying_normal_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 45
-        width: 27
-        height: 14
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,10 +194,10 @@ TextureImporter:
       name: enemy_flying_normal_1
       rect:
         serializedVersion: 2
-        x: 35
-        y: 45
-        width: 27
-        height: 13
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,10 +216,10 @@ TextureImporter:
       name: enemy_flying_normal_2
       rect:
         serializedVersion: 2
-        x: 67
-        y: 44
-        width: 27
-        height: 15
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -238,10 +238,10 @@ TextureImporter:
       name: enemy_flying_normal_3
       rect:
         serializedVersion: 2
-        x: 99
-        y: 46
-        width: 27
-        height: 13
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,10 +260,10 @@ TextureImporter:
       name: enemy_flying_normal_4
       rect:
         serializedVersion: 2
-        x: 131
-        y: 45
-        width: 27
-        height: 14
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -282,10 +282,10 @@ TextureImporter:
       name: enemy_flying_normal_5
       rect:
         serializedVersion: 2
-        x: 163
-        y: 45
-        width: 27
-        height: 17
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,10 +304,10 @@ TextureImporter:
       name: enemy_flying_normal_6
       rect:
         serializedVersion: 2
-        x: 9
-        y: 38
-        width: 17
-        height: 7
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,10 +326,10 @@ TextureImporter:
       name: enemy_flying_normal_7
       rect:
         serializedVersion: 2
-        x: 41
-        y: 38
-        width: 17
-        height: 7
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -348,10 +348,10 @@ TextureImporter:
       name: enemy_flying_normal_8
       rect:
         serializedVersion: 2
-        x: 73
-        y: 38
-        width: 17
-        height: 7
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -370,10 +370,10 @@ TextureImporter:
       name: enemy_flying_normal_9
       rect:
         serializedVersion: 2
-        x: 105
-        y: 38
-        width: 17
-        height: 7
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,10 +392,10 @@ TextureImporter:
       name: enemy_flying_normal_10
       rect:
         serializedVersion: 2
-        x: 137
-        y: 38
-        width: 17
-        height: 7
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -414,10 +414,10 @@ TextureImporter:
       name: enemy_flying_normal_11
       rect:
         serializedVersion: 2
-        x: 169
-        y: 38
-        width: 17
-        height: 7
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -432,275 +432,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: enemy_flying_normal_12
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 13
-        width: 27
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc81fdda245222f70800000000000000
-      internalID: 9160925560340158669
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_flying_normal_13
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 13
-        width: 27
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 376d24e9251718df0800000000000000
-      internalID: -179737910461671821
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_flying_normal_14
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 12
-        width: 27
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 397d0282311d37b70800000000000000
-      internalID: 8895683569194686355
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_flying_normal_15
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 14
-        width: 27
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8d7c3318f1d441060800000000000000
-      internalID: 6923243324882274264
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_flying_normal_16
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 13
-        width: 27
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 782d58f8bce7d74b0800000000000000
-      internalID: -5441053362042318201
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_flying_normal_17
-      rect:
-        serializedVersion: 2
-        x: 163
-        y: 13
-        width: 27
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5d5202acc14f3bb60800000000000000
-      internalID: 7760814987376862677
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_flying_normal_18
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 6
-        width: 17
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 745f2c9b21028ef50800000000000000
-      internalID: 6910808892998088007
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_flying_normal_19
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 6
-        width: 17
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a628a3321f58c72a0800000000000000
-      internalID: -6738363671728455062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_flying_normal_20
-      rect:
-        serializedVersion: 2
-        x: 73
-        y: 6
-        width: 17
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de0aa01a9e35418a0800000000000000
-      internalID: -6335346512909131539
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_flying_normal_21
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 6
-        width: 17
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b12bc8e46d2995a60800000000000000
-      internalID: 7663317690086109723
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_flying_normal_22
-      rect:
-        serializedVersion: 2
-        x: 137
-        y: 6
-        width: 17
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a93862cd687fb66f0800000000000000
-      internalID: -690185959280049254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemy_flying_normal_23
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 6
-        width: 17
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9a1a9356fbd46fc70800000000000000
-      internalID: 9004469989406253481
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2f65fbc40ccac224ebd51dc69212de7b
     internalID: 0
     vertices: []
     indices: 
@@ -709,7 +445,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy_flying_normal_0: 6856494484840698756
+      enemy_flying_normal_1: -5070479535689366053
+      enemy_flying_normal_10: -458846206820700363
+      enemy_flying_normal_11: -471185098588083883
+      enemy_flying_normal_2: -2641410392238023257
+      enemy_flying_normal_3: 3631952033434416938
+      enemy_flying_normal_4: 7475056494948870116
+      enemy_flying_normal_5: 8800340453136769487
+      enemy_flying_normal_6: 5160633781657454933
+      enemy_flying_normal_7: -7217264068944790576
+      enemy_flying_normal_8: -3470283941736283270
+      enemy_flying_normal_9: -3686504697738951900
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

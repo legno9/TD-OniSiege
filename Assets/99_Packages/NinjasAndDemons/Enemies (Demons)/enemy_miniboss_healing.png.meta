@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -172,10 +172,10 @@ TextureImporter:
       name: enemy_miniboss_healing_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 102
-        width: 21
-        height: 23
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,10 +194,10 @@ TextureImporter:
       name: enemy_miniboss_healing_1
       rect:
         serializedVersion: 2
-        x: 38
-        y: 102
-        width: 21
-        height: 22
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,10 +216,10 @@ TextureImporter:
       name: enemy_miniboss_healing_2
       rect:
         serializedVersion: 2
-        x: 70
-        y: 102
-        width: 21
-        height: 23
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -238,10 +238,10 @@ TextureImporter:
       name: enemy_miniboss_healing_3
       rect:
         serializedVersion: 2
-        x: 102
-        y: 102
-        width: 21
-        height: 23
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,10 +260,10 @@ TextureImporter:
       name: enemy_miniboss_healing_4
       rect:
         serializedVersion: 2
-        x: 134
-        y: 102
-        width: 21
-        height: 22
+        x: 128
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -282,10 +282,10 @@ TextureImporter:
       name: enemy_miniboss_healing_5
       rect:
         serializedVersion: 2
-        x: 166
-        y: 102
-        width: 21
-        height: 23
+        x: 160
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,10 +304,10 @@ TextureImporter:
       name: enemy_miniboss_healing_6
       rect:
         serializedVersion: 2
-        x: 6
-        y: 70
-        width: 21
-        height: 23
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,10 +326,10 @@ TextureImporter:
       name: enemy_miniboss_healing_7
       rect:
         serializedVersion: 2
-        x: 38
-        y: 70
-        width: 21
-        height: 22
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -348,10 +348,10 @@ TextureImporter:
       name: enemy_miniboss_healing_8
       rect:
         serializedVersion: 2
-        x: 70
-        y: 70
-        width: 21
-        height: 23
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -370,10 +370,10 @@ TextureImporter:
       name: enemy_miniboss_healing_9
       rect:
         serializedVersion: 2
-        x: 102
-        y: 70
-        width: 21
-        height: 23
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,10 +392,10 @@ TextureImporter:
       name: enemy_miniboss_healing_10
       rect:
         serializedVersion: 2
-        x: 134
-        y: 70
-        width: 21
-        height: 22
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -414,10 +414,10 @@ TextureImporter:
       name: enemy_miniboss_healing_11
       rect:
         serializedVersion: 2
-        x: 166
-        y: 70
-        width: 21
-        height: 23
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -436,10 +436,10 @@ TextureImporter:
       name: enemy_miniboss_healing_12
       rect:
         serializedVersion: 2
-        x: 6
-        y: 38
-        width: 21
-        height: 23
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,10 +458,10 @@ TextureImporter:
       name: enemy_miniboss_healing_13
       rect:
         serializedVersion: 2
-        x: 38
-        y: 38
-        width: 21
-        height: 22
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -480,10 +480,10 @@ TextureImporter:
       name: enemy_miniboss_healing_14
       rect:
         serializedVersion: 2
-        x: 70
-        y: 38
-        width: 21
-        height: 23
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -502,10 +502,10 @@ TextureImporter:
       name: enemy_miniboss_healing_15
       rect:
         serializedVersion: 2
-        x: 102
-        y: 38
-        width: 21
-        height: 23
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -524,10 +524,10 @@ TextureImporter:
       name: enemy_miniboss_healing_16
       rect:
         serializedVersion: 2
-        x: 134
-        y: 38
-        width: 21
-        height: 22
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,10 +546,10 @@ TextureImporter:
       name: enemy_miniboss_healing_17
       rect:
         serializedVersion: 2
-        x: 166
-        y: 38
-        width: 21
-        height: 23
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -568,10 +568,10 @@ TextureImporter:
       name: enemy_miniboss_healing_18
       rect:
         serializedVersion: 2
-        x: 6
-        y: 6
-        width: 21
-        height: 23
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -590,10 +590,10 @@ TextureImporter:
       name: enemy_miniboss_healing_19
       rect:
         serializedVersion: 2
-        x: 38
-        y: 6
-        width: 21
-        height: 22
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -612,10 +612,10 @@ TextureImporter:
       name: enemy_miniboss_healing_20
       rect:
         serializedVersion: 2
-        x: 70
-        y: 6
-        width: 21
-        height: 23
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -634,10 +634,10 @@ TextureImporter:
       name: enemy_miniboss_healing_21
       rect:
         serializedVersion: 2
-        x: 102
-        y: 6
-        width: 21
-        height: 23
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -656,10 +656,10 @@ TextureImporter:
       name: enemy_miniboss_healing_22
       rect:
         serializedVersion: 2
-        x: 134
-        y: 6
-        width: 21
-        height: 22
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,10 +678,10 @@ TextureImporter:
       name: enemy_miniboss_healing_23
       rect:
         serializedVersion: 2
-        x: 166
-        y: 6
-        width: 21
-        height: 23
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -700,7 +700,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e5dcb12e4c02b8e46aa497d50fab24d4
     internalID: 0
     vertices: []
     indices: 
@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy_miniboss_healing_0: -630561494599945961
+      enemy_miniboss_healing_1: -6026633672077884689
+      enemy_miniboss_healing_10: 1912054807526294134
+      enemy_miniboss_healing_11: 4499758742234321812
+      enemy_miniboss_healing_12: 609347858316802100
+      enemy_miniboss_healing_13: -5465391026084319626
+      enemy_miniboss_healing_14: 2424956242220812257
+      enemy_miniboss_healing_15: 7592085941523494787
+      enemy_miniboss_healing_16: -5676235283113403303
+      enemy_miniboss_healing_17: -3561647659470046081
+      enemy_miniboss_healing_18: 2052532050343514414
+      enemy_miniboss_healing_19: 8687327607849956674
+      enemy_miniboss_healing_2: 1861843542828183348
+      enemy_miniboss_healing_20: 8972525782078349282
+      enemy_miniboss_healing_21: -3547924519121980621
+      enemy_miniboss_healing_22: -3255902420022315365
+      enemy_miniboss_healing_23: -1921871770972196023
+      enemy_miniboss_healing_3: -8355957503135529644
+      enemy_miniboss_healing_4: -638510051190978137
+      enemy_miniboss_healing_5: 5344169153736785775
+      enemy_miniboss_healing_6: 2739571409689632553
+      enemy_miniboss_healing_7: -5278837186226126255
+      enemy_miniboss_healing_8: 3780237382940637774
+      enemy_miniboss_healing_9: 6756295776255207841
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

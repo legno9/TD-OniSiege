@@ -250,7 +250,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -264,7 +264,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -288,7 +288,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1909,7 +1909,79 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      selected_ninja_poison_0: 1231176625785781279
+      selected_ninja_poison_1: 1082916708955254719
+      selected_ninja_poison_10: -57820940897634752
+      selected_ninja_poison_11: -2402137266386384675
+      selected_ninja_poison_12: -8494304965861537356
+      selected_ninja_poison_13: -9173165777856765133
+      selected_ninja_poison_14: 2357201818912298031
+      selected_ninja_poison_15: -383835359116423078
+      selected_ninja_poison_16: 8550762971550274598
+      selected_ninja_poison_17: 7262286044657578021
+      selected_ninja_poison_18: 6091411618819096721
+      selected_ninja_poison_19: 8755294991172920846
+      selected_ninja_poison_2: -481363751615962525
+      selected_ninja_poison_20: -6517556768018291153
+      selected_ninja_poison_21: -7414780687770511389
+      selected_ninja_poison_22: 6767898474935846751
+      selected_ninja_poison_23: -1496763993502931662
+      selected_ninja_poison_24: 3644628875697241239
+      selected_ninja_poison_25: 2840562702159159406
+      selected_ninja_poison_26: 4499686592745722142
+      selected_ninja_poison_27: 6570086485694068927
+      selected_ninja_poison_28: 5347751380627849734
+      selected_ninja_poison_29: -7280379596877566514
+      selected_ninja_poison_3: -884227536395419187
+      selected_ninja_poison_30: -4208037891952618890
+      selected_ninja_poison_31: -7404789722013492886
+      selected_ninja_poison_32: 4029664338291161789
+      selected_ninja_poison_33: 4789214049185477628
+      selected_ninja_poison_34: -8684218542721862885
+      selected_ninja_poison_35: -1415196440136418180
+      selected_ninja_poison_36: -4417645888201438199
+      selected_ninja_poison_37: 1965340490494403761
+      selected_ninja_poison_38: -6027907911822807174
+      selected_ninja_poison_39: -8254414987641460834
+      selected_ninja_poison_4: 4518129575709415133
+      selected_ninja_poison_40: 8682659974451842087
+      selected_ninja_poison_41: -49615081651400335
+      selected_ninja_poison_42: 4474498359891477901
+      selected_ninja_poison_43: 5816011294828644672
+      selected_ninja_poison_44: -3393235366412672604
+      selected_ninja_poison_45: -5180356955060080886
+      selected_ninja_poison_46: 4323733638602807744
+      selected_ninja_poison_47: 4234849050888274513
+      selected_ninja_poison_48: 7844997622430905721
+      selected_ninja_poison_49: -4410301967093323834
+      selected_ninja_poison_5: 4330685349751685823
+      selected_ninja_poison_50: 6412070655742451730
+      selected_ninja_poison_51: -4877465378780599212
+      selected_ninja_poison_52: -3970558427832874033
+      selected_ninja_poison_53: 7253566242420301320
+      selected_ninja_poison_54: -7201564842293512339
+      selected_ninja_poison_55: 4821841700832921042
+      selected_ninja_poison_56: 6919272228932397065
+      selected_ninja_poison_57: -7314798981713193381
+      selected_ninja_poison_58: 7757629494385560403
+      selected_ninja_poison_59: -3675349170902152037
+      selected_ninja_poison_6: -3880117701214806874
+      selected_ninja_poison_60: 6018160694050878473
+      selected_ninja_poison_61: -8887697359311486807
+      selected_ninja_poison_62: 3299018973173337580
+      selected_ninja_poison_63: 2854961214874296775
+      selected_ninja_poison_64: -4432158358147095342
+      selected_ninja_poison_65: 3256945935541917848
+      selected_ninja_poison_66: 1022146416760168197
+      selected_ninja_poison_67: -6282659220409312771
+      selected_ninja_poison_68: -8991302319852581862
+      selected_ninja_poison_69: -6008601970563183241
+      selected_ninja_poison_7: 4859706406936813154
+      selected_ninja_poison_70: -6189770265925002976
+      selected_ninja_poison_71: -8256892078975522598
+      selected_ninja_poison_8: -1744643683929008366
+      selected_ninja_poison_9: -4909931041615457974
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

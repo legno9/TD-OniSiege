@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy_miniboss_armored_0: -3223261496695065140
+      enemy_miniboss_armored_1: 1365973815651109017
+      enemy_miniboss_armored_10: 4848615240832540560
+      enemy_miniboss_armored_11: 2395722950403671792
+      enemy_miniboss_armored_12: -4851254147037211306
+      enemy_miniboss_armored_13: 6029893497296256266
+      enemy_miniboss_armored_14: -8785626968909273213
+      enemy_miniboss_armored_15: -983793368119607949
+      enemy_miniboss_armored_16: 6609810029603601935
+      enemy_miniboss_armored_17: 139349106904154755
+      enemy_miniboss_armored_18: 5936154199960728874
+      enemy_miniboss_armored_19: 6227697431063372998
+      enemy_miniboss_armored_2: 1486451410322804942
+      enemy_miniboss_armored_20: -3245343855637832667
+      enemy_miniboss_armored_21: 7113022122471136364
+      enemy_miniboss_armored_22: -8756188262288764921
+      enemy_miniboss_armored_23: -1629880861872637977
+      enemy_miniboss_armored_3: 4981009266912558179
+      enemy_miniboss_armored_4: 6731698008108363294
+      enemy_miniboss_armored_5: 194570907387338614
+      enemy_miniboss_armored_6: 3803997435274782047
+      enemy_miniboss_armored_7: -2814273517695640711
+      enemy_miniboss_armored_8: 5057875538084627720
+      enemy_miniboss_armored_9: 5296935101260183204
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

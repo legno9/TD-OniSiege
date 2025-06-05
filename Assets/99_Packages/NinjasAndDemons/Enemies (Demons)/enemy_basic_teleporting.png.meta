@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy_basic_teleporting_0: 2763214209923421212
+      enemy_basic_teleporting_1: -2500852980029134654
+      enemy_basic_teleporting_10: -8779392775601148562
+      enemy_basic_teleporting_11: -1122856507645477332
+      enemy_basic_teleporting_12: 5956060283772900049
+      enemy_basic_teleporting_13: 7334694260664263523
+      enemy_basic_teleporting_14: -6952029669930234321
+      enemy_basic_teleporting_15: 8143253938821830510
+      enemy_basic_teleporting_16: -3896534325964729816
+      enemy_basic_teleporting_17: -8651833231780061055
+      enemy_basic_teleporting_18: 5494611757944023361
+      enemy_basic_teleporting_19: -293890142442546804
+      enemy_basic_teleporting_2: -7795196604699114609
+      enemy_basic_teleporting_20: -2008759571862672589
+      enemy_basic_teleporting_21: 5311587888675924269
+      enemy_basic_teleporting_22: 7161512391134007109
+      enemy_basic_teleporting_23: 8447989704479011002
+      enemy_basic_teleporting_3: 3589781559201276844
+      enemy_basic_teleporting_4: 8965865000407248976
+      enemy_basic_teleporting_5: 6263651373644446247
+      enemy_basic_teleporting_6: -8739831072321486134
+      enemy_basic_teleporting_7: 4841520872623241479
+      enemy_basic_teleporting_8: -159097694539864221
+      enemy_basic_teleporting_9: 4350011015487887563
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

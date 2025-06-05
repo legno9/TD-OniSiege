@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,7 +96,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -126,8 +126,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 36
-        height: 64
+        width: 35
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,44 +143,22 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_grass_obstacles_1
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 0
-        width: 37
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4a2350280c310f680800000000000000
-      internalID: -8723450760680623452
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: tileset_grass_obstacles_2
       rect:
         serializedVersion: 2
-        x: 127
-        y: 31
-        width: 36
-        height: 32
+        x: 128
+        y: 32
+        width: 34
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ccc67c5203b51fd20800000000000000
+      spriteID: 380f5ef6e5f665b47a6a578aa1075a7c
       internalID: 3310527463444409548
       vertices: []
       indices: 
@@ -190,19 +168,19 @@ TextureImporter:
       name: tileset_grass_obstacles_3
       rect:
         serializedVersion: 2
-        x: 127
-        y: 0
-        width: 36
-        height: 31
+        x: 192
+        y: 32
+        width: 34
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0000a3bc40f028ed0800000000000000
+      spriteID: df9da6575350767469d58437bed94ed2
       internalID: -2413349937053302784
       vertices: []
       indices: 
@@ -212,19 +190,19 @@ TextureImporter:
       name: tileset_grass_obstacles_4
       rect:
         serializedVersion: 2
-        x: 191
-        y: 31
-        width: 36
-        height: 32
+        x: 256
+        y: 32
+        width: 34
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1ab624e6f264e7e70800000000000000
+      spriteID: 89a47671c1ee7824e9f47459241d54da
       internalID: 9114799865371716513
       vertices: []
       indices: 
@@ -234,19 +212,19 @@ TextureImporter:
       name: tileset_grass_obstacles_5
       rect:
         serializedVersion: 2
-        x: 191
+        x: 128
         y: 0
-        width: 36
-        height: 31
+        width: 34
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: de2385728d6fbf380800000000000000
+      spriteID: 0572069b62d48544aab8f6995b2a5407
       internalID: -8936277627353156883
       vertices: []
       indices: 
@@ -256,19 +234,19 @@ TextureImporter:
       name: tileset_grass_obstacles_6
       rect:
         serializedVersion: 2
-        x: 255
-        y: 31
-        width: 36
-        height: 32
+        x: 192
+        y: 0
+        width: 34
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6d0fb9cee888e9e70800000000000000
+      spriteID: ca58f1fb2bf9f4749b9ad17269749e13
       internalID: 9123880042535579862
       vertices: []
       indices: 
@@ -278,20 +256,86 @@ TextureImporter:
       name: tileset_grass_obstacles_7
       rect:
         serializedVersion: 2
-        x: 255
+        x: 256
         y: 0
-        width: 36
-        height: 31
+        width: 34
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cef6842b641534230800000000000000
+      spriteID: a4e0b18ebc6c6d44e906b450641d3455
       internalID: 3621827889416663020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_grass_obstacles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a1a20ac2f102a46a33c82355574821
+      internalID: -1619911018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_grass_obstacles_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1d943429ce34f4c947640988471871
+      internalID: -8723450760680623452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_grass_obstacles_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fba74c74cb814145832344f566eef3b
+      internalID: 98585183
       vertices: []
       indices: 
       edges: []
@@ -300,7 +344,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8661875bbdf8f8347bf3be71778739eb
     internalID: 0
     vertices: []
     indices: 
@@ -309,7 +353,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tileset_grass_obstacles_0: 1328719475257182783
+      tileset_grass_obstacles_1: -8723450760680623452
+      tileset_grass_obstacles_2: 3310527463444409548
+      tileset_grass_obstacles_3: -2413349937053302784
+      tileset_grass_obstacles_4: 9114799865371716513
+      tileset_grass_obstacles_5: -8936277627353156883
+      tileset_grass_obstacles_6: 9123880042535579862
+      tileset_grass_obstacles_7: 3621827889416663020
+      tileset_grass_obstacles_8: -1619911018
+      tileset_grass_obstacles_9: 98585183
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

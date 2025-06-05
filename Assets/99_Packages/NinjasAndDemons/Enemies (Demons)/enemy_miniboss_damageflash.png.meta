@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy_miniboss_damageflash_0: -6258607050009107025
+      enemy_miniboss_damageflash_1: 1726436256780640923
+      enemy_miniboss_damageflash_10: 1946191748202059351
+      enemy_miniboss_damageflash_11: -5269712582068040565
+      enemy_miniboss_damageflash_12: -3418562964889497521
+      enemy_miniboss_damageflash_13: 1638677929050265316
+      enemy_miniboss_damageflash_14: 6061738988896977152
+      enemy_miniboss_damageflash_15: -7184306143835496179
+      enemy_miniboss_damageflash_16: -5901728203497829267
+      enemy_miniboss_damageflash_17: -2204965704665834365
+      enemy_miniboss_damageflash_18: 8000899396881481891
+      enemy_miniboss_damageflash_19: -3334363861204208499
+      enemy_miniboss_damageflash_2: 3836077030172366373
+      enemy_miniboss_damageflash_20: -4240003085083801317
+      enemy_miniboss_damageflash_21: 3886283517520530475
+      enemy_miniboss_damageflash_22: 231465575693250580
+      enemy_miniboss_damageflash_23: 5762920754204995872
+      enemy_miniboss_damageflash_3: 9082821359341322862
+      enemy_miniboss_damageflash_4: -5038597973809148599
+      enemy_miniboss_damageflash_5: -7977203522109830860
+      enemy_miniboss_damageflash_6: 2822837428227579493
+      enemy_miniboss_damageflash_7: -6276498228198689462
+      enemy_miniboss_damageflash_8: 1924055771553250309
+      enemy_miniboss_damageflash_9: 3015840507274086710
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -91,7 +91,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -105,7 +105,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -129,7 +129,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -584,7 +584,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      armorbreak_normal_0: -3410496921586852936
+      armorbreak_normal_1: -1631508453902063453
+      armorbreak_normal_10: 578049360597696043
+      armorbreak_normal_11: 1582531601131339250
+      armorbreak_normal_12: 6877989585880045476
+      armorbreak_normal_13: 1043578881368541688
+      armorbreak_normal_14: -8127426135953620780
+      armorbreak_normal_15: 4952627279166300378
+      armorbreak_normal_16: -5266198487663281427
+      armorbreak_normal_17: 7055797582542298370
+      armorbreak_normal_18: -7233337297560457479
+      armorbreak_normal_2: -6410764899226309752
+      armorbreak_normal_3: 4169633079702022047
+      armorbreak_normal_4: -2431733080812458211
+      armorbreak_normal_5: 5125378827532811258
+      armorbreak_normal_6: 8276071546848247720
+      armorbreak_normal_7: -2269634288410814020
+      armorbreak_normal_8: -6142249080373968752
+      armorbreak_normal_9: -2939222690596585675
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

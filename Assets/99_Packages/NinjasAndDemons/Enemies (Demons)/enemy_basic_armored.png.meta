@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy_basic_armored_0: 3251149350731058645
+      enemy_basic_armored_1: -623173671711610166
+      enemy_basic_armored_10: 2411669937532977044
+      enemy_basic_armored_11: 1699024465956209460
+      enemy_basic_armored_12: 3754208768320593684
+      enemy_basic_armored_13: 7320816514025766326
+      enemy_basic_armored_14: 7167370013547043141
+      enemy_basic_armored_15: 2518797610008744632
+      enemy_basic_armored_16: -1805943514062548884
+      enemy_basic_armored_17: -721725038583851697
+      enemy_basic_armored_18: -2725550633660420438
+      enemy_basic_armored_19: 8138872378828269420
+      enemy_basic_armored_2: 8996095901458175640
+      enemy_basic_armored_20: -4967374046039877633
+      enemy_basic_armored_21: 5092322105940632738
+      enemy_basic_armored_22: -9064523543854465307
+      enemy_basic_armored_23: 2762357923650864157
+      enemy_basic_armored_3: -2897219223398878301
+      enemy_basic_armored_4: 5194164341650794502
+      enemy_basic_armored_5: 6626044570424576524
+      enemy_basic_armored_6: -6551327986868844675
+      enemy_basic_armored_7: 2046299212801325898
+      enemy_basic_armored_8: -1184561397041106370
+      enemy_basic_armored_9: -2631726846716957812
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

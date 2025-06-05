@@ -232,7 +232,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -246,7 +246,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -270,7 +270,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1759,7 +1759,73 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      selected_ninja_master_0: -2170903020200502794
+      selected_ninja_master_1: -7435334804305281724
+      selected_ninja_master_10: -537517308075758308
+      selected_ninja_master_11: -7481116246701345137
+      selected_ninja_master_12: -8010105498489706235
+      selected_ninja_master_13: -8551768311998860993
+      selected_ninja_master_14: 5991292649586980689
+      selected_ninja_master_15: 8780573079076644839
+      selected_ninja_master_16: -2531041480770552502
+      selected_ninja_master_17: -8765664422773559684
+      selected_ninja_master_18: 8424844404478885624
+      selected_ninja_master_19: -7719782294170829476
+      selected_ninja_master_2: 5975049821137146765
+      selected_ninja_master_20: 522346331922374353
+      selected_ninja_master_21: -3581522722114255187
+      selected_ninja_master_22: 974479997433718826
+      selected_ninja_master_23: -7316286782542969967
+      selected_ninja_master_24: -8360841279234204348
+      selected_ninja_master_25: 4895029697111525929
+      selected_ninja_master_26: -7396201107157873679
+      selected_ninja_master_27: 6616135901320333381
+      selected_ninja_master_28: -1606759575161348183
+      selected_ninja_master_29: 471459848705908830
+      selected_ninja_master_3: -4947567275578465315
+      selected_ninja_master_30: 3797207954371804614
+      selected_ninja_master_31: 3200769938122966451
+      selected_ninja_master_32: -4459632782336379932
+      selected_ninja_master_33: 5240003974377329463
+      selected_ninja_master_34: -4393201964218373458
+      selected_ninja_master_35: -1145466513460386684
+      selected_ninja_master_36: 2106931479912264867
+      selected_ninja_master_37: 7274460325550216019
+      selected_ninja_master_38: -5480713719886810681
+      selected_ninja_master_39: 3181089491558698865
+      selected_ninja_master_4: 8844926257643071963
+      selected_ninja_master_40: 2048168302840745242
+      selected_ninja_master_41: -1392342414035358608
+      selected_ninja_master_42: 2640040490156531891
+      selected_ninja_master_43: -1764303392612744340
+      selected_ninja_master_44: 7660018671446698371
+      selected_ninja_master_45: 5525262151742223146
+      selected_ninja_master_46: -1726894976582295824
+      selected_ninja_master_47: -8923882486846502743
+      selected_ninja_master_48: -1210694409208167198
+      selected_ninja_master_49: -711293760521487135
+      selected_ninja_master_5: 6109029948271251056
+      selected_ninja_master_50: -3877216985839885515
+      selected_ninja_master_51: -6608836453803019258
+      selected_ninja_master_52: -682691568067260994
+      selected_ninja_master_53: 2367521941155218613
+      selected_ninja_master_54: -3556406241943641276
+      selected_ninja_master_55: -3419695317818453082
+      selected_ninja_master_56: -4026769735636864297
+      selected_ninja_master_57: -377281875179754548
+      selected_ninja_master_58: 1722858976120952485
+      selected_ninja_master_59: 2796552594972767163
+      selected_ninja_master_6: 3645248925497490032
+      selected_ninja_master_60: 6281923206471255429
+      selected_ninja_master_61: -8447841192284429209
+      selected_ninja_master_62: -8564139548196793559
+      selected_ninja_master_63: -4703409772009385920
+      selected_ninja_master_64: 4786028763783255067
+      selected_ninja_master_65: 859127301050695936
+      selected_ninja_master_7: 3857900103406017176
+      selected_ninja_master_8: -3812665157967221681
+      selected_ninja_master_9: 4504813357368124473
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

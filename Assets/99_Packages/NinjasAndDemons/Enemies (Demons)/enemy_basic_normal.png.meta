@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -172,10 +172,10 @@ TextureImporter:
       name: enemy_basic_normal_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 102
-        width: 18
-        height: 18
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,10 +194,10 @@ TextureImporter:
       name: enemy_basic_normal_1
       rect:
         serializedVersion: 2
-        x: 40
-        y: 102
-        width: 18
-        height: 17
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,10 +216,10 @@ TextureImporter:
       name: enemy_basic_normal_2
       rect:
         serializedVersion: 2
-        x: 72
-        y: 102
-        width: 18
-        height: 18
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -238,10 +238,10 @@ TextureImporter:
       name: enemy_basic_normal_3
       rect:
         serializedVersion: 2
-        x: 104
-        y: 102
-        width: 18
-        height: 18
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,10 +260,10 @@ TextureImporter:
       name: enemy_basic_normal_4
       rect:
         serializedVersion: 2
-        x: 136
-        y: 102
-        width: 18
-        height: 17
+        x: 128
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -282,10 +282,10 @@ TextureImporter:
       name: enemy_basic_normal_5
       rect:
         serializedVersion: 2
-        x: 168
-        y: 102
-        width: 18
-        height: 18
+        x: 160
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,10 +304,10 @@ TextureImporter:
       name: enemy_basic_normal_6
       rect:
         serializedVersion: 2
-        x: 8
-        y: 70
-        width: 18
-        height: 18
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,10 +326,10 @@ TextureImporter:
       name: enemy_basic_normal_7
       rect:
         serializedVersion: 2
-        x: 40
-        y: 70
-        width: 18
-        height: 17
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -348,10 +348,10 @@ TextureImporter:
       name: enemy_basic_normal_8
       rect:
         serializedVersion: 2
-        x: 72
-        y: 70
-        width: 18
-        height: 18
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -370,10 +370,10 @@ TextureImporter:
       name: enemy_basic_normal_9
       rect:
         serializedVersion: 2
-        x: 104
-        y: 70
-        width: 18
-        height: 18
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,10 +392,10 @@ TextureImporter:
       name: enemy_basic_normal_10
       rect:
         serializedVersion: 2
-        x: 136
-        y: 70
-        width: 18
-        height: 17
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -414,10 +414,10 @@ TextureImporter:
       name: enemy_basic_normal_11
       rect:
         serializedVersion: 2
-        x: 168
-        y: 70
-        width: 18
-        height: 18
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -436,10 +436,10 @@ TextureImporter:
       name: enemy_basic_normal_12
       rect:
         serializedVersion: 2
-        x: 8
-        y: 38
-        width: 18
-        height: 18
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,10 +458,10 @@ TextureImporter:
       name: enemy_basic_normal_13
       rect:
         serializedVersion: 2
-        x: 40
-        y: 38
-        width: 18
-        height: 17
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -480,10 +480,10 @@ TextureImporter:
       name: enemy_basic_normal_14
       rect:
         serializedVersion: 2
-        x: 72
-        y: 38
-        width: 18
-        height: 18
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -502,10 +502,10 @@ TextureImporter:
       name: enemy_basic_normal_15
       rect:
         serializedVersion: 2
-        x: 104
-        y: 38
-        width: 18
-        height: 18
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -524,10 +524,10 @@ TextureImporter:
       name: enemy_basic_normal_16
       rect:
         serializedVersion: 2
-        x: 136
-        y: 38
-        width: 18
-        height: 17
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,10 +546,10 @@ TextureImporter:
       name: enemy_basic_normal_17
       rect:
         serializedVersion: 2
-        x: 168
-        y: 38
-        width: 18
-        height: 18
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -568,10 +568,10 @@ TextureImporter:
       name: enemy_basic_normal_18
       rect:
         serializedVersion: 2
-        x: 8
-        y: 6
-        width: 18
-        height: 18
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -590,10 +590,10 @@ TextureImporter:
       name: enemy_basic_normal_19
       rect:
         serializedVersion: 2
-        x: 40
-        y: 6
-        width: 18
-        height: 17
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -612,10 +612,10 @@ TextureImporter:
       name: enemy_basic_normal_20
       rect:
         serializedVersion: 2
-        x: 72
-        y: 6
-        width: 18
-        height: 18
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -634,10 +634,10 @@ TextureImporter:
       name: enemy_basic_normal_21
       rect:
         serializedVersion: 2
-        x: 104
-        y: 6
-        width: 18
-        height: 18
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -656,10 +656,10 @@ TextureImporter:
       name: enemy_basic_normal_22
       rect:
         serializedVersion: 2
-        x: 136
-        y: 6
-        width: 18
-        height: 17
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,10 +678,10 @@ TextureImporter:
       name: enemy_basic_normal_23
       rect:
         serializedVersion: 2
-        x: 168
-        y: 6
-        width: 18
-        height: 18
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -700,7 +700,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 54e8ac2f6772d4844a584d4b4071bd46
     internalID: 0
     vertices: []
     indices: 
@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy_basic_normal_0: -5528728144715976534
+      enemy_basic_normal_1: 8290427622420215316
+      enemy_basic_normal_10: 4267395261627785521
+      enemy_basic_normal_11: 7563948788059956670
+      enemy_basic_normal_12: -6867844945678464302
+      enemy_basic_normal_13: 4242244553863006642
+      enemy_basic_normal_14: 1430517658310426597
+      enemy_basic_normal_15: 605544054330222898
+      enemy_basic_normal_16: -8839249567067654644
+      enemy_basic_normal_17: 7364682371188641399
+      enemy_basic_normal_18: -2944140319152190106
+      enemy_basic_normal_19: -4458647155197606011
+      enemy_basic_normal_2: 643623836433017043
+      enemy_basic_normal_20: -6277793772538189282
+      enemy_basic_normal_21: 3849370365153090878
+      enemy_basic_normal_22: 5726196236671330541
+      enemy_basic_normal_23: -263891442167894549
+      enemy_basic_normal_3: 7244188195335377799
+      enemy_basic_normal_4: 7633815159797300516
+      enemy_basic_normal_5: 9044029741215356445
+      enemy_basic_normal_6: -2741843054891805222
+      enemy_basic_normal_7: 3200609116904232796
+      enemy_basic_normal_8: -7242296840777629604
+      enemy_basic_normal_9: -5321506526424712902
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

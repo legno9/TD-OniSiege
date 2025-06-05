@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy_basic_exploding_0: -3963063977540562749
+      enemy_basic_exploding_1: 3825672522368130124
+      enemy_basic_exploding_10: -3214742812333732821
+      enemy_basic_exploding_11: -1647967932611106357
+      enemy_basic_exploding_12: 2173518475441677237
+      enemy_basic_exploding_13: 1618257364578698404
+      enemy_basic_exploding_14: 8245569951741162034
+      enemy_basic_exploding_15: -817710727197069991
+      enemy_basic_exploding_16: 3263560623235455176
+      enemy_basic_exploding_17: -6394157952288887166
+      enemy_basic_exploding_18: -1020622207902603448
+      enemy_basic_exploding_19: -2290105682848084202
+      enemy_basic_exploding_2: -7476619126592276625
+      enemy_basic_exploding_20: -1331473278043165623
+      enemy_basic_exploding_21: -1888314213505004362
+      enemy_basic_exploding_22: -8349899482233923297
+      enemy_basic_exploding_23: 732691053913369816
+      enemy_basic_exploding_3: 3872725244921752185
+      enemy_basic_exploding_4: 3805000156038968156
+      enemy_basic_exploding_5: 270634718919905827
+      enemy_basic_exploding_6: -3072071130440115872
+      enemy_basic_exploding_7: 2424181883650394636
+      enemy_basic_exploding_8: 223683988141556097
+      enemy_basic_exploding_9: 4460691812722441818
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

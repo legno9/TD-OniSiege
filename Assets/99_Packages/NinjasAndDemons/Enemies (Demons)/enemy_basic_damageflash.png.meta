@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -172,10 +172,10 @@ TextureImporter:
       name: enemy_basic_damageflash_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 104
-        width: 17
-        height: 16
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,10 +194,10 @@ TextureImporter:
       name: enemy_basic_damageflash_1
       rect:
         serializedVersion: 2
-        x: 40
-        y: 104
-        width: 17
-        height: 15
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,10 +216,10 @@ TextureImporter:
       name: enemy_basic_damageflash_2
       rect:
         serializedVersion: 2
-        x: 72
-        y: 104
-        width: 17
-        height: 16
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -238,10 +238,10 @@ TextureImporter:
       name: enemy_basic_damageflash_3
       rect:
         serializedVersion: 2
-        x: 104
-        y: 104
-        width: 17
-        height: 16
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,10 +260,10 @@ TextureImporter:
       name: enemy_basic_damageflash_4
       rect:
         serializedVersion: 2
-        x: 136
-        y: 104
-        width: 17
-        height: 15
+        x: 128
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -282,10 +282,10 @@ TextureImporter:
       name: enemy_basic_damageflash_5
       rect:
         serializedVersion: 2
-        x: 168
-        y: 104
-        width: 17
-        height: 16
+        x: 160
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,10 +304,10 @@ TextureImporter:
       name: enemy_basic_damageflash_6
       rect:
         serializedVersion: 2
-        x: 8
-        y: 72
-        width: 17
-        height: 16
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,10 +326,10 @@ TextureImporter:
       name: enemy_basic_damageflash_7
       rect:
         serializedVersion: 2
-        x: 40
-        y: 72
-        width: 17
-        height: 15
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -348,10 +348,10 @@ TextureImporter:
       name: enemy_basic_damageflash_8
       rect:
         serializedVersion: 2
-        x: 72
-        y: 72
-        width: 17
-        height: 16
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -370,10 +370,10 @@ TextureImporter:
       name: enemy_basic_damageflash_9
       rect:
         serializedVersion: 2
-        x: 104
-        y: 72
-        width: 17
-        height: 16
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,10 +392,10 @@ TextureImporter:
       name: enemy_basic_damageflash_10
       rect:
         serializedVersion: 2
-        x: 136
-        y: 72
-        width: 17
-        height: 15
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -414,10 +414,10 @@ TextureImporter:
       name: enemy_basic_damageflash_11
       rect:
         serializedVersion: 2
-        x: 168
-        y: 72
-        width: 17
-        height: 16
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -436,10 +436,10 @@ TextureImporter:
       name: enemy_basic_damageflash_12
       rect:
         serializedVersion: 2
-        x: 8
-        y: 40
-        width: 17
-        height: 16
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,10 +458,10 @@ TextureImporter:
       name: enemy_basic_damageflash_13
       rect:
         serializedVersion: 2
-        x: 40
-        y: 40
-        width: 17
-        height: 15
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -480,10 +480,10 @@ TextureImporter:
       name: enemy_basic_damageflash_14
       rect:
         serializedVersion: 2
-        x: 72
-        y: 40
-        width: 17
-        height: 16
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -502,10 +502,10 @@ TextureImporter:
       name: enemy_basic_damageflash_15
       rect:
         serializedVersion: 2
-        x: 104
-        y: 40
-        width: 17
-        height: 16
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -524,10 +524,10 @@ TextureImporter:
       name: enemy_basic_damageflash_16
       rect:
         serializedVersion: 2
-        x: 136
-        y: 40
-        width: 17
-        height: 15
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,10 +546,10 @@ TextureImporter:
       name: enemy_basic_damageflash_17
       rect:
         serializedVersion: 2
-        x: 168
-        y: 40
-        width: 17
-        height: 16
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -568,10 +568,10 @@ TextureImporter:
       name: enemy_basic_damageflash_18
       rect:
         serializedVersion: 2
-        x: 8
-        y: 8
-        width: 17
-        height: 16
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -590,10 +590,10 @@ TextureImporter:
       name: enemy_basic_damageflash_19
       rect:
         serializedVersion: 2
-        x: 40
-        y: 8
-        width: 17
-        height: 15
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -612,10 +612,10 @@ TextureImporter:
       name: enemy_basic_damageflash_20
       rect:
         serializedVersion: 2
-        x: 72
-        y: 8
-        width: 17
-        height: 16
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -634,10 +634,10 @@ TextureImporter:
       name: enemy_basic_damageflash_21
       rect:
         serializedVersion: 2
-        x: 104
-        y: 8
-        width: 17
-        height: 16
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -656,10 +656,10 @@ TextureImporter:
       name: enemy_basic_damageflash_22
       rect:
         serializedVersion: 2
-        x: 136
-        y: 8
-        width: 17
-        height: 15
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,10 +678,10 @@ TextureImporter:
       name: enemy_basic_damageflash_23
       rect:
         serializedVersion: 2
-        x: 168
-        y: 8
-        width: 17
-        height: 16
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -700,7 +700,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 855e482cecddff747865c3fc4281b113
     internalID: 0
     vertices: []
     indices: 
@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy_basic_damageflash_0: -4468828591695337643
+      enemy_basic_damageflash_1: 2077694928052169614
+      enemy_basic_damageflash_10: -398253284193205637
+      enemy_basic_damageflash_11: -4646832774169897479
+      enemy_basic_damageflash_12: -6946040139784967748
+      enemy_basic_damageflash_13: -3170483062746643935
+      enemy_basic_damageflash_14: -6693510562052654003
+      enemy_basic_damageflash_15: -7003757115181352222
+      enemy_basic_damageflash_16: -1014183451981828494
+      enemy_basic_damageflash_17: -2655710608732567640
+      enemy_basic_damageflash_18: 551970504776882532
+      enemy_basic_damageflash_19: -7331817924741262497
+      enemy_basic_damageflash_2: 8197114462219726482
+      enemy_basic_damageflash_20: 7504463260129299899
+      enemy_basic_damageflash_21: 4694864277159094439
+      enemy_basic_damageflash_22: -7184309817960182054
+      enemy_basic_damageflash_23: -7552951005239214780
+      enemy_basic_damageflash_3: -4517618184016553783
+      enemy_basic_damageflash_4: 4953045040828373266
+      enemy_basic_damageflash_5: -1605038770577771734
+      enemy_basic_damageflash_6: 170600100685695355
+      enemy_basic_damageflash_7: -4800587320251892103
+      enemy_basic_damageflash_8: 3799054241641876966
+      enemy_basic_damageflash_9: -1051701940372988843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

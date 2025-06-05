@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy_flying_teleporting_0: -3978655304201826835
+      enemy_flying_teleporting_1: 8067391412565728030
+      enemy_flying_teleporting_10: -7300547185113595030
+      enemy_flying_teleporting_11: 5938429962962877428
+      enemy_flying_teleporting_12: -7707197727858235618
+      enemy_flying_teleporting_13: 2871227617466533426
+      enemy_flying_teleporting_14: -7992853770750207862
+      enemy_flying_teleporting_15: -4741786086926072308
+      enemy_flying_teleporting_16: -8123950762050356400
+      enemy_flying_teleporting_17: 1106292124958193297
+      enemy_flying_teleporting_18: 8447791422594857721
+      enemy_flying_teleporting_19: -8496718863126149002
+      enemy_flying_teleporting_2: 280986587827131124
+      enemy_flying_teleporting_20: -215966088661110814
+      enemy_flying_teleporting_21: 1414388679369029500
+      enemy_flying_teleporting_22: -621351506329811510
+      enemy_flying_teleporting_23: 8925063001230381903
+      enemy_flying_teleporting_3: 8159333947433939215
+      enemy_flying_teleporting_4: 7541370074678545228
+      enemy_flying_teleporting_5: -5814255300235067043
+      enemy_flying_teleporting_6: -7389773238128503875
+      enemy_flying_teleporting_7: 4621748566358047553
+      enemy_flying_teleporting_8: -8447372537280766364
+      enemy_flying_teleporting_9: 5932922282211205976
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

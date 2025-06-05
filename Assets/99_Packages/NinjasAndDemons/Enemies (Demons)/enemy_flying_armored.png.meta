@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy_flying_armored_0: 2026017712226321013
+      enemy_flying_armored_1: -1711702326236715341
+      enemy_flying_armored_10: 7380842409069404248
+      enemy_flying_armored_11: 1360608684112359525
+      enemy_flying_armored_12: -4818424651649708391
+      enemy_flying_armored_13: -4885045970418273653
+      enemy_flying_armored_14: -4110748539419589691
+      enemy_flying_armored_15: -2661266324752752462
+      enemy_flying_armored_16: -8173632940487438284
+      enemy_flying_armored_17: 8586421437919133930
+      enemy_flying_armored_18: -6444911382013663485
+      enemy_flying_armored_19: -3135533677744624958
+      enemy_flying_armored_2: -510018281072267373
+      enemy_flying_armored_20: -5053704787661821354
+      enemy_flying_armored_21: 5502599225766911459
+      enemy_flying_armored_22: -2974148779835223853
+      enemy_flying_armored_23: -7332466602541463326
+      enemy_flying_armored_3: 5109495964691738062
+      enemy_flying_armored_4: 3674811233824789658
+      enemy_flying_armored_5: 2982746765638570373
+      enemy_flying_armored_6: -5529425545973733254
+      enemy_flying_armored_7: 5241280891578776877
+      enemy_flying_armored_8: -2049278363305815228
+      enemy_flying_armored_9: 8227298546422945152
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

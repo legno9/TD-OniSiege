@@ -196,7 +196,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -210,7 +210,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -234,7 +234,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -262,10 +262,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 252
-        width: 24
-        height: 22
+        x: 0
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,10 +284,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_1
       rect:
         serializedVersion: 2
-        x: 60
-        y: 252
-        width: 24
-        height: 21
+        x: 48
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -306,10 +306,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_2
       rect:
         serializedVersion: 2
-        x: 110
-        y: 252
-        width: 23
-        height: 22
+        x: 96
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,10 +328,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_3
       rect:
         serializedVersion: 2
-        x: 158
-        y: 252
-        width: 23
-        height: 22
+        x: 144
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -350,10 +350,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_4
       rect:
         serializedVersion: 2
-        x: 205
-        y: 250
-        width: 24
-        height: 24
+        x: 192
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -372,10 +372,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_5
       rect:
         serializedVersion: 2
-        x: 251
-        y: 252
-        width: 26
-        height: 22
+        x: 240
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -394,10 +394,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_6
       rect:
         serializedVersion: 2
-        x: 300
-        y: 252
-        width: 25
-        height: 22
+        x: 288
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -416,10 +416,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_7
       rect:
         serializedVersion: 2
-        x: 349
-        y: 252
-        width: 24
-        height: 22
+        x: 336
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -438,10 +438,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_8
       rect:
         serializedVersion: 2
-        x: 398
-        y: 252
-        width: 23
-        height: 22
+        x: 384
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -460,10 +460,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_9
       rect:
         serializedVersion: 2
-        x: 13
-        y: 204
-        width: 23
-        height: 22
+        x: 0
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -482,10 +482,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_10
       rect:
         serializedVersion: 2
-        x: 61
-        y: 204
-        width: 23
-        height: 21
+        x: 48
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -504,10 +504,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_11
       rect:
         serializedVersion: 2
-        x: 111
-        y: 204
-        width: 21
-        height: 22
+        x: 96
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -526,10 +526,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_12
       rect:
         serializedVersion: 2
-        x: 159
-        y: 204
-        width: 21
-        height: 22
+        x: 144
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -548,10 +548,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_13
       rect:
         serializedVersion: 2
-        x: 207
-        y: 203
-        width: 21
-        height: 23
+        x: 192
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -570,10 +570,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_14
       rect:
         serializedVersion: 2
-        x: 254
-        y: 204
-        width: 22
-        height: 23
+        x: 240
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -592,10 +592,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_15
       rect:
         serializedVersion: 2
-        x: 302
-        y: 204
-        width: 22
-        height: 22
+        x: 288
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -614,10 +614,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_16
       rect:
         serializedVersion: 2
-        x: 351
-        y: 204
-        width: 21
-        height: 22
+        x: 336
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -636,10 +636,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_17
       rect:
         serializedVersion: 2
-        x: 399
-        y: 204
-        width: 21
-        height: 22
+        x: 384
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -658,10 +658,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_18
       rect:
         serializedVersion: 2
-        x: 12
-        y: 156
-        width: 23
-        height: 22
+        x: 0
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -680,10 +680,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_19
       rect:
         serializedVersion: 2
-        x: 60
-        y: 156
-        width: 23
-        height: 21
+        x: 48
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -702,10 +702,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_20
       rect:
         serializedVersion: 2
-        x: 102
-        y: 156
-        width: 30
-        height: 22
+        x: 96
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -724,10 +724,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_21
       rect:
         serializedVersion: 2
-        x: 150
-        y: 156
-        width: 30
-        height: 22
+        x: 144
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -746,10 +746,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_22
       rect:
         serializedVersion: 2
-        x: 194
-        y: 156
-        width: 34
-        height: 22
+        x: 192
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -768,10 +768,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_23
       rect:
         serializedVersion: 2
-        x: 244
-        y: 156
-        width: 32
-        height: 23
+        x: 240
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -790,10 +790,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_24
       rect:
         serializedVersion: 2
-        x: 295
-        y: 156
-        width: 29
-        height: 22
+        x: 288
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -812,10 +812,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_25
       rect:
         serializedVersion: 2
-        x: 338
-        y: 156
-        width: 34
-        height: 22
+        x: 336
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -834,10 +834,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_26
       rect:
         serializedVersion: 2
-        x: 390
-        y: 156
-        width: 30
-        height: 22
+        x: 384
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -856,10 +856,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_27
       rect:
         serializedVersion: 2
-        x: 12
-        y: 108
-        width: 24
-        height: 22
+        x: 0
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -878,10 +878,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_28
       rect:
         serializedVersion: 2
-        x: 60
-        y: 108
-        width: 24
-        height: 21
+        x: 48
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -900,10 +900,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_29
       rect:
         serializedVersion: 2
-        x: 107
-        y: 108
-        width: 26
-        height: 22
+        x: 96
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -922,10 +922,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_30
       rect:
         serializedVersion: 2
-        x: 155
-        y: 108
-        width: 26
-        height: 22
+        x: 144
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -944,10 +944,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_31
       rect:
         serializedVersion: 2
-        x: 203
-        y: 108
-        width: 27
-        height: 26
+        x: 192
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -966,10 +966,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_32
       rect:
         serializedVersion: 2
-        x: 251
-        y: 108
-        width: 27
-        height: 22
+        x: 240
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -988,10 +988,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_33
       rect:
         serializedVersion: 2
-        x: 299
-        y: 108
-        width: 27
-        height: 22
+        x: 288
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1010,10 +1010,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_34
       rect:
         serializedVersion: 2
-        x: 347
-        y: 108
-        width: 27
-        height: 22
+        x: 336
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1032,10 +1032,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_35
       rect:
         serializedVersion: 2
-        x: 395
-        y: 108
-        width: 26
-        height: 22
+        x: 384
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1054,10 +1054,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_36
       rect:
         serializedVersion: 2
-        x: 13
-        y: 60
-        width: 22
-        height: 22
+        x: 0
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1076,10 +1076,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_37
       rect:
         serializedVersion: 2
-        x: 61
-        y: 60
-        width: 22
-        height: 21
+        x: 48
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1098,10 +1098,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_38
       rect:
         serializedVersion: 2
-        x: 108
-        y: 60
-        width: 28
-        height: 22
+        x: 96
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1120,10 +1120,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_39
       rect:
         serializedVersion: 2
-        x: 156
-        y: 60
-        width: 28
-        height: 22
+        x: 144
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1142,10 +1142,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_40
       rect:
         serializedVersion: 2
-        x: 204
-        y: 60
-        width: 32
-        height: 24
+        x: 192
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1164,10 +1164,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_41
       rect:
         serializedVersion: 2
-        x: 252
-        y: 60
-        width: 25
-        height: 27
+        x: 240
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1186,10 +1186,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_42
       rect:
         serializedVersion: 2
-        x: 300
-        y: 60
-        width: 24
-        height: 23
+        x: 288
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1208,10 +1208,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_43
       rect:
         serializedVersion: 2
-        x: 348
-        y: 60
-        width: 26
-        height: 22
+        x: 336
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1230,10 +1230,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_44
       rect:
         serializedVersion: 2
-        x: 396
-        y: 60
-        width: 28
-        height: 22
+        x: 384
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1252,10 +1252,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_45
       rect:
         serializedVersion: 2
-        x: 13
-        y: 12
-        width: 22
-        height: 22
+        x: 0
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1274,10 +1274,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_46
       rect:
         serializedVersion: 2
-        x: 61
-        y: 12
-        width: 22
-        height: 21
+        x: 48
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1296,10 +1296,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_47
       rect:
         serializedVersion: 2
-        x: 108
-        y: 12
-        width: 23
-        height: 24
+        x: 96
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1318,10 +1318,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_48
       rect:
         serializedVersion: 2
-        x: 156
-        y: 12
-        width: 23
-        height: 24
+        x: 144
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1340,10 +1340,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_49
       rect:
         serializedVersion: 2
-        x: 204
-        y: 12
-        width: 23
-        height: 28
+        x: 192
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1362,10 +1362,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_50
       rect:
         serializedVersion: 2
-        x: 252
-        y: 12
-        width: 23
-        height: 29
+        x: 240
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1384,10 +1384,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_51
       rect:
         serializedVersion: 2
-        x: 300
-        y: 12
-        width: 23
-        height: 25
+        x: 288
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1406,10 +1406,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_52
       rect:
         serializedVersion: 2
-        x: 348
-        y: 12
-        width: 23
-        height: 25
+        x: 336
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1428,10 +1428,10 @@ TextureImporter:
       name: tower_ninja_gun_0-4_53
       rect:
         serializedVersion: 2
-        x: 396
-        y: 12
-        width: 23
-        height: 24
+        x: 384
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1450,7 +1450,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9ef92254b2f3a9b4faf4c8de5c620721
     internalID: 0
     vertices: []
     indices: 
@@ -1459,7 +1459,61 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tower_ninja_gun_0-4_0: 2977912436986539793
+      tower_ninja_gun_0-4_1: 6276891521062508419
+      tower_ninja_gun_0-4_10: -3607579156201420700
+      tower_ninja_gun_0-4_11: 2913857700692696227
+      tower_ninja_gun_0-4_12: 7984809002763982190
+      tower_ninja_gun_0-4_13: -7424033699117666483
+      tower_ninja_gun_0-4_14: 2144923896797914139
+      tower_ninja_gun_0-4_15: 5964964538090532070
+      tower_ninja_gun_0-4_16: -270392250320268736
+      tower_ninja_gun_0-4_17: 7423384329161310506
+      tower_ninja_gun_0-4_18: -5456629738019697642
+      tower_ninja_gun_0-4_19: 8369555400084824306
+      tower_ninja_gun_0-4_2: 1214429821209475869
+      tower_ninja_gun_0-4_20: 5813853926224542886
+      tower_ninja_gun_0-4_21: 8271769193178336889
+      tower_ninja_gun_0-4_22: 7159971985616065259
+      tower_ninja_gun_0-4_23: 1782723012873575653
+      tower_ninja_gun_0-4_24: 7477571208645751017
+      tower_ninja_gun_0-4_25: 80757572455336275
+      tower_ninja_gun_0-4_26: 5536786912539512147
+      tower_ninja_gun_0-4_27: 3889082427833244869
+      tower_ninja_gun_0-4_28: -5823722489686371890
+      tower_ninja_gun_0-4_29: 7967355695285011145
+      tower_ninja_gun_0-4_3: 914113522891425962
+      tower_ninja_gun_0-4_30: 2775862170254487727
+      tower_ninja_gun_0-4_31: 8035353764949932329
+      tower_ninja_gun_0-4_32: -4348702544993506641
+      tower_ninja_gun_0-4_33: -3873527521552109815
+      tower_ninja_gun_0-4_34: -4838513212807668535
+      tower_ninja_gun_0-4_35: -5295069467723939274
+      tower_ninja_gun_0-4_36: -7646070102085367244
+      tower_ninja_gun_0-4_37: -8030083056414212643
+      tower_ninja_gun_0-4_38: 11827223030670628
+      tower_ninja_gun_0-4_39: 1259644034860798276
+      tower_ninja_gun_0-4_4: -4044668991218579912
+      tower_ninja_gun_0-4_40: 7784250309941799099
+      tower_ninja_gun_0-4_41: -7430086716511252871
+      tower_ninja_gun_0-4_42: -8216632235442900340
+      tower_ninja_gun_0-4_43: 1735817140964006701
+      tower_ninja_gun_0-4_44: -9037735085984185288
+      tower_ninja_gun_0-4_45: -7953656593791889926
+      tower_ninja_gun_0-4_46: -394984214593266741
+      tower_ninja_gun_0-4_47: -4978473090742470115
+      tower_ninja_gun_0-4_48: -8783961303429322024
+      tower_ninja_gun_0-4_49: -2351866172304506500
+      tower_ninja_gun_0-4_5: 8401181572712167938
+      tower_ninja_gun_0-4_50: 6198537271859147862
+      tower_ninja_gun_0-4_51: 1535663670126108951
+      tower_ninja_gun_0-4_52: -4782969612593441808
+      tower_ninja_gun_0-4_53: 646604360400169461
+      tower_ninja_gun_0-4_6: -3960988126092064846
+      tower_ninja_gun_0-4_7: -8744445904447018314
+      tower_ninja_gun_0-4_8: 8200210115080875153
+      tower_ninja_gun_0-4_9: 9125548896341672398
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

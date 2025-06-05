@@ -430,7 +430,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -444,7 +444,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -468,7 +468,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -3409,7 +3409,139 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      selected_ninja_magic_0: 7976673728623356133
+      selected_ninja_magic_1: -8310856342640554337
+      selected_ninja_magic_10: -7134849935564204280
+      selected_ninja_magic_100: -5168595919345635430
+      selected_ninja_magic_101: 1194413505234421428
+      selected_ninja_magic_102: -7991826098836193475
+      selected_ninja_magic_103: 7796967243105526055
+      selected_ninja_magic_104: 7119160778484056578
+      selected_ninja_magic_105: 3201227344720840240
+      selected_ninja_magic_106: 5788642676980271548
+      selected_ninja_magic_107: 5470618284484659003
+      selected_ninja_magic_108: 434008102872402422
+      selected_ninja_magic_109: -7804677510094943826
+      selected_ninja_magic_11: 2148017425555110319
+      selected_ninja_magic_110: 9584080762300800
+      selected_ninja_magic_111: 4088430813727061259
+      selected_ninja_magic_112: 6086106871062968071
+      selected_ninja_magic_113: -1969929775669201729
+      selected_ninja_magic_114: 8326000611524526943
+      selected_ninja_magic_115: -7621400437750545655
+      selected_ninja_magic_116: 1362352604648482338
+      selected_ninja_magic_117: 140702421875481416
+      selected_ninja_magic_118: -2438863793066279196
+      selected_ninja_magic_119: 8222352309490508900
+      selected_ninja_magic_12: 8142293735929037776
+      selected_ninja_magic_120: 2526142811281612353
+      selected_ninja_magic_121: 5285522362507051277
+      selected_ninja_magic_122: 1031231160745736404
+      selected_ninja_magic_123: 5889071796628209848
+      selected_ninja_magic_124: -106301573083812684
+      selected_ninja_magic_125: 1646205202475408494
+      selected_ninja_magic_126: -6953042202211704143
+      selected_ninja_magic_127: -3261738822366083773
+      selected_ninja_magic_128: 7883493696252578602
+      selected_ninja_magic_129: -7268767030538135725
+      selected_ninja_magic_13: 7291147465362452566
+      selected_ninja_magic_130: -2823176437912488320
+      selected_ninja_magic_131: 2799839847939154580
+      selected_ninja_magic_14: -7355397078928660566
+      selected_ninja_magic_15: 1984390589963962718
+      selected_ninja_magic_16: 6575171982192614013
+      selected_ninja_magic_17: 2641927098691603851
+      selected_ninja_magic_18: 2360084019906632278
+      selected_ninja_magic_19: -2551894336154664727
+      selected_ninja_magic_2: -6401342015752444937
+      selected_ninja_magic_20: 7364280829839137
+      selected_ninja_magic_21: 2113133993741952031
+      selected_ninja_magic_22: 1306660666188591032
+      selected_ninja_magic_23: -2123686556387525157
+      selected_ninja_magic_24: 9212099907690241796
+      selected_ninja_magic_25: 5236241281611504408
+      selected_ninja_magic_26: -9124443156397979011
+      selected_ninja_magic_27: -3034477766661722574
+      selected_ninja_magic_28: 4096838927931128208
+      selected_ninja_magic_29: -7460176492681682258
+      selected_ninja_magic_3: 6847229434702292808
+      selected_ninja_magic_30: -162188993692727610
+      selected_ninja_magic_31: -5741081508941685743
+      selected_ninja_magic_32: 4903610697404321261
+      selected_ninja_magic_33: -5626060654671550476
+      selected_ninja_magic_34: 2134060447239275945
+      selected_ninja_magic_35: 2349178974347798955
+      selected_ninja_magic_36: -1132668977744984104
+      selected_ninja_magic_37: 7984022111663425320
+      selected_ninja_magic_38: 8345427050439241603
+      selected_ninja_magic_39: 7471662987508538048
+      selected_ninja_magic_4: 438309270629659630
+      selected_ninja_magic_40: -8090774343333324952
+      selected_ninja_magic_41: -1917074587514369686
+      selected_ninja_magic_42: -6915385189950225490
+      selected_ninja_magic_43: -288414014354569507
+      selected_ninja_magic_44: -7866123877183079260
+      selected_ninja_magic_45: -3705668896806199958
+      selected_ninja_magic_46: 7892093883455239523
+      selected_ninja_magic_47: -1188816726428963395
+      selected_ninja_magic_48: 5645682921130975581
+      selected_ninja_magic_49: 325044934586923998
+      selected_ninja_magic_5: 6285569351693909203
+      selected_ninja_magic_50: -3970814173209797212
+      selected_ninja_magic_51: 1858959864314897790
+      selected_ninja_magic_52: 3893249015004781302
+      selected_ninja_magic_53: 7026800764702004894
+      selected_ninja_magic_54: 6594939199846054147
+      selected_ninja_magic_55: 7775999890189995238
+      selected_ninja_magic_56: 8202471462830260315
+      selected_ninja_magic_57: -3565410742481542696
+      selected_ninja_magic_58: 3490621627059708575
+      selected_ninja_magic_59: 9169822207492369414
+      selected_ninja_magic_6: 295908804607168746
+      selected_ninja_magic_60: 5532904929742650008
+      selected_ninja_magic_61: 1476935363941786635
+      selected_ninja_magic_62: 403857424390444160
+      selected_ninja_magic_63: 5242064456149426945
+      selected_ninja_magic_64: -7795702857478723470
+      selected_ninja_magic_65: 7830215803530354613
+      selected_ninja_magic_66: -8787594640148883208
+      selected_ninja_magic_67: 5425701677524246541
+      selected_ninja_magic_68: -2274990064709690187
+      selected_ninja_magic_69: 3955639842081840192
+      selected_ninja_magic_7: 95494881837034306
+      selected_ninja_magic_70: -9061701532022980447
+      selected_ninja_magic_71: -2140013411050880495
+      selected_ninja_magic_72: -7186997839291897941
+      selected_ninja_magic_73: 1713221190485921566
+      selected_ninja_magic_74: -6206647651841910735
+      selected_ninja_magic_75: -4347722796448840082
+      selected_ninja_magic_76: 2757885471094692900
+      selected_ninja_magic_77: 5966178374686543637
+      selected_ninja_magic_78: -1529798331734788640
+      selected_ninja_magic_79: 6422542041547412017
+      selected_ninja_magic_8: 5975275507623193324
+      selected_ninja_magic_80: -195729640059096180
+      selected_ninja_magic_81: 4465096132577987729
+      selected_ninja_magic_82: 1555228042223470189
+      selected_ninja_magic_83: 8441849328820660919
+      selected_ninja_magic_84: 6281909780197249389
+      selected_ninja_magic_85: -8005360767418853701
+      selected_ninja_magic_86: -8290157169823747737
+      selected_ninja_magic_87: -3248964379043722830
+      selected_ninja_magic_88: -6815361714300871653
+      selected_ninja_magic_89: 7799753650837845292
+      selected_ninja_magic_9: -8486925478567861301
+      selected_ninja_magic_90: -5115985235045984260
+      selected_ninja_magic_91: 5049919656774124044
+      selected_ninja_magic_92: -6524419973295914500
+      selected_ninja_magic_93: -8856384090527483261
+      selected_ninja_magic_94: -5451502238810289460
+      selected_ninja_magic_95: 7463050279679003669
+      selected_ninja_magic_96: 4671110998294370499
+      selected_ninja_magic_97: -2208149839501378968
+      selected_ninja_magic_98: 1211995997529075776
+      selected_ninja_magic_99: -3197390085726913829
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

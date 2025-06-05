@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy_flying_exploding_0: -2042976656696531658
+      enemy_flying_exploding_1: -1512209763611937209
+      enemy_flying_exploding_10: 5199010782623495497
+      enemy_flying_exploding_11: 1479661448237107551
+      enemy_flying_exploding_12: -8692025067796382072
+      enemy_flying_exploding_13: 4631066012734869614
+      enemy_flying_exploding_14: -3147952705968594713
+      enemy_flying_exploding_15: -5599268094780869347
+      enemy_flying_exploding_16: -9111040513475656843
+      enemy_flying_exploding_17: -3613467790616472292
+      enemy_flying_exploding_18: 2318697413739207778
+      enemy_flying_exploding_19: 7779342586256699726
+      enemy_flying_exploding_2: 5524884870840643026
+      enemy_flying_exploding_20: -6587188085332507022
+      enemy_flying_exploding_21: 8828597385348343325
+      enemy_flying_exploding_22: -1627394622009158747
+      enemy_flying_exploding_23: -2913019598022627049
+      enemy_flying_exploding_3: 8400612474688104773
+      enemy_flying_exploding_4: -7193131380038861907
+      enemy_flying_exploding_5: -7686356729595255718
+      enemy_flying_exploding_6: -7435443727170554664
+      enemy_flying_exploding_7: 6044328645092991263
+      enemy_flying_exploding_8: -3668411233988366768
+      enemy_flying_exploding_9: 3638930957842915164
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,7 +96,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -124,19 +124,19 @@ TextureImporter:
       name: butterflies_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 16
-        width: 13
-        height: 10
+        x: 0
+        y: 14
+        width: 15
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 78daf2c2a68c5f9c0800000000000000
+      spriteID: aace6ec7a8bafa14c8aaac7c22dc3d33
       internalID: -3893985944458515065
       vertices: []
       indices: 
@@ -146,19 +146,19 @@ TextureImporter:
       name: butterflies_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 16
-        width: 13
-        height: 10
+        x: 15
+        y: 14
+        width: 15
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 29695e7770160fee0800000000000000
+      spriteID: deb722ba1c9f7c74cbc49bad9a433cd8
       internalID: -1229376013567945070
       vertices: []
       indices: 
@@ -168,19 +168,19 @@ TextureImporter:
       name: butterflies_2
       rect:
         serializedVersion: 2
-        x: 31
-        y: 16
-        width: 13
-        height: 10
+        x: 30
+        y: 14
+        width: 15
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e3e21569aeaf850b0800000000000000
+      spriteID: e4c0c08d89cfccc4bac870108de666a8
       internalID: -5739561839632503234
       vertices: []
       indices: 
@@ -190,19 +190,19 @@ TextureImporter:
       name: butterflies_3
       rect:
         serializedVersion: 2
-        x: 46
-        y: 16
-        width: 13
-        height: 10
+        x: 45
+        y: 14
+        width: 15
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 01bf079729af72550800000000000000
+      spriteID: 01f8dacb00de5a54d97b35bfc94e10b2
       internalID: 6136148524325206800
       vertices: []
       indices: 
@@ -212,19 +212,19 @@ TextureImporter:
       name: butterflies_4
       rect:
         serializedVersion: 2
-        x: 2
-        y: 2
-        width: 11
-        height: 11
+        x: 0
+        y: 0
+        width: 15
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b93258feeab2d7220800000000000000
+      spriteID: 9a8a07c087484c749b7ee984ef9f9104
       internalID: 2485190599721165723
       vertices: []
       indices: 
@@ -234,19 +234,19 @@ TextureImporter:
       name: butterflies_5
       rect:
         serializedVersion: 2
-        x: 17
-        y: 2
-        width: 11
-        height: 11
+        x: 15
+        y: 0
+        width: 15
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3c777b32b21ac13c0800000000000000
+      spriteID: 8b39af95f386e22469277b4c45c4536a
       internalID: -4387454730310813757
       vertices: []
       indices: 
@@ -256,19 +256,19 @@ TextureImporter:
       name: butterflies_6
       rect:
         serializedVersion: 2
-        x: 32
-        y: 2
-        width: 11
-        height: 11
+        x: 30
+        y: 0
+        width: 15
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8f4cb24c327c2c790800000000000000
+      spriteID: e530009a3b7a0ec44917ad11ce3a98ea
       internalID: -7511222272071580424
       vertices: []
       indices: 
@@ -278,19 +278,19 @@ TextureImporter:
       name: butterflies_7
       rect:
         serializedVersion: 2
-        x: 47
-        y: 2
-        width: 11
-        height: 11
+        x: 45
+        y: 0
+        width: 15
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: be59f09fd650bfe80800000000000000
+      spriteID: c2295222a53bd0a4cb6bd078467e9f2b
       internalID: -8143909531281287701
       vertices: []
       indices: 
@@ -300,7 +300,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d6e296dec235962419bcf0d8ba0cb27e
     internalID: 0
     vertices: []
     indices: 
@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      butterflies_0: -3893985944458515065
+      butterflies_1: -1229376013567945070
+      butterflies_2: -5739561839632503234
+      butterflies_3: 6136148524325206800
+      butterflies_4: 2485190599721165723
+      butterflies_5: -4387454730310813757
+      butterflies_6: -7511222272071580424
+      butterflies_7: -8143909531281287701
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

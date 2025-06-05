@@ -430,7 +430,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -444,7 +444,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -468,7 +468,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -3409,7 +3409,139 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tower_ninja_magic_1-0_0: 3607900138321393703
+      tower_ninja_magic_1-0_1: 4547666933500397139
+      tower_ninja_magic_1-0_10: -9086572630438012447
+      tower_ninja_magic_1-0_100: 6461073580617854999
+      tower_ninja_magic_1-0_101: 6022087938721174171
+      tower_ninja_magic_1-0_102: -6183546017733593908
+      tower_ninja_magic_1-0_103: 3406789533944670844
+      tower_ninja_magic_1-0_104: -7074259961880426801
+      tower_ninja_magic_1-0_105: 420504870041820158
+      tower_ninja_magic_1-0_106: 8949549729140820004
+      tower_ninja_magic_1-0_107: 9039706016696778082
+      tower_ninja_magic_1-0_108: 2670422403116376488
+      tower_ninja_magic_1-0_109: 2669541566171372094
+      tower_ninja_magic_1-0_11: -3713939417818148014
+      tower_ninja_magic_1-0_110: -2683684359235008999
+      tower_ninja_magic_1-0_111: 1234028379693026365
+      tower_ninja_magic_1-0_112: -6538178805476810022
+      tower_ninja_magic_1-0_113: 730230829970022292
+      tower_ninja_magic_1-0_114: 4701354233033824092
+      tower_ninja_magic_1-0_115: -2081268892770823464
+      tower_ninja_magic_1-0_116: -4284123002926419798
+      tower_ninja_magic_1-0_117: 7685175746891402111
+      tower_ninja_magic_1-0_118: 7367851899443314838
+      tower_ninja_magic_1-0_119: 4501973550034141972
+      tower_ninja_magic_1-0_12: -3767076487663126863
+      tower_ninja_magic_1-0_120: -1259690493355258553
+      tower_ninja_magic_1-0_121: 8147889715342395706
+      tower_ninja_magic_1-0_122: -2567744861565395969
+      tower_ninja_magic_1-0_123: 3924933499203456862
+      tower_ninja_magic_1-0_124: -4498062475386487730
+      tower_ninja_magic_1-0_125: 2855118555569204882
+      tower_ninja_magic_1-0_126: -7451029721915537314
+      tower_ninja_magic_1-0_127: -3300770885837494369
+      tower_ninja_magic_1-0_128: 422004317885641913
+      tower_ninja_magic_1-0_129: -5707304906313022110
+      tower_ninja_magic_1-0_13: -4975586839350601640
+      tower_ninja_magic_1-0_130: 6649989699769033351
+      tower_ninja_magic_1-0_131: 4799904522594425476
+      tower_ninja_magic_1-0_14: -3329148912588468027
+      tower_ninja_magic_1-0_15: -3601567043169427598
+      tower_ninja_magic_1-0_16: -264994984528011594
+      tower_ninja_magic_1-0_17: -7131149614022836503
+      tower_ninja_magic_1-0_18: -4002360432389005634
+      tower_ninja_magic_1-0_19: -7085526398526356472
+      tower_ninja_magic_1-0_2: -7153319666313334242
+      tower_ninja_magic_1-0_20: 7350840915417443130
+      tower_ninja_magic_1-0_21: -5586446124317182968
+      tower_ninja_magic_1-0_22: -2407335618641825640
+      tower_ninja_magic_1-0_23: 6133265207665805870
+      tower_ninja_magic_1-0_24: 3081359907559534257
+      tower_ninja_magic_1-0_25: -1718971365282078228
+      tower_ninja_magic_1-0_26: -8653057479341433177
+      tower_ninja_magic_1-0_27: 2327489910994840676
+      tower_ninja_magic_1-0_28: -614613606096770804
+      tower_ninja_magic_1-0_29: 2102397252582773213
+      tower_ninja_magic_1-0_3: 5034670379986622389
+      tower_ninja_magic_1-0_30: -9005957158748915223
+      tower_ninja_magic_1-0_31: 5238321459931596234
+      tower_ninja_magic_1-0_32: -8454002591922076397
+      tower_ninja_magic_1-0_33: 4525901881805117299
+      tower_ninja_magic_1-0_34: 3135812038099084143
+      tower_ninja_magic_1-0_35: 8486753664605310252
+      tower_ninja_magic_1-0_36: -338243458642430822
+      tower_ninja_magic_1-0_37: -4531626249143027288
+      tower_ninja_magic_1-0_38: 4936770195027152291
+      tower_ninja_magic_1-0_39: -2015369131875260800
+      tower_ninja_magic_1-0_4: -4333831722531698006
+      tower_ninja_magic_1-0_40: -8899340846917780684
+      tower_ninja_magic_1-0_41: -8716401460227825840
+      tower_ninja_magic_1-0_42: 3548532408704776082
+      tower_ninja_magic_1-0_43: 4363688795346790464
+      tower_ninja_magic_1-0_44: 6748371523880036200
+      tower_ninja_magic_1-0_45: 2469659514526695926
+      tower_ninja_magic_1-0_46: -8633535913946596045
+      tower_ninja_magic_1-0_47: 2526275192880792694
+      tower_ninja_magic_1-0_48: 2608894594811657365
+      tower_ninja_magic_1-0_49: -118628062986792975
+      tower_ninja_magic_1-0_5: 2880489483322561170
+      tower_ninja_magic_1-0_50: 2720090892715143509
+      tower_ninja_magic_1-0_51: -3732541376415196752
+      tower_ninja_magic_1-0_52: 2492726844855888478
+      tower_ninja_magic_1-0_53: 7670909260337472222
+      tower_ninja_magic_1-0_54: -8368860940728653254
+      tower_ninja_magic_1-0_55: 3342034576639715920
+      tower_ninja_magic_1-0_56: -9210743134696885731
+      tower_ninja_magic_1-0_57: 8815822760279207046
+      tower_ninja_magic_1-0_58: 6161042337829135563
+      tower_ninja_magic_1-0_59: -2642746964778742889
+      tower_ninja_magic_1-0_6: 7360945872371665103
+      tower_ninja_magic_1-0_60: -5904931330475702122
+      tower_ninja_magic_1-0_61: 4288941473075129416
+      tower_ninja_magic_1-0_62: -8238969876468072386
+      tower_ninja_magic_1-0_63: 8072996898817576497
+      tower_ninja_magic_1-0_64: -4295978523796900447
+      tower_ninja_magic_1-0_65: -7943376702990775575
+      tower_ninja_magic_1-0_66: -7780524723345600109
+      tower_ninja_magic_1-0_67: 1793788427201039469
+      tower_ninja_magic_1-0_68: 8717097071365301590
+      tower_ninja_magic_1-0_69: 1047519024963031421
+      tower_ninja_magic_1-0_7: -5604459470449484310
+      tower_ninja_magic_1-0_70: -5598611148285272911
+      tower_ninja_magic_1-0_71: -5389342646954772971
+      tower_ninja_magic_1-0_72: -3549235594063223007
+      tower_ninja_magic_1-0_73: -7239688908177790309
+      tower_ninja_magic_1-0_74: 3768408907839112201
+      tower_ninja_magic_1-0_75: 7952599922321505261
+      tower_ninja_magic_1-0_76: -5544602158696141944
+      tower_ninja_magic_1-0_77: -8996387657550995839
+      tower_ninja_magic_1-0_78: -5976965466407013801
+      tower_ninja_magic_1-0_79: 8533840782227052361
+      tower_ninja_magic_1-0_8: -5188020307001423144
+      tower_ninja_magic_1-0_80: -9223062781392472949
+      tower_ninja_magic_1-0_81: 5461319762703038978
+      tower_ninja_magic_1-0_82: 1050603271413434873
+      tower_ninja_magic_1-0_83: 6650490510199445818
+      tower_ninja_magic_1-0_84: 5556790860593016816
+      tower_ninja_magic_1-0_85: 8593164772013191246
+      tower_ninja_magic_1-0_86: -4664557741586470140
+      tower_ninja_magic_1-0_87: 6364569090933029690
+      tower_ninja_magic_1-0_88: -3999674906548047706
+      tower_ninja_magic_1-0_89: 2953911785150699478
+      tower_ninja_magic_1-0_9: 8296009502718947021
+      tower_ninja_magic_1-0_90: -4538391300096448996
+      tower_ninja_magic_1-0_91: 4951085080173531148
+      tower_ninja_magic_1-0_92: 5810030518139107967
+      tower_ninja_magic_1-0_93: -8741780392952223701
+      tower_ninja_magic_1-0_94: 4271591959074122507
+      tower_ninja_magic_1-0_95: 3339770871605108265
+      tower_ninja_magic_1-0_96: -4953565194080853791
+      tower_ninja_magic_1-0_97: -1156543974018456051
+      tower_ninja_magic_1-0_98: -7410633410195696483
+      tower_ninja_magic_1-0_99: 4248894760822644298
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

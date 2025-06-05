@@ -91,7 +91,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -105,7 +105,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -129,7 +129,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -584,7 +584,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      armorbreak_miniboss_0: -382037520378693907
+      armorbreak_miniboss_1: -2524995752846713973
+      armorbreak_miniboss_10: 1706996655122933674
+      armorbreak_miniboss_11: 6867471968297814533
+      armorbreak_miniboss_12: -8893473053779598465
+      armorbreak_miniboss_13: 1434996470683887400
+      armorbreak_miniboss_14: -687208843365143088
+      armorbreak_miniboss_15: -7493804314283736363
+      armorbreak_miniboss_16: 2812986258183731874
+      armorbreak_miniboss_17: 1026948769459653884
+      armorbreak_miniboss_18: -7669758366455801144
+      armorbreak_miniboss_2: 9055569826624326076
+      armorbreak_miniboss_3: -4113141328230535177
+      armorbreak_miniboss_4: 7986943947658074714
+      armorbreak_miniboss_5: -8797370247353808511
+      armorbreak_miniboss_6: -4071751329221032209
+      armorbreak_miniboss_7: 5095399652979208001
+      armorbreak_miniboss_8: -7797542359010051710
+      armorbreak_miniboss_9: -1979319212644804161
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

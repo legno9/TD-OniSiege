@@ -493,7 +493,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -507,7 +507,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -531,7 +531,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -3934,7 +3934,160 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      selected_building_cannon_0: 7906451326265685882
+      selected_building_cannon_1: 1704341059353645077
+      selected_building_cannon_10: -4674135776274432031
+      selected_building_cannon_100: -4392935896643217588
+      selected_building_cannon_101: -8363991095842568567
+      selected_building_cannon_102: 7136000702014858810
+      selected_building_cannon_103: -8355470096193873800
+      selected_building_cannon_104: -6017609399815790450
+      selected_building_cannon_105: 6524145563344772307
+      selected_building_cannon_106: -4509115971607482708
+      selected_building_cannon_107: 8029444417559049692
+      selected_building_cannon_108: 7235890737319868757
+      selected_building_cannon_109: -8109005326391384659
+      selected_building_cannon_11: -1170651671588989204
+      selected_building_cannon_110: 1885290965925188051
+      selected_building_cannon_111: 3715172540127209123
+      selected_building_cannon_112: -4403954169642402652
+      selected_building_cannon_113: -8678064578115199893
+      selected_building_cannon_114: -4050794544989586361
+      selected_building_cannon_115: 5066698052171711230
+      selected_building_cannon_116: 4654946038382492762
+      selected_building_cannon_117: 3105537613386410265
+      selected_building_cannon_118: 7082636168017354963
+      selected_building_cannon_119: -6708354335022963753
+      selected_building_cannon_12: 2231946302020833653
+      selected_building_cannon_120: -311892179877847813
+      selected_building_cannon_121: -6394473828499037203
+      selected_building_cannon_122: 1209112261450868123
+      selected_building_cannon_123: 4733089639005175394
+      selected_building_cannon_124: -6779427082184761265
+      selected_building_cannon_125: -8951886798712636546
+      selected_building_cannon_126: 5168159040566151034
+      selected_building_cannon_127: 8945304269209937664
+      selected_building_cannon_128: -4160245723484837267
+      selected_building_cannon_129: 2037010398293374387
+      selected_building_cannon_13: -2666375861517619324
+      selected_building_cannon_130: 5914916523533159464
+      selected_building_cannon_131: 4557593445425378424
+      selected_building_cannon_132: 2590384757885217018
+      selected_building_cannon_133: 4093805305862793700
+      selected_building_cannon_134: 5203626314390684255
+      selected_building_cannon_135: -5602212499764039346
+      selected_building_cannon_136: 4155782218215231802
+      selected_building_cannon_137: 2226255390462798759
+      selected_building_cannon_138: 6977383149788217365
+      selected_building_cannon_139: 1047601213431095154
+      selected_building_cannon_14: 8398668882741249953
+      selected_building_cannon_140: -1890859783081999718
+      selected_building_cannon_141: 3343940459318061034
+      selected_building_cannon_142: 4992394866847721506
+      selected_building_cannon_143: -6646016410154890985
+      selected_building_cannon_144: -5558807252084326750
+      selected_building_cannon_145: -7871861484093892619
+      selected_building_cannon_146: -1192723338675143288
+      selected_building_cannon_147: -9037223184895865469
+      selected_building_cannon_148: -344618614784201978
+      selected_building_cannon_149: 7196492238196735138
+      selected_building_cannon_15: -983175714013951731
+      selected_building_cannon_150: 8578373514584361403
+      selected_building_cannon_151: -1689990132235753126
+      selected_building_cannon_152: 6783939971990164072
+      selected_building_cannon_16: 3402866253277628583
+      selected_building_cannon_17: -4919040360761958467
+      selected_building_cannon_18: 7139994545936738030
+      selected_building_cannon_19: -6121024967994216420
+      selected_building_cannon_2: -4085117379934169285
+      selected_building_cannon_20: 4865681885102910425
+      selected_building_cannon_21: 5656503868409036408
+      selected_building_cannon_22: 2294922237659007615
+      selected_building_cannon_23: -745266207213716880
+      selected_building_cannon_24: -2792949841461607883
+      selected_building_cannon_25: -3499168423659425958
+      selected_building_cannon_26: 8827035540115354047
+      selected_building_cannon_27: -282385674600058064
+      selected_building_cannon_28: 6257628996469756315
+      selected_building_cannon_29: 511898016843596241
+      selected_building_cannon_3: 8933631428780315272
+      selected_building_cannon_30: 3783351926267348431
+      selected_building_cannon_31: -9018920352503424648
+      selected_building_cannon_32: 7633798240834507883
+      selected_building_cannon_33: -3531781964463343979
+      selected_building_cannon_34: -1547297719871634184
+      selected_building_cannon_35: -1784286874458382578
+      selected_building_cannon_36: -3162300892460611880
+      selected_building_cannon_37: 1094427492111042910
+      selected_building_cannon_38: -9087813502822291897
+      selected_building_cannon_39: -2845292365307318944
+      selected_building_cannon_4: -4832003790674511272
+      selected_building_cannon_40: -177301377113436082
+      selected_building_cannon_41: 5814847213602588723
+      selected_building_cannon_42: 7299663851437685022
+      selected_building_cannon_43: -5911316309123003858
+      selected_building_cannon_44: -5783840624580667878
+      selected_building_cannon_45: -2422174728353566551
+      selected_building_cannon_46: -5958039536974782223
+      selected_building_cannon_47: -4968235426275658031
+      selected_building_cannon_48: 1156379148564816264
+      selected_building_cannon_49: -2355086833000032160
+      selected_building_cannon_5: -1110648910752873482
+      selected_building_cannon_50: -5075772654466980732
+      selected_building_cannon_51: 4284764408768384069
+      selected_building_cannon_52: 1251925027641489408
+      selected_building_cannon_53: 5763707582257508270
+      selected_building_cannon_54: 2745496820119294403
+      selected_building_cannon_55: -6161825682348052793
+      selected_building_cannon_56: 617703057778454672
+      selected_building_cannon_57: 5341174772564949383
+      selected_building_cannon_58: -9020176721694670114
+      selected_building_cannon_59: -3918823832581148256
+      selected_building_cannon_6: 7741442859256892495
+      selected_building_cannon_60: -6456187116966695064
+      selected_building_cannon_61: 6543147579214646210
+      selected_building_cannon_62: 282191759417873760
+      selected_building_cannon_63: -5066846889128662092
+      selected_building_cannon_64: 8950505000943671509
+      selected_building_cannon_65: -1271258559547606726
+      selected_building_cannon_66: 8222598326254220890
+      selected_building_cannon_67: -6288967536871717802
+      selected_building_cannon_68: 8560926774376536469
+      selected_building_cannon_69: 7445660898922880272
+      selected_building_cannon_7: 686735148034418482
+      selected_building_cannon_70: -7197163464938885719
+      selected_building_cannon_71: -5382054501266304053
+      selected_building_cannon_72: 971821053320882750
+      selected_building_cannon_73: -5941065456891721142
+      selected_building_cannon_74: -4315195322588294568
+      selected_building_cannon_75: -6953266707761507753
+      selected_building_cannon_76: 8706480717287278469
+      selected_building_cannon_77: 5014111038770958648
+      selected_building_cannon_78: -8424762741160296962
+      selected_building_cannon_79: -8428255779568167090
+      selected_building_cannon_8: -8489668506883114142
+      selected_building_cannon_80: 6666459061165797089
+      selected_building_cannon_81: 8676011124603417354
+      selected_building_cannon_82: 3216476946573236416
+      selected_building_cannon_83: 7589511139464519982
+      selected_building_cannon_84: 2196324927058213432
+      selected_building_cannon_85: -76935115743414170
+      selected_building_cannon_86: -1214880721012104816
+      selected_building_cannon_87: -7004942761297937823
+      selected_building_cannon_88: -621781911233157975
+      selected_building_cannon_89: -4058277153629017767
+      selected_building_cannon_9: -641515940861871097
+      selected_building_cannon_90: -5980828699777638493
+      selected_building_cannon_91: 252601882261851532
+      selected_building_cannon_92: 3808892860010540928
+      selected_building_cannon_93: 6279248472939994385
+      selected_building_cannon_94: 8007667721555380225
+      selected_building_cannon_95: -6700894753035393954
+      selected_building_cannon_96: -8161984730051934063
+      selected_building_cannon_97: -6664398626980019823
+      selected_building_cannon_98: -8729929750398148849
+      selected_building_cannon_99: 2931270140878401808
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -61,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -99,7 +99,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -334,7 +334,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      selected_building_dojo_0: -8364175813632412980
+      selected_building_dojo_1: -8444869931415208774
+      selected_building_dojo_2: 6734493118244844898
+      selected_building_dojo_3: -7320014287986561002
+      selected_building_dojo_4: 8294288337780852719
+      selected_building_dojo_5: -8552707151048674843
+      selected_building_dojo_6: -7525187978026099256
+      selected_building_dojo_7: 5450880966400811212
+      selected_building_dojo_8: 7600720260500340228
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

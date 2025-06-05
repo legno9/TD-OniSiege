@@ -133,7 +133,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -147,7 +147,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -171,7 +171,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -934,7 +934,40 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      portal_0: -5816642994671486895
+      portal_1: 2720290072527178061
+      portal_10: -3142282842932432680
+      portal_11: -2752164304205098937
+      portal_12: -6197552279534655991
+      portal_13: -6891787091303663701
+      portal_14: 6254885828516898367
+      portal_15: 4289526287408063560
+      portal_16: -7872368518777113347
+      portal_17: 5982004341153625043
+      portal_18: 5761590866181317772
+      portal_19: 6761846517699090533
+      portal_2: -68809774801260167
+      portal_20: -4564995282794687626
+      portal_21: 4556539044645045482
+      portal_22: -964237697247841496
+      portal_23: 7105731126955614146
+      portal_24: 110412659064575055
+      portal_25: 5488354069480031224
+      portal_26: 3141109237652767854
+      portal_27: -4587924070003593828
+      portal_28: -4309170675082696740
+      portal_29: -8276187910298641390
+      portal_3: -4604820735629425415
+      portal_30: 7215495733020166267
+      portal_31: -2233781543957371108
+      portal_32: 2770750186553321371
+      portal_4: -6538954407832343249
+      portal_5: 7305771432161720801
+      portal_6: 6485356823907138318
+      portal_7: -1369078418111764407
+      portal_8: -5259029107282984620
+      portal_9: -3465161401354618432
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

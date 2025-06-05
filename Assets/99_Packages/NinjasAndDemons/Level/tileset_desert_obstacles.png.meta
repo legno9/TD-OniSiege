@@ -61,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -99,7 +99,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -127,10 +127,10 @@ TextureImporter:
       name: tileset_desert_obstacles_0
       rect:
         serializedVersion: 2
-        x: 32
-        y: 31
-        width: 31
-        height: 30
+        x: 33
+        y: 32
+        width: 29
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,10 +149,10 @@ TextureImporter:
       name: tileset_desert_obstacles_1
       rect:
         serializedVersion: 2
-        x: 63
-        y: 31
-        width: 36
-        height: 32
+        x: 64
+        y: 32
+        width: 34
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,10 +171,10 @@ TextureImporter:
       name: tileset_desert_obstacles_2
       rect:
         serializedVersion: 2
-        x: 63
-        y: 0
-        width: 36
-        height: 31
+        x: 128
+        y: 32
+        width: 34
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,10 +193,10 @@ TextureImporter:
       name: tileset_desert_obstacles_3
       rect:
         serializedVersion: 2
-        x: 127
-        y: 31
-        width: 36
-        height: 32
+        x: 192
+        y: 32
+        width: 34
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,10 +215,10 @@ TextureImporter:
       name: tileset_desert_obstacles_4
       rect:
         serializedVersion: 2
-        x: 127
+        x: 1
         y: 0
-        width: 36
-        height: 31
+        width: 31
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,10 +237,10 @@ TextureImporter:
       name: tileset_desert_obstacles_5
       rect:
         serializedVersion: 2
-        x: 191
-        y: 31
-        width: 36
-        height: 32
+        x: 33
+        y: 0
+        width: 29
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -259,10 +259,10 @@ TextureImporter:
       name: tileset_desert_obstacles_6
       rect:
         serializedVersion: 2
-        x: 191
+        x: 64
         y: 0
-        width: 36
-        height: 31
+        width: 34
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,9 +281,9 @@ TextureImporter:
       name: tileset_desert_obstacles_7
       rect:
         serializedVersion: 2
-        x: 0
+        x: 128
         y: 0
-        width: 33
+        width: 34
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -303,10 +303,10 @@ TextureImporter:
       name: tileset_desert_obstacles_8
       rect:
         serializedVersion: 2
-        x: 32
+        x: 192
         y: 0
-        width: 31
-        height: 29
+        width: 34
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -325,7 +325,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0182b1b864f82d54aa0ba5271ad699db
     internalID: 0
     vertices: []
     indices: 
@@ -334,7 +334,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tileset_desert_obstacles_0: 7208414792881401161
+      tileset_desert_obstacles_1: 8397867475850923162
+      tileset_desert_obstacles_2: 3391654148180479659
+      tileset_desert_obstacles_3: 4844657114937732256
+      tileset_desert_obstacles_4: 2053924874456339053
+      tileset_desert_obstacles_5: -5423794995483500613
+      tileset_desert_obstacles_6: 970722910902352061
+      tileset_desert_obstacles_7: 6262059989832847092
+      tileset_desert_obstacles_8: 1912184585933835655
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -172,10 +172,10 @@ TextureImporter:
       name: enemy_miniboss_normal_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 102
-        width: 21
-        height: 23
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,10 +194,10 @@ TextureImporter:
       name: enemy_miniboss_normal_1
       rect:
         serializedVersion: 2
-        x: 38
-        y: 102
-        width: 21
-        height: 22
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,10 +216,10 @@ TextureImporter:
       name: enemy_miniboss_normal_2
       rect:
         serializedVersion: 2
-        x: 70
-        y: 102
-        width: 21
-        height: 23
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -238,10 +238,10 @@ TextureImporter:
       name: enemy_miniboss_normal_3
       rect:
         serializedVersion: 2
-        x: 102
-        y: 102
-        width: 21
-        height: 23
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,10 +260,10 @@ TextureImporter:
       name: enemy_miniboss_normal_4
       rect:
         serializedVersion: 2
-        x: 134
-        y: 102
-        width: 21
-        height: 22
+        x: 128
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -282,10 +282,10 @@ TextureImporter:
       name: enemy_miniboss_normal_5
       rect:
         serializedVersion: 2
-        x: 166
-        y: 102
-        width: 21
-        height: 23
+        x: 160
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,10 +304,10 @@ TextureImporter:
       name: enemy_miniboss_normal_6
       rect:
         serializedVersion: 2
-        x: 6
-        y: 70
-        width: 21
-        height: 23
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,10 +326,10 @@ TextureImporter:
       name: enemy_miniboss_normal_7
       rect:
         serializedVersion: 2
-        x: 38
-        y: 70
-        width: 21
-        height: 22
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -348,10 +348,10 @@ TextureImporter:
       name: enemy_miniboss_normal_8
       rect:
         serializedVersion: 2
-        x: 70
-        y: 70
-        width: 21
-        height: 23
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -370,10 +370,10 @@ TextureImporter:
       name: enemy_miniboss_normal_9
       rect:
         serializedVersion: 2
-        x: 102
-        y: 70
-        width: 21
-        height: 23
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,10 +392,10 @@ TextureImporter:
       name: enemy_miniboss_normal_10
       rect:
         serializedVersion: 2
-        x: 134
-        y: 70
-        width: 21
-        height: 22
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -414,10 +414,10 @@ TextureImporter:
       name: enemy_miniboss_normal_11
       rect:
         serializedVersion: 2
-        x: 166
-        y: 70
-        width: 21
-        height: 23
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -436,10 +436,10 @@ TextureImporter:
       name: enemy_miniboss_normal_12
       rect:
         serializedVersion: 2
-        x: 6
-        y: 38
-        width: 21
-        height: 23
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,10 +458,10 @@ TextureImporter:
       name: enemy_miniboss_normal_13
       rect:
         serializedVersion: 2
-        x: 38
-        y: 38
-        width: 21
-        height: 22
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -480,10 +480,10 @@ TextureImporter:
       name: enemy_miniboss_normal_14
       rect:
         serializedVersion: 2
-        x: 70
-        y: 38
-        width: 21
-        height: 23
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -502,10 +502,10 @@ TextureImporter:
       name: enemy_miniboss_normal_15
       rect:
         serializedVersion: 2
-        x: 102
-        y: 38
-        width: 21
-        height: 23
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -524,10 +524,10 @@ TextureImporter:
       name: enemy_miniboss_normal_16
       rect:
         serializedVersion: 2
-        x: 134
-        y: 38
-        width: 21
-        height: 22
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,10 +546,10 @@ TextureImporter:
       name: enemy_miniboss_normal_17
       rect:
         serializedVersion: 2
-        x: 166
-        y: 38
-        width: 21
-        height: 23
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -568,10 +568,10 @@ TextureImporter:
       name: enemy_miniboss_normal_18
       rect:
         serializedVersion: 2
-        x: 6
-        y: 6
-        width: 21
-        height: 23
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -590,10 +590,10 @@ TextureImporter:
       name: enemy_miniboss_normal_19
       rect:
         serializedVersion: 2
-        x: 38
-        y: 6
-        width: 21
-        height: 22
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -612,10 +612,10 @@ TextureImporter:
       name: enemy_miniboss_normal_20
       rect:
         serializedVersion: 2
-        x: 70
-        y: 6
-        width: 21
-        height: 23
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -634,10 +634,10 @@ TextureImporter:
       name: enemy_miniboss_normal_21
       rect:
         serializedVersion: 2
-        x: 102
-        y: 6
-        width: 21
-        height: 23
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -656,10 +656,10 @@ TextureImporter:
       name: enemy_miniboss_normal_22
       rect:
         serializedVersion: 2
-        x: 134
-        y: 6
-        width: 21
-        height: 22
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,10 +678,10 @@ TextureImporter:
       name: enemy_miniboss_normal_23
       rect:
         serializedVersion: 2
-        x: 166
-        y: 6
-        width: 21
-        height: 23
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -700,7 +700,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 54a707a21c04b0d489bf6de125081570
     internalID: 0
     vertices: []
     indices: 
@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy_miniboss_normal_0: 4706959487951967241
+      enemy_miniboss_normal_1: -3639733325039258075
+      enemy_miniboss_normal_10: 5653855173105152751
+      enemy_miniboss_normal_11: 5368667239152567041
+      enemy_miniboss_normal_12: 3095840521475634483
+      enemy_miniboss_normal_13: 8720795715650479074
+      enemy_miniboss_normal_14: -563192450217162037
+      enemy_miniboss_normal_15: -4535829501914662017
+      enemy_miniboss_normal_16: 4913211937124851407
+      enemy_miniboss_normal_17: -4010202538022296578
+      enemy_miniboss_normal_18: -3555072535852921365
+      enemy_miniboss_normal_19: 406253716161377077
+      enemy_miniboss_normal_2: 2874698644518214506
+      enemy_miniboss_normal_20: -1716870964015159056
+      enemy_miniboss_normal_21: 8248802751531862690
+      enemy_miniboss_normal_22: 2482914314150699380
+      enemy_miniboss_normal_23: 4888053039665934780
+      enemy_miniboss_normal_3: 1339889938200335511
+      enemy_miniboss_normal_4: 6571240968534952989
+      enemy_miniboss_normal_5: 9025066785910385562
+      enemy_miniboss_normal_6: 1013168430553380211
+      enemy_miniboss_normal_7: 4264281829032302575
+      enemy_miniboss_normal_8: -7058753720633947914
+      enemy_miniboss_normal_9: -4995379465346302125
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
