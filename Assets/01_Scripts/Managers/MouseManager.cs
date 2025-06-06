@@ -43,12 +43,20 @@ public class MouseManager : MonoBehaviour
         
         Vector3 mouseWorldPos = _mainCamera.ScreenToWorldPoint(Input.mousePosition);
         
-        Vector3Int currentCellPosition = _currentMapManager.GetTileFromWorldPos(mouseWorldPos);
-        UpdateHighlight(currentCellPosition);
+        Vector3Int? currentCellPosition = _currentMapManager.GetTileFromWorldPos(mouseWorldPos);
+
+        if (!currentCellPosition.HasValue)
+        {
+            if (!_currentHighlight) return;
+            _currentHighlight.SetActive(false);
+            return;
+        }
+
+        UpdateHighlight(currentCellPosition.Value);
 
         if (Input.GetMouseButtonDown(0))
         {
-            _currentMapManager.ProcessClickOnCell(currentCellPosition);
+            _currentMapManager.ProcessClickOnCell(currentCellPosition.Value);
         }
     }
 
@@ -60,7 +68,7 @@ public class MouseManager : MonoBehaviour
         
         _previousCellPosition = cellPosition;
         _currentHighlight.transform.position = _currentMapManager.GetTileWorldCenter(cellPosition);
-        _currentHighlight.SetActive(true);
+        _currentHighlight.SetActive(false);
     }
     
     public void RegisterMapManager(MapManager mapManager)

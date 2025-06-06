@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 573d38c3221e444db48ea5dc11321865, type: 3}
   m_Name: BasicEnemy
   m_EditorClassIdentifier: 
+  spriteLibraryAsset: {fileID: 7108339969198208228, guid: 152e3fc8ed42dbb4bbdc4519fed5db2c, type: 3}
   maxHealth: 100
   maxSpeed: 5
   goldValue: 10

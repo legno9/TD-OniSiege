@@ -120,10 +120,10 @@ public class MapManager : MonoBehaviour
         return IsInBounds(position) ? baseTilemap.GetCellCenterWorld(position): Vector3.zero ;
     }
     
-    public Vector3Int GetTileFromWorldPos(Vector3 position)
+    public Vector3Int? GetTileFromWorldPos(Vector3 position)
     {
         Vector3Int cellPos = baseTilemap.WorldToCell(position);
-        return IsInBounds(cellPos) ? cellPos : Vector3Int.zero;
+        return IsInBounds(cellPos) ? cellPos : null;
     }
 
     public CellType GetTileType(Vector3Int position)
