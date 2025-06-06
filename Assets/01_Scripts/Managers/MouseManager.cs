@@ -4,7 +4,6 @@ public class MouseManager : MonoBehaviour
 {
     public static MouseManager Instance { get; private set; }
     
-    [SerializeField] private LayerMask mapLayer;
     [SerializeField] private GameObject highlightPrefab;
     
     private GameObject _currentHighlight;

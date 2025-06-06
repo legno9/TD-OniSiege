@@ -1,7 +1,5 @@
 using UnityEngine;
 
-[RequireComponent(typeof(Collider))]
-[RequireComponent(typeof(EnemyAnimator))]
 [RequireComponent(typeof(EnemyMovement))]
 [RequireComponent(typeof(HealthSystem))]
 [RequireComponent(typeof(EnemyStatusEffect))]
@@ -13,8 +11,14 @@ public class Enemy : MonoBehaviour
     [SerializeField] private HealthSystem healthSystem;
     [SerializeField] private EnemyStatusEffect statusEffect;
     
-    private float _goldValue;
-    private int _playerDamage;
+    public static event System.Action<Enemy> OnEnemyDied;
+    public static event System.Action<Enemy> OnEnemyReachedEnd;
+    
+    public float GoldValue { get; private set; }
+    public int PlayerDamage { get; private set; }
+
+    private bool _dead = false;
+    
     
     private void Awake()
     {
@@ -35,48 +39,65 @@ public class Enemy : MonoBehaviour
         {
             statusEffect = GetComponent<EnemyStatusEffect>();
         }
-        ApplyConfig();
     }
     
-    private void ApplyConfig()
+    public void ApplyConfig(Vector2[] pathPoints)
     {
         if (!config)
         {
             Debug.LogError("EnemyConfig is null for EnemyBase.", this);
             return;
         }
-
+        
+        if (pathPoints is not { Length: > 1 })
+        {
+            Debug.LogError("Enemy path points are not set or too few! Cannot initialize movement.", this);
+            return;
+        }
+        
         animator.SetLibrary(config.SpriteLibraryAsset);
         movement.OnDirectionChanged+= animator.SetDirection;
+        movement.OnReachedEnd += ReachedEnd;
+        movement.SetPath(pathPoints);
         
         healthSystem.Initialize(config.MaxHealth, config.CanBeHealed);
+        healthSystem.OnHealthDepleted += Die;
         statusEffect.Initialize(config.MaxSpeed);
         
-        _goldValue = config.GoldValue;
-        _playerDamage = config.PlayerDamage;
+        GoldValue = config.GoldValue;
+        PlayerDamage = config.PlayerDamage;
     }
-    
     private void Update()
     {
-        if (healthSystem.HealthDepleted) return;
+        if (_dead) return;
         movement.Move(statusEffect.GetEffectiveSpeed());
     }
-    public void Die()
+    private void Die()
     {
+        if (_dead) return;
+        _dead = true;
+        
         if (animator)
         {
             // _animator.SetTrigger("Die");
         }
-        //Colliders
-        Debug.Log($"Enemy died! Player would gain {_goldValue} gold.", this);
-        Destroy(gameObject);
+        
+        // if (GetComponent<Collider2D>()) GetComponent<Collider2D>().enabled = false;
+
+        OnEnemyDied?.Invoke(this);
+    }
+    
+    private void ReachedEnd()
+    {
+        OnEnemyReachedEnd?.Invoke(this);
+        Die();
     }
 
     private void OnDisable()
     {
-        if (movement && animator)
-        {
-            movement.OnDirectionChanged -= animator.SetDirection;
-        }
+        if (!movement || !animator) return;
+        
+        movement.OnDirectionChanged -= animator.SetDirection;
+        movement.OnReachedEnd -= ReachedEnd;
     }
 }

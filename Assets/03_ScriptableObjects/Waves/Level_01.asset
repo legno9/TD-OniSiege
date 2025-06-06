@@ -9,12 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 573d38c3221e444db48ea5dc11321865, type: 3}
-  m_Name: BasicEnemy
+  m_Script: {fileID: 11500000, guid: 5644814638c3460d9afcbae205019e21, type: 3}
+  m_Name: Level_01
   m_EditorClassIdentifier: 
-  SpriteLibraryAsset: {fileID: 7108339969198208228, guid: 152e3fc8ed42dbb4bbdc4519fed5db2c, type: 3}
-  GoldValue: 10
-  PlayerDamage: 1
-  MaxSpeed: 5
-  MaxHealth: 100
-  CanBeHealed: 1
+  Waves:
+  - waveDelayAfterPrevious: 0
+    enemyPrefab: {fileID: 4744336253515577002, guid: f0775ed06e3ca2e4a802cfde97ebd810, type: 3}
+    count: 1
+    timeBetweenSpawns: 0

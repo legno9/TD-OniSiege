@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.Serialization;
 using UnityEngine.U2D.Animation;
 
 [RequireComponent(typeof(Animator))]
@@ -35,9 +34,9 @@ public class EnemyAnimator : MonoBehaviour
     public void SetDirection(Vector2 direction)
     {
         if (!animator) return;
-
-        direction.Normalize();
-
+        
+        direction.Normalize(); 
+        
         animator.SetFloat(XDirection, direction.x);
         animator.SetFloat(YDirection, direction.y);
     }

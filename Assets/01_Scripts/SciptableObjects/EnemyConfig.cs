@@ -8,13 +8,13 @@ public class EnemyConfig : ScriptableObject
     public SpriteLibraryAsset SpriteLibraryAsset;
 
     [Header("Economy & Combat")]
-    public readonly int GoldValue = 10;
-    public readonly int PlayerDamage = 1;
+    public int GoldValue = 10;
+    public int PlayerDamage = 1;
 
     [Header("Movement")] 
-    public readonly float MaxSpeed = 5f;
+    public float MaxSpeed = 5f;
 
     [Header("Health Setup")]
-    public readonly float MaxHealth = 100f;
-    public readonly bool CanBeHealed = true;
+    public float MaxHealth = 100f;
+    public bool CanBeHealed = true;
 }

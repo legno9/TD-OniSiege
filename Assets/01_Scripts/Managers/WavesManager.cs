@@ -1,50 +1,118 @@
 using UnityEngine;
+using System.Collections;
 
 public class WavesManager : MonoBehaviour
 {
     [SerializeField] private MapManager levelMapManager;
-    [SerializeField] private GameObject enemyPrefab;
+    [SerializeField] private EnemyWavesConfig waveConfigs;
     
     private Vector2[] _enemyPathPoints;
     
-    private void Awake()
+    private int _currentWaveIndex = -1;
+    private Coroutine _waveSpawnCoroutine;
+    
+    private void Start()
     {
         if (!levelMapManager)
         {
-            Debug.LogError("WavesManager: No MapManager found in scene! Cannot get enemy path.", this);
+            levelMapManager = FindFirstObjectByType<MapManager>();
+            if (!levelMapManager)
+            {
+                Debug.LogError("WavesManager: No MapManager found in scene! Cannot get enemy path. Disabling.", this);
+                return;
+            }
+        }
+        
+        _enemyPathPoints = levelMapManager.EnemyPathPointsPos;
+        
+        if (_enemyPathPoints == null || _enemyPathPoints.Length < 2)
+        {
+            Debug.LogError("WavesManager: Enemy path points are not initialized or too few! Check MapManager setup. Disabling.", this);
             return;
         }
+        
+        Enemy.OnEnemyDied += HandleEnemyDied;
+        Enemy.OnEnemyReachedEnd += HandleEnemyReachedEnd;
+        
+        StartNextWave();
+    }
 
-        _enemyPathPoints = levelMapManager.EnemyPathPointsPos;
+    private void OnDestroy()
+    {
+        Enemy.OnEnemyDied -= HandleEnemyDied;
+        Enemy.OnEnemyReachedEnd -= HandleEnemyReachedEnd;
 
-        if (_enemyPathPoints == null || _enemyPathPoints.Length == 0)
+        if (_waveSpawnCoroutine != null)
         {
-            Debug.LogError("WavesManager: Enemy path points are not initialized or empty! Check MapManager setup.", this);
+            StopCoroutine(_waveSpawnCoroutine);
+        }
+    }
+    
+    private void StartNextWave()
+    {
+        _currentWaveIndex++;
+
+        if (_currentWaveIndex >= waveConfigs.Waves.Count)
+        {
+            return;
+        }
+        
+        _waveSpawnCoroutine = StartCoroutine(SpawnWaveCoroutine(waveConfigs.Waves[_currentWaveIndex]));
+    }
+
+    private IEnumerator SpawnWaveCoroutine(EnemyWavesConfig.EnemyWaveType waveConfig)
+    {
+        if (!waveConfig.enemyPrefab)
+        {
+            Debug.LogWarning($"WavesManager: Enemy prefab is null in wave {_currentWaveIndex + 1}. Skipping wave.", this);
+            _waveSpawnCoroutine = null;
+            yield break;
+        }
+        
+        yield return new WaitForSeconds(waveConfig.waveDelayAfterPrevious);
+
+        for (int i = 0; i < waveConfig.count; i++)
+        {
+            SpawnEnemy(waveConfig.enemyPrefab);
+            if (i < waveConfig.count - 1)
+            {
+                yield return new WaitForSeconds(waveConfig.timeBetweenSpawns);
+            }
+        }
+        
+        _waveSpawnCoroutine = null;
+        StartNextWave();
+    }
+    
+    private void SpawnEnemy(GameObject enemyPrefab)
+    {
+        Vector3 spawnPosition = _enemyPathPoints[0];
+        
+        GameObject newEnemyGo = SpawnPool.Instance.Spawn(enemyPrefab.transform, spawnPosition, Quaternion.identity, Vector3.one, transform).gameObject;
+        Enemy newEnemy = newEnemyGo.GetComponent<Enemy>();
+        
+        if (newEnemy)
+        {
+            newEnemy.ApplyConfig(_enemyPathPoints);
         }
         else
         {
-            Debug.Log($"WavesManager: Successfully loaded {_enemyPathPoints.Length} path points.");
-            // StartNextWave();
+            SpawnPool.Instance.Despawn(newEnemyGo.transform);
         }
     }
+    
+    private static void HandleEnemyDied(Enemy enemyInstance)
+    {
+        SpawnPool.Instance.Despawn(enemyInstance.transform);
+        // GameManager.Instance.AddGold(goldValue);
+    }
 
-    // public void SpawnEnemy(GameObject enemyPrefab, int startWaypointIndex = 0)
-    // {
-    //     if (_enemyPathPoints == null || _enemyPathPoints.Length == 0)
-    //     {
-    //         Debug.LogError("Cannot spawn enemy, no path points available.");
-    //         return;
-    //     }
-    //
-    //     // Instanciar el enemigo en la posición del primer waypoint
-    //     GameObject newEnemyGO = Instantiate(enemyPrefab, _enemyPathPoints[startWaypointIndex], Quaternion.identity);
-    //     Enemy newEnemy = newEnemyGO.GetComponent<Enemy>();
-    //
-    //     if (newEnemy != null)
-    //     {
-    //         newEnemy.SetPath(_enemyPathPoints); // Pasar la ruta completa al enemigo
-    //         // También podrías pasarle solo el índice de inicio y el MapManager.
-    //     }
-    // }
+    private static void HandleEnemyReachedEnd(Enemy enemyInstance)
+    {
+        // GameManager.Instance.TakeDamage(playerDamage);
+        Debug.Log($"Enemy {enemyInstance.name} reached end. Player would take {enemyInstance.PlayerDamage} damage.");
+    }
+
+    
 
 }

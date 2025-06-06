@@ -1,21 +1,21 @@
 using UnityEngine;
 using System;
 
-[RequireComponent(typeof(Collider))]
+[RequireComponent(typeof(Collider2D))]
 public class HealthSystem : MonoBehaviour, IDamageable, IHealable
 {
-    public event Action<Transform> OnHealthDepleted;
+    public event Action OnHealthDepleted;
     public event Action<float> OnHealthChanged;
-    public bool HealthDepleted { get; private set; }
     public float Health { get; private set; }
-    public float MaxHealth { get; private set; }
+    public float MaxHealth { get; private set; } = 1;
     
     private bool _canBeHealed = true;
     private float _predictedHealth;
+    private bool _healthDepleted = false;
 
     public void Initialize(float maxHealth, bool canBeHealed = true) 
     {
-        HealthDepleted = false;
+        _healthDepleted = false;
         _canBeHealed = canBeHealed;
         MaxHealth = maxHealth;
         Health = MaxHealth;
@@ -24,15 +24,15 @@ public class HealthSystem : MonoBehaviour, IDamageable, IHealable
 
     private void Update()
     {
-        if (HealthDepleted) return;
+        if (_healthDepleted) return;
         if (Health >= 0) return;
-        HealthDepleted = true;
-        OnHealthDepleted?.Invoke(transform);
+        _healthDepleted = true;
+        OnHealthDepleted?.Invoke();
     }
 
     public bool MakeDamage(float damage) 
     {
-        if (HealthDepleted) return false;
+        if (_healthDepleted) return false;
         
         Health -= damage;
         OnHealthChanged?.Invoke(Health);

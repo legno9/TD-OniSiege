@@ -173,7 +173,7 @@ public class MapManager : MonoBehaviour
         CellType type = GetTileType(cellPos);
         int x = cellPos.x - _boundsXMin;
         int y = cellPos.y - _boundsYMin;
-        if (IsInBounds(cellPos)) { return type == CellType.Grass && _towerGrid[x, y] == null; }
+        if (IsInBounds(cellPos)) { return type == CellType.Grass && !_towerGrid[x, y]; }
         return false;
     }
     
@@ -183,7 +183,7 @@ public class MapManager : MonoBehaviour
         int y = cellPos.y - _boundsYMin;
         if (IsInBounds(cellPos))
         {
-            if (_mapGrid[x, y] == CellType.Grass && _towerGrid[x, y] == null)
+            if (_mapGrid[x, y] == CellType.Grass && !_towerGrid[x, y])
             {
                 _mapGrid[x, y] = CellType.Tower;
                 _towerGrid[x, y] = turret;
@@ -192,7 +192,7 @@ public class MapManager : MonoBehaviour
             }
             else
             {
-                Debug.LogWarning($"Cannot place tower at {cellPos}. Cell type: {_mapGrid[x,y]}, Tower present: {_towerGrid[x,y] != null}");
+                Debug.LogWarning($"Cannot place tower at {cellPos}. Cell type: {_mapGrid[x,y]}, Tower present: {_towerGrid[x,y]}");
             }
         }
         else
