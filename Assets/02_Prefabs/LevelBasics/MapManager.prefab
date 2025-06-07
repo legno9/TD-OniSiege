@@ -10,9 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2199659731815362184}
   - component: {fileID: 3120848391491185845}
-  - component: {fileID: 1447574974661758049}
   m_Layer: 0
-  m_Name: Managers
+  m_Name: MapManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26,7 +25,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9079085759001214123}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -51,17 +50,4 @@ MonoBehaviour:
   mapWidth: 32
   mapHeight: 18
   enemyPathPoints: {fileID: 0}
---- !u!114 &1447574974661758049
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9079085759001214123}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a9e5d75142d7f44685c8bf073339b54, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  levelMapManager: {fileID: 3120848391491185845}
-  waveConfigs: {fileID: 11400000, guid: 551c6d35b5392b549bdd79afe82d916b, type: 2}
+  turretTypesConfig: {fileID: 11400000, guid: d1d90351024103747980fb14fdab6817, type: 2}

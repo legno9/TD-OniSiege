@@ -8,11 +8,14 @@ public abstract class Projectile : MonoBehaviour
     protected float _speed;
     protected Enemy _target;
     protected float _damage;
+    
+    protected bool _reachedTarget;
 
     public virtual void Initialize(Enemy target, float damage)
     {
         _target = target;
         _damage = damage;
+        _reachedTarget = false;
         
         if (!projectileConfig) return;
         _speed = projectileConfig.projectileSpeed;

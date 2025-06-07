@@ -4,7 +4,7 @@ using UnityEngine;
 public class AreaDamageProjectile : Projectile
 {
     [Header("Area Damage Settings")]
-    [SerializeField] protected float hitThreshold = 0.01f;
+    [SerializeField] protected float hitThreshold = 0.2f;
     protected Vector3 _fixedTargetPosition;
     protected Vector3 _fixedDirection;
     protected float _areaEffectRadius;
@@ -25,11 +25,15 @@ public class AreaDamageProjectile : Projectile
     
     protected override void Move()
     {
+        if (_reachedTarget) return;
+        
         transform.position += _fixedDirection * (_speed * Time.deltaTime);
 
-        if (Vector3.Distance(transform.position, _fixedTargetPosition) <= hitThreshold)
+        if (Vector3.Distance(transform.position, _fixedTargetPosition) <= hitThreshold  && !_reachedTarget)
         {
             ReachedTarget();
+            _reachedTarget = true;
+            return;
         }
         
         float angle = Mathf.Atan2(_fixedDirection.y, _fixedDirection.x) * Mathf.Rad2Deg;
@@ -41,12 +45,12 @@ public class AreaDamageProjectile : Projectile
         IReadOnlyList<Enemy> enemies = WavesManager.Instance.SpawnedEnemies;
         foreach (Enemy enemy in enemies)
         {
-            if (!enemy || !enemy.IsPredictedDead()) continue;
+            if (!enemy) continue;
 
             float distance = Vector3.Distance(enemy.transform.position, transform.position);
             if (distance <= _areaEffectRadius)
             {
-                enemy.TakeDamage(_damage);
+                enemy.MakeDamage(_damage);
             }
         }
 

@@ -1,8 +1,7 @@
 ﻿using UnityEngine;
 
 
-[CreateAssetMenu(fileName = "NewAreaSlownessProjectileConfig", menuName = "Game/Area Slowness Config")]
-
+[CreateAssetMenu(fileName = "NewAreaSlownessProjectileConfig", menuName = "Projectile/Area Slowness Config")]
 public class SlownessProjectileConfig : AreaEffectProjectileConfig
 {
     [Header("Slowness Settings")] 

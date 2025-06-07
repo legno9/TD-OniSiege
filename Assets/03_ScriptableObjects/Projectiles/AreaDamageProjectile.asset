@@ -12,4 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2483ec8ba29c43d2aa6330f6c465b3df, type: 3}
   m_Name: AreaDamageProjectile
   m_EditorClassIdentifier: 
-  areaEffectRadius: 5
+  projectileSpeed: 30
+  areaEffectRadius: 3

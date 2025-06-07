@@ -37,10 +37,19 @@ public class TurretAnimator : MonoBehaviour
     {
         if (!animator) return;
         
-        direction.Normalize(); 
-        
-        animator.SetFloat(XDirection, direction.x);
-        animator.SetFloat(YDirection, direction.y);
+        float absX = Mathf.Abs(direction.x);
+        float absY = Mathf.Abs(direction.y);
+
+        if (absX > absY)
+        {
+            animator.SetFloat(XDirection, Mathf.Sign(direction.x));
+            animator.SetFloat(YDirection, 0f);
+        }
+        else
+        {
+            animator.SetFloat(XDirection, 0f);
+            animator.SetFloat(YDirection, Mathf.Sign(direction.y));
+        }
     }
 
     public void TriggerAttack()

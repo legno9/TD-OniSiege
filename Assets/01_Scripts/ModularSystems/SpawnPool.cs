@@ -168,8 +168,10 @@ public class SpawnPool : MonoBehaviour
             CreatePrefabPool(targetPool);
         }
 
+        
         Transform instance = targetPool.SpawnInstance(pos, rot, scale, parent);
         _spawnedInstancesMap.Add(instance, targetPool);
+
         return instance;
     }
     

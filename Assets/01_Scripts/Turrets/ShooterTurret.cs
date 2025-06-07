@@ -15,16 +15,19 @@ public class ShooterTurret : Turret
     {
         if (!_currentTarget || _currentTarget.IsPredictedDead())
         {
+            _isAttacking = false;
+            _actionTimer = 0;
             return;
         }
-        
         _animator.TriggerAttack();
         _currentTarget.PredictDamage(_currentDamage);
     }
 
-    protected void Shoot()
+    protected void Shoot() //Called by the animator when the attack animation is ready to shoot
     {
         projectileSpawner.SpawnProjectile(_projectilePrefab, _currentTarget, _currentDamage);
+        _actionTimer = 0;
+        _isAttacking = false;
     }
     
     protected override void OnEnable()

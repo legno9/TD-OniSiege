@@ -9,7 +9,7 @@ public class WavesManager : MonoBehaviour
     [SerializeField] private MapManager levelMapManager;
     [SerializeField] private EnemyWavesConfig waveConfigs;
     
-    private readonly List<Enemy> _spawnedEnemies = new List<Enemy>();
+    private readonly List<Enemy> _spawnedEnemies = new ();
     public IReadOnlyList<Enemy> SpawnedEnemies => _spawnedEnemies;
     
     private Vector2[] _enemyPathPoints;
@@ -105,7 +105,8 @@ public class WavesManager : MonoBehaviour
     {
         Vector3 spawnPosition = _enemyPathPoints[0];
         
-        GameObject newEnemyGo = SpawnPool.Instance.Spawn(enemyPrefab.transform, spawnPosition, Quaternion.identity, Vector3.one, transform).gameObject;
+        GameObject newEnemyGo = SpawnPool.Instance.Spawn(enemyPrefab.transform, 
+            spawnPosition, Quaternion.identity, Vector3.one, transform).gameObject;
         Enemy newEnemy = newEnemyGo.GetComponent<Enemy>();
         
         if (newEnemy)
@@ -116,6 +117,7 @@ public class WavesManager : MonoBehaviour
         else
         {
             SpawnPool.Instance.Despawn(newEnemyGo.transform);
+            _spawnedEnemies.Remove(newEnemy);
         }
     }
     

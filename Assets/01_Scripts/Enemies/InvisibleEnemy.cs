@@ -3,9 +3,9 @@ public class InvisibleEnemy : Enemy
 {
     protected bool _revealed = false;
     
-    public override void TakeDamage(float damage)
+    public override void MakeDamage(float damage)
     {
-        base.TakeDamage(damage);
+        base.MakeDamage(damage);
         
         EnemyInvisibleConfig invisibleConfig = config as EnemyInvisibleConfig;
             

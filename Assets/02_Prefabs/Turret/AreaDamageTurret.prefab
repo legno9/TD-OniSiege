@@ -12,17 +12,33 @@ PrefabInstance:
       propertyPath: _turretConfig
       value: 
       objectReference: {fileID: 11400000, guid: 6205776ec3f9c9f46b7347ccce3e4ecb, type: 2}
+    - target: {fileID: 2587856912153002395, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: ac74921be4fccb846a7a1913a94b9119, type: 2}
     - target: {fileID: 3772235461581573347, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 1845672774850385506, guid: 5822d5e4db0d5904fa4bf6ec4410b64c, type: 3}
+      objectReference: {fileID: 9166037104047180929, guid: 09d3bfa4ad3fb49438d0a8324244d8d1, type: 3}
+    - target: {fileID: 5589494677013370382, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_labelHash
+      value: 0.00014366755
+      objectReference: {fileID: 0}
+    - target: {fileID: 5589494677013370382, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_SpriteHash
+      value: 988558558
+      objectReference: {fileID: 0}
+    - target: {fileID: 5589494677013370382, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_CategoryHash
+      value: 1.7460421e-16
+      objectReference: {fileID: 0}
     - target: {fileID: 6783831377455084163, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -8.522884
       objectReference: {fileID: 0}
     - target: {fileID: 6783831377455084163, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 1.8943391
       objectReference: {fileID: 0}
     - target: {fileID: 6783831377455084163, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
       propertyPath: m_LocalPosition.z
@@ -60,6 +76,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: AreaDamageTurret
       objectReference: {fileID: 0}
+    - target: {fileID: 7235031741399833991, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_SpriteLibraryAsset
+      value: 
+      objectReference: {fileID: 7108339969198208228, guid: d3480f9040d79e8458eb71c557a8cb64, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

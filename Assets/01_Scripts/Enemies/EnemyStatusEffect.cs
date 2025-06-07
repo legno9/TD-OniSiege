@@ -9,9 +9,6 @@ public class EnemyStatusEffect : MonoBehaviour
     private float _speedReductionDuration = 0.0f;
 
     private Coroutine _speedEffectCoroutine;
-
-    // private bool _isStunned = false;
-    // private float _stunDuration = 0.0f;
     
     public void Initialize(float baseSpeed)
     {
@@ -65,8 +62,7 @@ public class EnemyStatusEffect : MonoBehaviour
     
     // public void ApplyStun(float duration)
     // {
-    //     if (_isStunned) return;
-    //     _isStunned = true;
+
     // }
 
 }

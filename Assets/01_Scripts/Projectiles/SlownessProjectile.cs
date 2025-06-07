@@ -5,14 +5,13 @@ using UnityEngine;
 public class SlownessProjectile : Projectile
 {
     [Header("Slowness Settings")]
-    [SerializeField] protected float hitThreshold = 0.01f;
+    [SerializeField] protected float hitThreshold = 0.2f;
     protected Vector3 _fixedTargetPosition;
     protected Vector3 _fixedDirection;
     protected float _areaEffectRadius;
     protected float _areaEffectDuration;
     protected float _slownessFactor;
     protected float _slownessDuration;
-    protected bool _reachedTarget = false;
     protected bool _despawned = false;
     protected float _timer = 0f;
 
@@ -37,7 +36,7 @@ public class SlownessProjectile : Projectile
     {
         base.Update();
         
-        if (_reachedTarget && !_despawned) return;
+        if (!_reachedTarget && _despawned) return;
         
         _timer += Time.deltaTime;
         ReachedTarget();

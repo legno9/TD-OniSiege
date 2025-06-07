@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f8e48df977eb4cd2817f57f003bb4e86, type: 3}
   m_Name: SlownessProjectile
   m_EditorClassIdentifier: 
-  areaEffectRadius: 5
+  projectileSpeed: 10
+  areaEffectRadius: 2
   slownessFactor: 0.5
   slownessDuration: 0.5
   projectileDuration: 5

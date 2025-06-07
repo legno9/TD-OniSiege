@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 
-[CreateAssetMenu(fileName = "NewAreaProjectileConfig", menuName = "Game/Area Projectile Config")]
+[CreateAssetMenu(fileName = "NewAreaProjectileConfig", menuName = "Projectile/Area Projectile Config")]
 public class AreaEffectProjectileConfig : ProjectileConfig
 {
     [Header("Area Settings")]

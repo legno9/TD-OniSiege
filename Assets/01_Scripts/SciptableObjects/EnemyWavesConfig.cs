@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
 
-[CreateAssetMenu(fileName = "NewEnemyWavesConfig", menuName = "Game/Enemy Waves Config")]
+[CreateAssetMenu(fileName = "NewEnemyWavesConfig", menuName = "Core/Enemy Waves Config")]
 public class EnemyWavesConfig : ScriptableObject
 {
     [Header("Waves Settings")]

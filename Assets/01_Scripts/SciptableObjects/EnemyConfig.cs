@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.U2D.Animation;
 
-[CreateAssetMenu(fileName = "NewEnemyConfig", menuName = "Game/Enemy Config")]
+[CreateAssetMenu(fileName = "NewEnemyConfig", menuName = "Enemy/Enemy Config")]
 public class EnemyConfig : ScriptableObject
 {
     [Header("Visuals")]

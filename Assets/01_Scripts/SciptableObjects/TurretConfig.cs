@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections.Generic;
 using UnityEngine.U2D.Animation;
 
-[CreateAssetMenu(fileName = "NewTurretConfig", menuName = "Game/Turret Config")]
+[CreateAssetMenu(fileName = "NewTurretConfig", menuName = "Turret/Turret Config")]
 public class TurretConfig : ScriptableObject
 {
     [System.Serializable]

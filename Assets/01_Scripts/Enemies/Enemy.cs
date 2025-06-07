@@ -16,8 +16,8 @@ public class Enemy : MonoBehaviour
     
     public float GoldValue { get; private set; }
     public int PlayerDamage { get; private set; }
-    
-    protected bool _dead = false;
+
+    private bool _dead = false;
     
     private void Awake()
     {
@@ -52,6 +52,7 @@ public class Enemy : MonoBehaviour
         
         GoldValue = config.goldValue;
         PlayerDamage = config.playerDamage;
+        _dead = false;
     }
     private void Update()
     {
@@ -64,12 +65,7 @@ public class Enemy : MonoBehaviour
         return !movement ? 0f : movement.GetPathProgress();
     }
     
-    public bool IsPredictedDead()
-    {
-        return _dead || (healthSystem && healthSystem.IsPredictedDead());
-    }
-    
-    public virtual void TakeDamage(float damage)
+    public virtual void MakeDamage(float damage)
     {
         if (_dead) return;
 
@@ -80,19 +76,23 @@ public class Enemy : MonoBehaviour
 
     public void PredictDamage(float damage)
     {
-        if (IsPredictedDead()) return;
         healthSystem.PredictDamage(damage);
+    }
+    
+    public bool IsPredictedDead()
+    {
+        return _dead || (healthSystem && healthSystem.IsPredictedDead());
+    }
+    
+    public virtual bool IsTargetable()
+    {
+        return !IsPredictedDead() && gameObject.activeInHierarchy;
     }
     
     public void ReduceSpeed(float factor, float duration)
     {
         if (_dead) return;
         statusEffect.ApplySpeedReduction(factor, duration);
-    }
-    
-    public virtual bool IsTargetable()
-    {
-        return !IsPredictedDead() && gameObject.activeInHierarchy;
     }
     
     private void Die()

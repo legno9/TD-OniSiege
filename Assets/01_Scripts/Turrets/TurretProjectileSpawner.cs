@@ -2,12 +2,11 @@
 
 public class TurretProjectileSpawner : MonoBehaviour
 {
-    
     public void SpawnProjectile(GameObject projectilePrefab, Enemy target, float damage)
     {
         if (!projectilePrefab|| !target)
         {
-            Debug.LogWarning("TurretProjectileSpawner: Cannot spawn projectile. Prefab or target is null.", this);
+            Debug.LogError("TurretProjectileSpawner: Invalid projectilePrefab or target!", this);
             return;
         }
         

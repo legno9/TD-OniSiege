@@ -24,7 +24,8 @@ public class HealthSystem : MonoBehaviour, IDamageable, IHealable
     private void Update()
     {
         if (_healthDepleted) return;
-        if (Health >= 0) return;
+        if (Health > 0) return;
+
         _healthDepleted = true;
         OnHealthDepleted?.Invoke();
     }
@@ -32,14 +33,12 @@ public class HealthSystem : MonoBehaviour, IDamageable, IHealable
     public bool MakeDamage(float damage) 
     {
         if (_healthDepleted) return false;
-        
         Health -= damage;
         OnHealthChanged?.Invoke(Health);
 
-        if (!(Health <= 0)) return true;
+        if (Health >= 0) return true;
         
         Health = 0;
-
         return true;
     }
 
@@ -47,8 +46,10 @@ public class HealthSystem : MonoBehaviour, IDamageable, IHealable
     {
         if (!_canBeHealed) return false;
         OnHealthChanged?.Invoke(Health);
+
+        if (Mathf.Approximately(Health, MaxHealth)) return false;
         
-        if (Health + heal >= MaxHealth) return true;
+        if (Health + heal <= MaxHealth) return false;
         Health += heal;
         
         return true;

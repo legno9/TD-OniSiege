@@ -56,7 +56,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: SlownessTurret
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 4983567744268246457, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []

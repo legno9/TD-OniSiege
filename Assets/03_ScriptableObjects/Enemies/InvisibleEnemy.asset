@@ -15,7 +15,7 @@ MonoBehaviour:
   spriteLibraryAsset: {fileID: 7108339969198208228, guid: 4f143d1af2410bc489a5432d7280aa23, type: 3}
   goldValue: 20
   playerDamage: 1
-  maxSpeed: 5
+  maxSpeed: 1
   maxHealth: 200
   canBeHealed: 1
   revealedSpriteLibraryAsset: {fileID: 7108339969198208228, guid: b85e67cea957bc145add11401c5e6c1c, type: 3}

@@ -1,15 +1,6 @@
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
-public enum CellType
-{
-    Empty,       
-    Grass,       
-    Path,        
-    Prop,        
-    Tower
-}
-
 public class MapManager : MonoBehaviour
 {
     
@@ -23,10 +14,12 @@ public class MapManager : MonoBehaviour
     [Header("Enemy Path")]
     [SerializeField] private GameObject enemyPathPoints;
     
+    [Header("Turrets")]
+    [SerializeField] private TurretTypesConfig turretTypesConfig;
     public Vector2[] EnemyPathPointsPos { get; private set; }
     
-    private CellType[,] _mapGrid;
-    private Turret[,] _towerGrid;
+    private TileType[,] _mapGrid;
+    private Transform[,] _turretGrid;
     
     private int _boundsXMin;
     private int _boundsYMin;
@@ -61,8 +54,8 @@ public class MapManager : MonoBehaviour
         mapWidth = bounds.size.x;
         mapHeight = bounds.size.y;
         
-        _mapGrid = new CellType[mapWidth, mapHeight];
-        _towerGrid = new Turret[mapWidth, mapHeight];
+        _mapGrid = new TileType[mapWidth, mapHeight];
+        _turretGrid = new Transform[mapWidth, mapHeight];
 
         for (int x = 0; x < mapWidth; x++)
         {
@@ -72,19 +65,19 @@ public class MapManager : MonoBehaviour
 
                 if (pathTilemap.GetTile(cellPos))
                 {
-                    _mapGrid[x, y] = CellType.Path;
+                    _mapGrid[x, y] = TileType.Path;
                 }
                 else if (propsTilemap.GetTile(cellPos))
                 {
-                    _mapGrid[x, y] = CellType.Prop;
+                    _mapGrid[x, y] = TileType.Prop;
                 }
                 else if (baseTilemap.GetTile(cellPos))
                 {
-                    _mapGrid[x, y] = CellType.Grass;
+                    _mapGrid[x, y] = TileType.Grass;
                 }
                 else
                 {
-                    _mapGrid[x, y] = CellType.Empty;
+                    _mapGrid[x, y] = TileType.Empty;
                 }
             }
         }
@@ -126,73 +119,74 @@ public class MapManager : MonoBehaviour
         return IsInBounds(cellPos) ? cellPos : null;
     }
 
-    public CellType GetTileType(Vector3Int position)
+    public TileType GetTileType(Vector3Int position)
     {
         int x = position.x - _boundsXMin;
         int y = position.y - _boundsYMin;
-        return IsInBounds(position) ? _mapGrid[x, y] : CellType.Empty;
+        return IsInBounds(position) ? _mapGrid[x, y] : TileType.Empty;
     }
     
-    public void ProcessClickOnCell(Vector3Int cellPos)
+    public void ProcessClickOnCell(Vector3Int tilePos)
     {
-        if (!IsInBounds(cellPos))
+        if (!IsInBounds(tilePos))
         {
-            Debug.LogWarning($"Clicked out of bounds at {cellPos}. Ignoring click.");
+            Debug.LogWarning($"Clicked out of bounds at {tilePos}. Ignoring click.");
             return;
         }
         
-        CellType type = GetTileType(cellPos);
+        TileType type = GetTileType(tilePos);
         
         switch (type)
         {
-            case CellType.Grass when IsBuildable(cellPos):
-                Debug.Log($"Clicked on buildable grass at {cellPos}. Ready to place a tower.");
+            case TileType.Grass when IsBuildable(tilePos):
+                PlaceTower(tilePos, TurretType.Slowness);
                 break;
-            case CellType.Tower:
+            case TileType.Turret:
             {
-                Debug.Log($"Clicked on existing tower at {cellPos}. Selecting it.");
-                Turret selectedTower = GetTowerAt(cellPos);
+                Transform selectedTower = GetTowerAt(tilePos);
                 if (selectedTower)
                 {
                     // GameManager.Instance.SelectTowerForInteraction(selectedTower);
+                    RemoveTower(tilePos);
                 }
         
                 break;
             }
-            case CellType.Empty:
-            case CellType.Path:
-            case CellType.Prop:
+            case TileType.Empty:
+            case TileType.Path:
+            case TileType.Prop:
             default:
-                Debug.Log($"Clicked on non-buildable area ({type}) at {cellPos}.");
+                Debug.Log($"Clicked on non-buildable area ({type}) at {tilePos}.");
                 break;
         }
     }
     
     private bool IsBuildable(Vector3Int cellPos)
     {
-        CellType type = GetTileType(cellPos);
+        TileType type = GetTileType(cellPos);
         int x = cellPos.x - _boundsXMin;
         int y = cellPos.y - _boundsYMin;
-        if (IsInBounds(cellPos)) { return type == CellType.Grass && !_towerGrid[x, y]; }
+        if (IsInBounds(cellPos)) { return type == TileType.Grass && !_turretGrid[x, y]; }
         return false;
     }
-    
-    public void PlaceTower(Vector3Int cellPos, Turret turret)
+
+    private void PlaceTower(Vector3Int cellPos, TurretType type)
     {
         int x = cellPos.x - _boundsXMin;
         int y = cellPos.y - _boundsYMin;
         if (IsInBounds(cellPos))
         {
-            if (_mapGrid[x, y] == CellType.Grass && !_towerGrid[x, y])
+            if (_mapGrid[x, y] == TileType.Grass && !_turretGrid[x, y])
             {
-                _mapGrid[x, y] = CellType.Tower;
-                _towerGrid[x, y] = turret;
-                //GameManager.Instance.PlaceTurret;
-                Debug.Log($"Tower placed at {cellPos}");
+                _mapGrid[x, y] = TileType.Turret;
+                GameObject turretPrefab = turretTypesConfig.TurretPrefabs[type];
+                
+                _turretGrid[x, y] = SpawnPool.Instance.Spawn(turretPrefab.transform, baseTilemap.GetCellCenterWorld(cellPos), 
+                    Quaternion.identity, turretPrefab.transform.localScale, transform);
             }
             else
             {
-                Debug.LogWarning($"Cannot place tower at {cellPos}. Cell type: {_mapGrid[x,y]}, Tower present: {_towerGrid[x,y]}");
+                Debug.LogWarning($"Cannot place tower at {cellPos}. Cell type: {_mapGrid[x,y]}, Tower present: {_turretGrid[x,y]}");
             }
         }
         else
@@ -207,12 +201,11 @@ public class MapManager : MonoBehaviour
         int y = cellPos.y - _boundsYMin;
         if (IsInBounds(cellPos))
         {
-            if (_mapGrid[x, y] == CellType.Tower)
+            if (_mapGrid[x, y] == TileType.Turret)
             {
-                _mapGrid[x, y] = CellType.Grass;
-                _towerGrid[x, y] = null;
-                //GameManager.Instance.RemoveTurret;
-                Debug.Log($"Tower removed from {cellPos}");
+                SpawnPool.Instance.Despawn(_turretGrid[x, y]);
+                _mapGrid[x, y] = TileType.Grass;
+                _turretGrid[x, y] = null;
             }
             else
             {
@@ -225,10 +218,10 @@ public class MapManager : MonoBehaviour
         }
     }
     
-    private Turret GetTowerAt(Vector3Int cellPos)
+    private Transform GetTowerAt(Vector3Int cellPos)
     {
         int x = cellPos.x - _boundsXMin;
         int y = cellPos.y - _boundsYMin;
-        return IsInBounds(cellPos) ? _towerGrid[x, y] : null;
+        return IsInBounds(cellPos) ? _turretGrid[x, y] : null;
     }
 }

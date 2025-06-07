@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 
-[CreateAssetMenu(fileName = "NewProjectileConfig", menuName = "Game/Projectile Config")]
+[CreateAssetMenu(fileName = "NewProjectileConfig", menuName = "Projectile/Projectile Config")]
 public class ProjectileConfig : ScriptableObject
 {
     [Header("Basic Settings")]

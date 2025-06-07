@@ -18,20 +18,20 @@ MonoBehaviour:
   projectilePrefab: {fileID: 7149558332396087595, guid: 515e0576d6e833c448de6df379e77b80, type: 3}
   levelsData:
   - damage: 0
-    actionRange: 150
-    actionRate: 0.2
+    actionRange: 5
+    actionRate: 6
     upgradeCost: 50
     sellValue: 50
     spriteLibraryAsset: {fileID: 7108339969198208228, guid: dbd2a481863cfcb4689cf88df1cac7db, type: 3}
   - damage: 0
-    actionRange: 170
-    actionRate: 0.3
+    actionRange: 6
+    actionRate: 5
     upgradeCost: 50
     sellValue: 75
     spriteLibraryAsset: {fileID: 7108339969198208228, guid: fc2de1627e4843540b7e7e361c389260, type: 3}
   - damage: 0
-    actionRange: 200
-    actionRate: 0.5
+    actionRange: 8
+    actionRate: 3.5
     upgradeCost: 50
     sellValue: 100
     spriteLibraryAsset: {fileID: 7108339969198208228, guid: 7afcb2e258677a24c815a44b1611d082, type: 3}

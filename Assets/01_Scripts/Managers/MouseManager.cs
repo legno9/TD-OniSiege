@@ -5,11 +5,11 @@ public class MouseManager : MonoBehaviour
     public static MouseManager Instance { get; private set; }
     
     [SerializeField] private GameObject highlightPrefab;
+    [SerializeField] private MapManager _currentMapManager;
+    [SerializeField] private Camera _mainCamera;
     
     private GameObject _currentHighlight;
     private Vector3Int _previousCellPosition = Vector3Int.zero;
-    private Camera _mainCamera;
-    private MapManager _currentMapManager;
     
     private void Awake()
     {
@@ -63,11 +63,11 @@ public class MouseManager : MonoBehaviour
     {
         if (!_currentHighlight) return;
         if (cellPosition == _previousCellPosition) return;
-        if (_currentMapManager.GetTileType(cellPosition) == CellType.Empty) return;
+        if (_currentMapManager.GetTileType(cellPosition) == TileType.Empty) return;
         
         _previousCellPosition = cellPosition;
         _currentHighlight.transform.position = _currentMapManager.GetTileWorldCenter(cellPosition);
-        _currentHighlight.SetActive(false);
+        _currentHighlight.SetActive(true);
     }
     
     public void RegisterMapManager(MapManager mapManager)

@@ -40,7 +40,6 @@ public abstract class EnemyMovement : MonoBehaviour
     
     protected void InvokeReachedEnd()
     {
-        
         OnReachedEnd?.Invoke();
     }
     

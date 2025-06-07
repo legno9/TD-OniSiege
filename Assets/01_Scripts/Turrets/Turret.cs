@@ -1,7 +1,6 @@
 using UnityEngine;
 
 [RequireComponent(typeof(TurretTargeting))]
-[RequireComponent(typeof(Collider2D))]
 public abstract class Turret : MonoBehaviour
 {
     [SerializeField] protected TurretConfig _turretConfig;
@@ -18,18 +17,22 @@ public abstract class Turret : MonoBehaviour
     protected GameObject _projectilePrefab = null;
     
     private int _currentLevel = 1;
-    private float _actionTimer = 0f; 
+    protected float _actionTimer = 0f; 
+    protected bool _isAttacking = false;
+    
     protected virtual void Awake()
     {
         if (!_animator) _animator = GetComponentInChildren<TurretAnimator>();
         if (!_targeting) _targeting = GetComponent<TurretTargeting>();
-        
         
         _projectilePrefab = _turretConfig.projectilePrefab;
     }
 
     protected virtual void OnEnable()
     {
+        _currentLevel = 1;
+        _actionTimer = _currentActionRate;
+        _isAttacking = false;
         ApplyCurrentLevelConfig();
     }
 
@@ -37,15 +40,19 @@ public abstract class Turret : MonoBehaviour
     {
         _actionTimer += Time.deltaTime;
         
-        _currentTarget = _targeting.FindTarget(_currentActionRange);
+        Enemy tempTarget = _targeting.FindTarget(_currentActionRange);
         
-        if (!_currentTarget || _actionTimer < _currentActionRate) return;
+        if (!tempTarget || _isAttacking) return;
         
-        PerformAction();
-        _actionTimer -= _currentActionRate;
-        
-        Vector2 directionToTarget = _currentTarget.transform.position - transform.position;
+        Vector2 directionToTarget = tempTarget.transform.position - transform.position;
         _animator.SetDirection(directionToTarget.normalized);
+
+        if (_actionTimer >= _currentActionRate)
+        {
+            _currentTarget = tempTarget;
+            _isAttacking = true;
+            PerformAction();
+        }
     }
     
     private void ApplyCurrentLevelConfig()

@@ -133,4 +133,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   projectileConfig: {fileID: 11400000, guid: 9aaa8a0d1f186ff49b120f9135baaf91, type: 2}
-  hitThreshold: 0.01
+  hitThreshold: 0.2
