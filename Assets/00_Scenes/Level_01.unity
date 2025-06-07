@@ -9501,6 +9501,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 677204033764227370, guid: 28d698554a9114a4fa36aada9c3c8259, type: 3}
+      propertyPath: m_AssetsPPU
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 677204033764227370, guid: 28d698554a9114a4fa36aada9c3c8259, type: 3}
+      propertyPath: m_CropFrame
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 677204033764227370, guid: 28d698554a9114a4fa36aada9c3c8259, type: 3}
+      propertyPath: m_FilterMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 677204033764227370, guid: 28d698554a9114a4fa36aada9c3c8259, type: 3}
+      propertyPath: m_GridSnapping
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 677204033764227370, guid: 28d698554a9114a4fa36aada9c3c8259, type: 3}
+      propertyPath: m_RefResolutionX
+      value: 1024
+      objectReference: {fileID: 0}
+    - target: {fileID: 677204033764227370, guid: 28d698554a9114a4fa36aada9c3c8259, type: 3}
+      propertyPath: m_RefResolutionY
+      value: 576
+      objectReference: {fileID: 0}
     - target: {fileID: 1247558464024542312, guid: 28d698554a9114a4fa36aada9c3c8259, type: 3}
       propertyPath: m_Name
       value: Main Camera
@@ -9544,6 +9568,26 @@ PrefabInstance:
     - target: {fileID: 3472725379621882388, guid: 28d698554a9114a4fa36aada9c3c8259, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5631426603728255160, guid: 28d698554a9114a4fa36aada9c3c8259, type: 3}
+      propertyPath: orthographic size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 5631426603728255160, guid: 28d698554a9114a4fa36aada9c3c8259, type: 3}
+      propertyPath: m_NormalizedViewPortRect.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5631426603728255160, guid: 28d698554a9114a4fa36aada9c3c8259, type: 3}
+      propertyPath: m_NormalizedViewPortRect.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5631426603728255160, guid: 28d698554a9114a4fa36aada9c3c8259, type: 3}
+      propertyPath: m_NormalizedViewPortRect.width
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5631426603728255160, guid: 28d698554a9114a4fa36aada9c3c8259, type: 3}
+      propertyPath: m_NormalizedViewPortRect.height
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2269979884840095274
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1163551422630583730, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: _turretConfig
+      value: 
+      objectReference: {fileID: 11400000, guid: 6205776ec3f9c9f46b7347ccce3e4ecb, type: 2}
+    - target: {fileID: 3772235461581573347, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1845672774850385506, guid: 5822d5e4db0d5904fa4bf6ec4410b64c, type: 3}
+    - target: {fileID: 6783831377455084163, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6783831377455084163, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6783831377455084163, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6783831377455084163, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6783831377455084163, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6783831377455084163, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6783831377455084163, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6783831377455084163, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6783831377455084163, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6783831377455084163, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6899392869471121907, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_Name
+      value: AreaDamageTurret
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}

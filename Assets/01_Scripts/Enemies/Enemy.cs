@@ -5,40 +5,26 @@ using UnityEngine;
 [RequireComponent(typeof(EnemyStatusEffect))]
 public class Enemy : MonoBehaviour
 {
-    [SerializeField] private EnemyConfig config;
-    [SerializeField] private EnemyAnimator animator;
-    [SerializeField] private EnemyMovement movement;
-    [SerializeField] private HealthSystem healthSystem;
-    [SerializeField] private EnemyStatusEffect statusEffect;
+    [SerializeField] protected EnemyConfig config;
+    [SerializeField] protected EnemyAnimator animator;
+    [SerializeField] protected EnemyMovement movement;
+    [SerializeField] protected HealthSystem healthSystem;
+    [SerializeField] protected EnemyStatusEffect statusEffect;
     
     public static event System.Action<Enemy> OnEnemyDied;
     public static event System.Action<Enemy> OnEnemyReachedEnd;
     
     public float GoldValue { get; private set; }
     public int PlayerDamage { get; private set; }
-
-    private bool _dead = false;
     
+    protected bool _dead = false;
     
     private void Awake()
     {
-        if (!animator)
-        {
-            animator = GetComponentInChildren<EnemyAnimator>();
-        }
-        if (!movement)
-        {
-            movement = GetComponent<EnemyPathMovement>();
-        }
-        
-        if (!healthSystem)
-        {
-            healthSystem = GetComponent<HealthSystem>();
-        }
-        if (!statusEffect)
-        {
-            statusEffect = GetComponent<EnemyStatusEffect>();
-        }
+        if (!animator) animator = GetComponentInChildren<EnemyAnimator>();
+        if (!movement) movement = GetComponent<EnemyPathMovement>();
+        if (!healthSystem) healthSystem = GetComponent<HealthSystem>();
+        if (!statusEffect) statusEffect = GetComponent<EnemyStatusEffect>();
     }
     
     public void ApplyConfig(Vector2[] pathPoints)
@@ -55,23 +41,60 @@ public class Enemy : MonoBehaviour
             return;
         }
         
-        animator.SetLibrary(config.SpriteLibraryAsset);
+        animator.SetLibrary(config.spriteLibraryAsset);
         movement.OnDirectionChanged+= animator.SetDirection;
         movement.OnReachedEnd += ReachedEnd;
         movement.SetPath(pathPoints);
         
-        healthSystem.Initialize(config.MaxHealth, config.CanBeHealed);
+        healthSystem.Initialize(config.maxHealth, config.canBeHealed);
         healthSystem.OnHealthDepleted += Die;
-        statusEffect.Initialize(config.MaxSpeed);
+        statusEffect.Initialize(config.maxSpeed);
         
-        GoldValue = config.GoldValue;
-        PlayerDamage = config.PlayerDamage;
+        GoldValue = config.goldValue;
+        PlayerDamage = config.playerDamage;
     }
     private void Update()
     {
         if (_dead) return;
         movement.Move(statusEffect.GetEffectiveSpeed());
     }
+    
+    public float GetPathProgress()
+    {
+        return !movement ? 0f : movement.GetPathProgress();
+    }
+    
+    public bool IsPredictedDead()
+    {
+        return _dead || (healthSystem && healthSystem.IsPredictedDead());
+    }
+    
+    public virtual void TakeDamage(float damage)
+    {
+        if (_dead) return;
+
+        if (!healthSystem) return;
+        
+        healthSystem.MakeDamage(damage);
+    }
+
+    public void PredictDamage(float damage)
+    {
+        if (IsPredictedDead()) return;
+        healthSystem.PredictDamage(damage);
+    }
+    
+    public void ReduceSpeed(float factor, float duration)
+    {
+        if (_dead) return;
+        statusEffect.ApplySpeedReduction(factor, duration);
+    }
+    
+    public virtual bool IsTargetable()
+    {
+        return !IsPredictedDead() && gameObject.activeInHierarchy;
+    }
+    
     private void Die()
     {
         if (_dead) return;
@@ -82,8 +105,6 @@ public class Enemy : MonoBehaviour
             // _animator.SetTrigger("Die");
         }
         
-        // if (GetComponent<Collider2D>()) GetComponent<Collider2D>().enabled = false;
-
         OnEnemyDied?.Invoke(this);
     }
     
@@ -93,7 +114,7 @@ public class Enemy : MonoBehaviour
         Die();
     }
 
-    private void OnDisable()
+    protected void OnDisable()
     {
         if (!movement || !animator) return;
         

@@ -6,6 +6,8 @@ public abstract class EnemyMovement : MonoBehaviour
     public event Action<Vector2> OnDirectionChanged;
     public event Action OnReachedEnd;
 
+    protected float _pathProgress;
+    protected float _totalPathLength;
     protected Vector2[] _pathPoints;
     protected int _currentPathIndex;
     protected Vector2 _lastDirection;
@@ -15,6 +17,18 @@ public abstract class EnemyMovement : MonoBehaviour
         if (pathPoints is not { Length: > 1 }) return;
         
         _pathPoints = pathPoints;
+
+        for (int i = 0; i < _pathPoints.Length - 1; i++)
+        {
+            _totalPathLength += Vector2.Distance(_pathPoints[i], _pathPoints[i + 1]);
+        }
+    }
+
+    public float GetPathProgress()
+    {
+        if (_totalPathLength <= 0.0f) return 0.0f;
+        
+        return _pathProgress / _totalPathLength;
     }
     
     public abstract void Move(float speed);
@@ -29,4 +43,6 @@ public abstract class EnemyMovement : MonoBehaviour
         
         OnReachedEnd?.Invoke();
     }
+    
+    
 }

@@ -1,0 +1,326 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Idle_South
+    m_Hash: 625890637
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: tower_ninja_basic_0-0_0
+      m_Hash: 13245907
+      m_Sprite: {fileID: 988201687785491207, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 988201687785491207, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_1
+      m_Hash: 936193349
+      m_Sprite: {fileID: -5904550732528999482, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5904550732528999482, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: Idle_West
+    m_Hash: 625561105
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: tower_ninja_basic_0-0_13
+      m_Hash: 735311529
+      m_Sprite: {fileID: 7878763902311270756, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7878763902311270756, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_14
+      m_Hash: 901210890
+      m_Sprite: {fileID: 3476914509274017879, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 3476914509274017879, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: Idle_East
+    m_Hash: 407927257
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: tower_ninja_basic_0-0_26
+      m_Hash: 815026661
+      m_Sprite: {fileID: 1625995247064953612, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1625995247064953612, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_27
+      m_Hash: 127099251
+      m_Sprite: {fileID: 564290389325057451, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 564290389325057451, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: Idle_North
+    m_Hash: 946934011
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: tower_ninja_basic_0-0_39
+      m_Hash: 959479093
+      m_Sprite: {fileID: 5453988346157757114, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5453988346157757114, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_40
+      m_Hash: 263017302
+      m_Sprite: {fileID: -913332976661287431, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -913332976661287431, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: Shoot_South
+    m_Hash: 569594200
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: tower_ninja_basic_0-0_2
+      m_Hash: 784628991
+      m_Sprite: {fileID: 1005404321477636257, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1005404321477636257, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_3
+      m_Hash: 432229481
+      m_Sprite: {fileID: -3011217060086629263, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -3011217060086629263, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_4
+      m_Hash: 128440778
+      m_Sprite: {fileID: -3197354083388324545, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -3197354083388324545, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_5
+      m_Hash: 815851868
+      m_Sprite: {fileID: -1170505567721953492, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1170505567721953492, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_6
+      m_Hash: 698988774
+      m_Sprite: {fileID: -5109737119888028000, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5109737119888028000, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_7
+      m_Hash: 514754672
+      m_Sprite: {fileID: 1567747082170888642, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1567747082170888642, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_8
+      m_Hash: 236033505
+      m_Sprite: {fileID: 2497699023496893728, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2497699023496893728, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_9
+      m_Hash: 957785463
+      m_Sprite: {fileID: -998800915342617767, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -998800915342617767, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_10
+      m_Hash: 853190419
+      m_Sprite: {fileID: -7708386200621935891, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7708386200621935891, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_11
+      m_Hash: 98408325
+      m_Sprite: {fileID: 5123066230659328894, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5123066230659328894, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_12
+      m_Hash: 483706431
+      m_Sprite: {fileID: -465395326790895577, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -465395326790895577, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 11
+  - m_Name: Shoot_West
+    m_Hash: 57364119
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: tower_ninja_basic_0-0_15
+      m_Hash: 45110172
+      m_Sprite: {fileID: -5206022997070240150, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5206022997070240150, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_16
+      m_Hash: 465109542
+      m_Sprite: {fileID: -5549082747870002148, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5549082747870002148, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_17
+      m_Hash: 750662320
+      m_Sprite: {fileID: 7265843102632653526, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7265843102632653526, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_18
+      m_Hash: 1006710561
+      m_Sprite: {fileID: -4073976949186737506, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -4073976949186737506, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_19
+      m_Hash: 184950711
+      m_Sprite: {fileID: -5333496711318558575, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5333496711318558575, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_20
+      m_Hash: 435680464
+      m_Sprite: {fileID: 3323936744979528662, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 3323936744979528662, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_21
+      m_Hash: 787530822
+      m_Sprite: {fileID: -2714207820160603759, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2714207820160603759, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_22
+      m_Hash: 939103740
+      m_Sprite: {fileID: 2332463022414124937, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2332463022414124937, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_23
+      m_Hash: 16688490
+      m_Sprite: {fileID: 1485232366827810794, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1485232366827810794, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_24
+      m_Hash: 513421513
+      m_Sprite: {fileID: 2191276979478558749, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2191276979478558749, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_25
+      m_Hash: 698155103
+      m_Sprite: {fileID: 8889866144692180381, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8889866144692180381, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 11
+  - m_Name: Shoot_East
+    m_Hash: 1047689567
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: tower_ninja_basic_0-0_28
+      m_Hash: 388791522
+      m_Sprite: {fileID: -1517915996038229336, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1517915996038229336, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_29
+      m_Hash: 539708532
+      m_Sprite: {fileID: -80483754288399376, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -80483754288399376, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_30
+      m_Hash: 15517073
+      m_Sprite: {fileID: -5758545334520216575, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5758545334520216575, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_31
+      m_Hash: 938210567
+      m_Sprite: {fileID: -7110781759869417183, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7110781759869417183, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_32
+      m_Hash: 786605245
+      m_Sprite: {fileID: 806916050957550620, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 806916050957550620, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_33
+      m_Hash: 434476075
+      m_Sprite: {fileID: -7150649150716173058, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7150649150716173058, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_34
+      m_Hash: 125895048
+      m_Sprite: {fileID: 8630566848755438364, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8630566848755438364, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_35
+      m_Hash: 814100766
+      m_Sprite: {fileID: 5032498740765956322, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5032498740765956322, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_36
+      m_Hash: 697262244
+      m_Sprite: {fileID: 7767339990778385684, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7767339990778385684, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_37
+      m_Hash: 512249906
+      m_Sprite: {fileID: 4806630117768257349, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 4806630117768257349, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_38
+      m_Hash: 238505379
+      m_Sprite: {fileID: -6482012460981013431, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6482012460981013431, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 11
+  - m_Name: Shoot_North
+    m_Hash: 1020007662
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: tower_ninja_basic_0-0_41
+      m_Hash: 950690752
+      m_Sprite: {fileID: -6356659721320508742, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6356659721320508742, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_42
+      m_Hash: 564343418
+      m_Sprite: {fileID: -5715450115921063511, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5715450115921063511, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_43
+      m_Hash: 379847404
+      m_Sprite: {fileID: -5516864944461805645, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5516864944461805645, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_44
+      m_Hash: 146839375
+      m_Sprite: {fileID: -6545463796219555611, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6545463796219555611, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_45
+      m_Hash: 1070049241
+      m_Sprite: {fileID: -1765575352482438546, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1765575352482438546, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_46
+      m_Hash: 651097699
+      m_Sprite: {fileID: 5906657966883563630, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5906657966883563630, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_47
+      m_Hash: 298436341
+      m_Sprite: {fileID: 2763756393188280526, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2763756393188280526, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_48
+      m_Hash: 24566628
+      m_Sprite: {fileID: -6940642339282674923, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6940642339282674923, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_49
+      m_Hash: 913435634
+      m_Sprite: {fileID: -2605902260546493135, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2605902260546493135, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_50
+      m_Hash: 381051415
+      m_Sprite: {fileID: -7001667146946969095, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7001667146946969095, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    - m_Name: tower_ninja_basic_0-0_51
+      m_Hash: 565269121
+      m_Sprite: {fileID: -6741630772173265128, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6741630772173265128, guid: a60a3bad7cc9893438560d83c0ed176d, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 11
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638849050207038538
+  m_Version: 1

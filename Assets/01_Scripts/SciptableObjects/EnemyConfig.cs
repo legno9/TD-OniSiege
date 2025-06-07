@@ -5,16 +5,16 @@ using UnityEngine.U2D.Animation;
 public class EnemyConfig : ScriptableObject
 {
     [Header("Visuals")]
-    public SpriteLibraryAsset SpriteLibraryAsset;
+    public SpriteLibraryAsset spriteLibraryAsset;
 
     [Header("Economy & Combat")]
-    public int GoldValue = 10;
-    public int PlayerDamage = 1;
+    public int goldValue = 10;
+    public int playerDamage = 1;
 
     [Header("Movement")] 
-    public float MaxSpeed = 5f;
+    public float maxSpeed = 5f;
 
     [Header("Health Setup")]
-    public float MaxHealth = 100f;
-    public bool CanBeHealed = true;
+    public float maxHealth = 100f;
+    public bool canBeHealed = true;
 }

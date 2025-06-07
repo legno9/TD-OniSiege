@@ -1,7 +1,6 @@
 using UnityEngine;
 using System;
 
-[RequireComponent(typeof(Collider2D))]
 public class HealthSystem : MonoBehaviour, IDamageable, IHealable
 {
     public event Action OnHealthDepleted;

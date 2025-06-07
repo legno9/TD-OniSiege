@@ -1,16 +1,33 @@
 using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class WavesManager : MonoBehaviour
 {
+    public static WavesManager Instance { get; private set; }
+    
     [SerializeField] private MapManager levelMapManager;
     [SerializeField] private EnemyWavesConfig waveConfigs;
     
-    private Vector2[] _enemyPathPoints;
+    private readonly List<Enemy> _spawnedEnemies = new List<Enemy>();
+    public IReadOnlyList<Enemy> SpawnedEnemies => _spawnedEnemies;
     
+    private Vector2[] _enemyPathPoints;
     private int _currentWaveIndex = -1;
     private Coroutine _waveSpawnCoroutine;
-    
+
+    private void Awake()
+    {
+        if (!Instance)
+        {
+            Instance = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+
     private void Start()
     {
         if (!levelMapManager)
@@ -52,12 +69,12 @@ public class WavesManager : MonoBehaviour
     {
         _currentWaveIndex++;
 
-        if (_currentWaveIndex >= waveConfigs.Waves.Count)
+        if (_currentWaveIndex >= waveConfigs.waves.Count)
         {
             return;
         }
         
-        _waveSpawnCoroutine = StartCoroutine(SpawnWaveCoroutine(waveConfigs.Waves[_currentWaveIndex]));
+        _waveSpawnCoroutine = StartCoroutine(SpawnWaveCoroutine(waveConfigs.waves[_currentWaveIndex]));
     }
 
     private IEnumerator SpawnWaveCoroutine(EnemyWavesConfig.EnemyWaveType waveConfig)
@@ -94,6 +111,7 @@ public class WavesManager : MonoBehaviour
         if (newEnemy)
         {
             newEnemy.ApplyConfig(_enemyPathPoints);
+            _spawnedEnemies.Add(newEnemy);
         }
         else
         {
@@ -101,13 +119,15 @@ public class WavesManager : MonoBehaviour
         }
     }
     
-    private static void HandleEnemyDied(Enemy enemyInstance)
+    private void HandleEnemyDied(Enemy enemyInstance)
     {
+        _spawnedEnemies.Remove(enemyInstance);
         SpawnPool.Instance.Despawn(enemyInstance.transform);
+        
         // GameManager.Instance.AddGold(goldValue);
     }
 
-    private static void HandleEnemyReachedEnd(Enemy enemyInstance)
+    private void HandleEnemyReachedEnd(Enemy enemyInstance)
     {
         // GameManager.Instance.TakeDamage(playerDamage);
         Debug.Log($"Enemy {enemyInstance.name} reached end. Player would take {enemyInstance.PlayerDamage} damage.");

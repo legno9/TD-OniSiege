@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 556e9cc39043f154f8883a290826251c, type: 3}
+  m_Name: InvisibleEnemy
+  m_EditorClassIdentifier: 
+  spriteLibraryAsset: {fileID: 7108339969198208228, guid: 4f143d1af2410bc489a5432d7280aa23, type: 3}
+  goldValue: 20
+  playerDamage: 1
+  maxSpeed: 5
+  maxHealth: 200
+  canBeHealed: 1
+  revealedSpriteLibraryAsset: {fileID: 7108339969198208228, guid: b85e67cea957bc145add11401c5e6c1c, type: 3}

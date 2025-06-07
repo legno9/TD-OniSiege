@@ -5,7 +5,7 @@ using System.Collections.Generic;
 public class EnemyWavesConfig : ScriptableObject
 {
     [Header("Waves Settings")]
-    public List<EnemyWaveType> Waves;
+    public List<EnemyWaveType> waves;
 
     [System.Serializable]
     public class EnemyWaveType

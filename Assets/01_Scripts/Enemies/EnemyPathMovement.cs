@@ -13,6 +13,7 @@ public class EnemyPathMovement : EnemyMovement
             if (_currentPathIndex >= _pathPoints.Length)
             {
                 InvokeReachedEnd();
+                _pathProgress = _totalPathLength;
                 return;
             }
             
@@ -39,11 +40,13 @@ public class EnemyPathMovement : EnemyMovement
             {
                 transform.position = targetPoint;
                 distanceToMove -= distanceToTarget;
+                _pathProgress += distanceToTarget;
                 _currentPathIndex++;
             }
             else
             {
                 transform.position += (Vector3)(normalizedDirection * distanceToMove);
+                _pathProgress += distanceToMove;
                 distanceToMove = 0.0f;
                 break;
             }
