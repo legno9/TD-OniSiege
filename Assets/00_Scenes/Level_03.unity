@@ -10365,15 +10365,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5631426603728255160, guid: 28d698554a9114a4fa36aada9c3c8259, type: 3}
       propertyPath: m_NormalizedViewPortRect.y
-      value: 0.055555556
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5631426603728255160, guid: 28d698554a9114a4fa36aada9c3c8259, type: 3}
       propertyPath: m_NormalizedViewPortRect.width
-      value: 0.33333334
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5631426603728255160, guid: 28d698554a9114a4fa36aada9c3c8259, type: 3}
       propertyPath: m_NormalizedViewPortRect.height
-      value: 0.3333333
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10450,6 +10450,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2197785015864957895, guid: 31caf877ce0aeed47a3f706f6b37f75d, type: 3}
+      propertyPath: waveConfigs
+      value: 
+      objectReference: {fileID: 11400000, guid: 9e91f1d3a6d8ba84689d5df67dc8ae8a, type: 2}
     - target: {fileID: 2197785015864957895, guid: 31caf877ce0aeed47a3f706f6b37f75d, type: 3}
       propertyPath: levelMapManager
       value: 

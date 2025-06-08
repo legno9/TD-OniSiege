@@ -4,8 +4,13 @@ using UnityEngine;
 
 public class SlownessProjectile : Projectile
 {
+    private static readonly int Reached = Animator.StringToHash("Reached");
+    
     [Header("Slowness Settings")]
     [SerializeField] protected float hitThreshold = 0.2f;
+    [SerializeField] protected Animator effectAnimator;
+    [SerializeField] protected SpriteRenderer mainSpriteRenderer;
+    
     protected Vector3 _fixedTargetPosition;
     protected Vector3 _fixedDirection;
     protected float _areaEffectRadius;
@@ -30,6 +35,9 @@ public class SlownessProjectile : Projectile
         if (!target) return;
         _fixedTargetPosition = target.transform.position;
         _fixedDirection = (_fixedTargetPosition - transform.position).normalized;
+        
+        effectAnimator.gameObject.SetActive(false);
+        mainSpriteRenderer.enabled = true;
     }
     
     protected override void Update()
@@ -55,7 +63,15 @@ public class SlownessProjectile : Projectile
         if (Vector3.Distance(transform.position, _fixedTargetPosition) <= hitThreshold)
         {
             _reachedTarget = true;
-            // SpawnPool.Instance.Spawn(impactEffectPrefab, transform.position, Quaternion.identity);
+            if (effectAnimator)
+            {
+                effectAnimator.gameObject.SetActive(true);
+                mainSpriteRenderer.enabled = false;
+            
+                Vector3 explosionScale = Vector3.one * _areaEffectRadius;
+                effectAnimator.transform.localScale = explosionScale;
+                effectAnimator.SetTrigger(Reached);
+            }
         }
         
         float angle = Mathf.Atan2(_fixedDirection.y, _fixedDirection.x) * Mathf.Rad2Deg;

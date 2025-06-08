@@ -12,6 +12,14 @@ PrefabInstance:
       propertyPath: _turretConfig
       value: 
       objectReference: {fileID: 11400000, guid: 6205776ec3f9c9f46b7347ccce3e4ecb, type: 2}
+    - target: {fileID: 1773071562414206936, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773071562414206936, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2587856912153002395, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
       propertyPath: m_Controller
       value: 
@@ -43,6 +51,10 @@ PrefabInstance:
     - target: {fileID: 6524748344107200674, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6775889752564642018, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: baseVisualRadius
+      value: 1.8
       objectReference: {fileID: 0}
     - target: {fileID: 6783831377455084163, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
       propertyPath: m_LocalPosition.x

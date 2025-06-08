@@ -22,6 +22,7 @@ public class TurretConfig : ScriptableObject
     
     [Header("Base Turret Settings")]
     public int maxLevel = 3;
+    public TurretType turretType;
     
     [Header("Projectile Settings")]
     public GameObject projectilePrefab;

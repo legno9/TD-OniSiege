@@ -153,6 +153,8 @@ public class MapManager : MonoBehaviour
                 break;
 
             case ActionType.None:
+                HandleSelectTurret(tilePos, tileType);
+                break;
             default:
                 break;
         }
@@ -191,6 +193,19 @@ public class MapManager : MonoBehaviour
             GameManager.Instance.AddGold(turretComponent._currentSellValue);
             RemoveTower(tilePos);
         }
+    }
+    
+    private void HandleSelectTurret(Vector3Int tilePos, TileType tileType)
+    {
+        if (tileType != TileType.Turret) return;
+        
+        Transform turret = GetTowerAt(tilePos);
+        if (!turret) return;
+
+        Turret turretComponent = turret.GetComponent<Turret>();
+        if (!turret) return;
+
+        turretComponent.Selected();
     }
     
     private bool IsBuildable(Vector3Int tilePos)

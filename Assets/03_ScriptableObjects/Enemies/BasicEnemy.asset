@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: BasicEnemy
   m_EditorClassIdentifier: 
   spriteLibraryAsset: {fileID: 7108339969198208228, guid: 152e3fc8ed42dbb4bbdc4519fed5db2c, type: 3}
-  goldValue: 20
+  goldValue: 25
   playerDamage: 1
   maxSpeed: 2
   maxHealth: 200

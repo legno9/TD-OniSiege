@@ -6,11 +6,9 @@ public abstract class Turret : MonoBehaviour
     [SerializeField] protected TurretConfig _turretConfig;
     [SerializeField] protected TurretAnimator _animator;
     [SerializeField] protected TurretTargeting _targeting;
-    
+    [SerializeField] protected TurretRangeVisualizer _rangeVisualizer;
     public int _currentUpgradeCost { get; private set; }
     public int _currentSellValue { get; private set; }
-    
-    
     
     protected float _currentDamage;
     protected float _currentActionRange;
@@ -19,6 +17,7 @@ public abstract class Turret : MonoBehaviour
     protected GameObject _projectilePrefab = null;
     
     private int _currentLevel = 1;
+    private bool _selected = false;
     protected float _actionTimer = 0f; 
     protected bool _isAttacking = false;
     
@@ -35,6 +34,8 @@ public abstract class Turret : MonoBehaviour
         _currentLevel = 1;
         _actionTimer = _currentActionRate;
         _isAttacking = false;
+        _currentTarget = null;
+        _selected = false;
         ApplyCurrentLevelConfig();
     }
 
@@ -95,5 +96,20 @@ public abstract class Turret : MonoBehaviour
         _currentLevel++;
         ApplyCurrentLevelConfig();
         return true;
+    }
+    
+    public void Selected()
+    {
+        if (_selected)
+        {
+            _selected = false;
+            _rangeVisualizer.Hide();
+            
+        }
+        else
+        {
+            _selected = true;
+            _rangeVisualizer.Show(_turretConfig.turretType, transform.position, _currentActionRange);
+        }
     }
 }

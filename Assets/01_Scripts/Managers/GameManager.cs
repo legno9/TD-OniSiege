@@ -130,5 +130,3 @@ public class GameManager : MonoBehaviour
     }
 
 }
-
-//Rango de torre, vida enemigos, efecto explosion ralentizacion, dinero, muerte

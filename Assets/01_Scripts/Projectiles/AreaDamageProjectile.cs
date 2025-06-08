@@ -1,13 +1,19 @@
-﻿using System.Collections.Generic;
+﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class AreaDamageProjectile : Projectile
 {
+    private static readonly int Reached = Animator.StringToHash("Reached");
+
     [Header("Area Damage Settings")]
     [SerializeField] protected float hitThreshold = 0.2f;
+    [SerializeField] protected Animator explosionAnimator;
+    [SerializeField] protected SpriteRenderer mainSpriteRenderer;
     protected Vector3 _fixedTargetPosition;
     protected Vector3 _fixedDirection;
     protected float _areaEffectRadius;
+    protected float projectileImpactAnimationDuration = 0.56f;
 
     public override void Initialize(Enemy target, float damage)
     {
@@ -21,6 +27,10 @@ public class AreaDamageProjectile : Projectile
         if (!target) return;
         _fixedTargetPosition = target.transform.position;
         _fixedDirection = (_fixedTargetPosition - transform.position).normalized;
+        
+        explosionAnimator.gameObject.SetActive(false);
+        mainSpriteRenderer.enabled = true;
+        
     }
     
     protected override void Move()
@@ -54,8 +64,26 @@ public class AreaDamageProjectile : Projectile
             }
         }
 
-        // SpawnPool.Instance.Spawn(impactEffectPrefab, transform.position, Quaternion.identity);
+        if (explosionAnimator)
+        {
+            explosionAnimator.gameObject.SetActive(true);
+            mainSpriteRenderer.enabled = false;
+            
+            Vector3 explosionScale = Vector3.one * _areaEffectRadius;
+            explosionAnimator.transform.localScale = explosionScale;
+            explosionAnimator.SetTrigger(Reached);
+            
+            StartCoroutine(Despawn(projectileImpactAnimationDuration));
+        }
+        else
+        {
+            StartCoroutine(Despawn(0.1f));
+        }
+    }
 
+    private IEnumerator Despawn(float delay)
+    {
+        yield return new WaitForSeconds(delay);
         SpawnPool.Instance.Despawn(transform);
     }
 }

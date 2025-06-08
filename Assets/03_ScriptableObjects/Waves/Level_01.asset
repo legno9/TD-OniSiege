@@ -13,15 +13,27 @@ MonoBehaviour:
   m_Name: Level_01
   m_EditorClassIdentifier: 
   waves:
-  - waveDelayAfterPrevious: 0
-    enemyPrefab: {fileID: 4100989493049440908, guid: 13f262bd267ac2d4ba227e2b4add6f56, type: 3}
-    count: 0
-    timeBetweenSpawns: 1
-  - waveDelayAfterPrevious: 0
-    enemyPrefab: {fileID: 1694489729114719979, guid: bf1d516b6510efe45bf9bb50d67d431a, type: 3}
+  - waveDelayAfterPrevious: 1
+    enemyPrefab: {fileID: 4744336253515577002, guid: f0775ed06e3ca2e4a802cfde97ebd810, type: 3}
     count: 5
     timeBetweenSpawns: 1
+  - waveDelayAfterPrevious: 5
+    enemyPrefab: {fileID: 4744336253515577002, guid: f0775ed06e3ca2e4a802cfde97ebd810, type: 3}
+    count: 10
+    timeBetweenSpawns: 0.5
+  - waveDelayAfterPrevious: 5
+    enemyPrefab: {fileID: 4744336253515577002, guid: f0775ed06e3ca2e4a802cfde97ebd810, type: 3}
+    count: 5
+    timeBetweenSpawns: 1
+  - waveDelayAfterPrevious: 2
+    enemyPrefab: {fileID: 4100989493049440908, guid: 13f262bd267ac2d4ba227e2b4add6f56, type: 3}
+    count: 3
+    timeBetweenSpawns: 1.5
+  - waveDelayAfterPrevious: 5
+    enemyPrefab: {fileID: 4100989493049440908, guid: 13f262bd267ac2d4ba227e2b4add6f56, type: 3}
+    count: 5
+    timeBetweenSpawns: 0.75
   - waveDelayAfterPrevious: 0
     enemyPrefab: {fileID: 4744336253515577002, guid: f0775ed06e3ca2e4a802cfde97ebd810, type: 3}
-    count: 3
+    count: 10
     timeBetweenSpawns: 0.5

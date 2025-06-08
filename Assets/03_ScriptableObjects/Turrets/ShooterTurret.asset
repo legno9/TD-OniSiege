@@ -12,25 +12,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b8a29eb3c1d0b24caaf96ecaf92e2ad, type: 3}
   m_Name: ShooterTurret
   m_EditorClassIdentifier: 
-  initialCost: 100
   maxLevel: 3
+  turretType: 1
   projectilePrefab: {fileID: 7149558332396087595, guid: 84453f5207e0a3348947212044461f54, type: 3}
   levelsData:
   - damage: 15
     actionRange: 5
-    actionRate: 1.5
+    actionRate: 0.25
     upgradeCost: 100
     sellValue: 50
     spriteLibraryAsset: {fileID: 7108339969198208228, guid: bb5cdcb7d71896f47b76c5d431fb6dff, type: 3}
   - damage: 20
     actionRange: 6
-    actionRate: 1
+    actionRate: 0.25
     upgradeCost: 100
     sellValue: 100
     spriteLibraryAsset: {fileID: 7108339969198208228, guid: 5e251e0f6cc3fb84fb6a616e13661edd, type: 3}
   - damage: 25
     actionRange: 7
-    actionRate: 0.5
+    actionRate: 0.15
     upgradeCost: 100
     sellValue: 150
     spriteLibraryAsset: {fileID: 7108339969198208228, guid: 41cc440bfde7fbf4d9b3897bf48e7efd, type: 3}

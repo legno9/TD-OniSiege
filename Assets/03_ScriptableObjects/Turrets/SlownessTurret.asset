@@ -12,18 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b8a29eb3c1d0b24caaf96ecaf92e2ad, type: 3}
   m_Name: SlownessTurret
   m_EditorClassIdentifier: 
-  initialCost: 50
   maxLevel: 3
+  turretType: 3
   projectilePrefab: {fileID: 7149558332396087595, guid: 515e0576d6e833c448de6df379e77b80, type: 3}
   levelsData:
   - damage: 0
-    actionRange: 5
+    actionRange: 6
     actionRate: 6
     upgradeCost: 50
     sellValue: 25
     spriteLibraryAsset: {fileID: 7108339969198208228, guid: dbd2a481863cfcb4689cf88df1cac7db, type: 3}
   - damage: 0
-    actionRange: 6
+    actionRange: 7
     actionRate: 5
     upgradeCost: 50
     sellValue: 50

@@ -4,7 +4,7 @@ using System;
 public class HealthSystem : MonoBehaviour, IDamageable, IHealable
 {
     public event Action OnHealthDepleted;
-    public event Action<float> OnHealthChanged;
+    public event Action<float, float> OnHealthChanged;
     public float Health { get; private set; }
     public float MaxHealth { get; private set; } = 1;
     
@@ -34,7 +34,7 @@ public class HealthSystem : MonoBehaviour, IDamageable, IHealable
     {
         if (_healthDepleted) return false;
         Health -= damage;
-        OnHealthChanged?.Invoke(Health);
+        OnHealthChanged?.Invoke(MaxHealth,Health);
 
         if (Health >= 0) return true;
         
@@ -45,7 +45,7 @@ public class HealthSystem : MonoBehaviour, IDamageable, IHealable
     public bool MakeHeal (float heal) 
     {
         if (!_canBeHealed) return false;
-        OnHealthChanged?.Invoke(Health);
+        OnHealthChanged?.Invoke(MaxHealth, Health);
 
         if (Mathf.Approximately(Health, MaxHealth)) return false;
         

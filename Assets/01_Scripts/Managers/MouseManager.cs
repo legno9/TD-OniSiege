@@ -8,6 +8,7 @@ public class MouseManager : MonoBehaviour
     [SerializeField] private GameObject highlightPrefab;
     [SerializeField] private MapManager _currentMapManager;
     [SerializeField] private Camera _mainCamera;
+    [SerializeField] private TurretRangeVisualizer _turretRangeVisualizer;
     
     private GameObject _currentHighlight;
     private Vector3Int _previousCellPosition = Vector3Int.zero;
@@ -52,32 +53,43 @@ public class MouseManager : MonoBehaviour
         
         Vector3 mouseWorldPos = _mainCamera.ScreenToWorldPoint(Input.mousePosition);
         
-        Vector3Int? currentCellPosition = _currentMapManager.GetTileFromWorldPos(mouseWorldPos);
+        Vector3Int? currentTilePosition = _currentMapManager.GetTileFromWorldPos(mouseWorldPos);
 
-        if (!currentCellPosition.HasValue)
+        if (!currentTilePosition.HasValue)
         {
             if (!_currentHighlight) return;
             _currentHighlight.SetActive(false);
             return;
         }
 
-        UpdateHighlight(currentCellPosition.Value);
+        UpdateHighlight(currentTilePosition.Value);
 
         if (Input.GetMouseButtonDown(0))
         {
-            _currentMapManager.ProcessClickOnCell(currentCellPosition.Value);
+            _currentMapManager.ProcessClickOnCell(currentTilePosition.Value);
         }
     }
 
-    private void UpdateHighlight(Vector3Int cellPosition)
+    private void UpdateHighlight(Vector3Int tilePosition)
     {
         if (!_currentHighlight) return;
-        if (cellPosition == _previousCellPosition) return;
-        if (_currentMapManager.GetTileType(cellPosition) == TileType.Empty) return;
+        if (tilePosition == _previousCellPosition) return;
+        if (_currentMapManager.GetTileType(tilePosition) == TileType.Empty) return;
         
-        _previousCellPosition = cellPosition;
-        _currentHighlight.transform.position = _currentMapManager.GetTileWorldCenter(cellPosition);
+        _previousCellPosition = tilePosition;
+        
+         Vector3 tileCenter = _currentMapManager.GetTileWorldCenter(tilePosition);
+         _currentHighlight.transform.position = tileCenter;
         _currentHighlight.SetActive(true);
+        
+        if (GameManager.Instance.SelectedTurretType != TurretType.None)
+        {
+            ShowTurretRange(GameManager.Instance.SelectedTurretType, tileCenter);
+        }
+        else
+        {
+            HideTurretRange();
+        }
     }
     
     public void RegisterMapManager(MapManager mapManager)
@@ -97,4 +109,21 @@ public class MouseManager : MonoBehaviour
         if (!mapManager || mapManager != _currentMapManager) return;
         _currentMapManager = null;
     }
+    
+    public void ShowTurretRange(TurretType turretType, Vector3 position)
+    {
+        if (_turretRangeVisualizer)
+        {
+            _turretRangeVisualizer.Show(turretType, position);
+        }
+    }
+    
+    public void HideTurretRange()
+    {
+        if (_turretRangeVisualizer)
+        {
+            _turretRangeVisualizer.Hide();
+        }
+    }
+    
 }

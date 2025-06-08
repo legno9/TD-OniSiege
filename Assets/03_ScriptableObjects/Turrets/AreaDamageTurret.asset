@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b8a29eb3c1d0b24caaf96ecaf92e2ad, type: 3}
   m_Name: AreaDamageTurret
   m_EditorClassIdentifier: 
-  initialCost: 100
   maxLevel: 3
+  turretType: 2
   projectilePrefab: {fileID: 7149558332396087595, guid: 25df88e10fcff0d4c8eee21a935ba440, type: 3}
   levelsData:
   - damage: 15
