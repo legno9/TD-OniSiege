@@ -160,32 +160,21 @@ public class MapManager : MonoBehaviour
     
     private void HandlePlaceTurret(Vector3Int tilePos, TileType tileType, TurretType selectedTurret)
     {
-        if (tileType == TileType.Grass && IsBuildable(tilePos) && selectedTurret != TurretType.None)
-        {
-            if (!GameManager.Instance.TrySpendGold(turretTypesConfig.TurretCosts[selectedTurret])) return;
-            PlaceTower(tilePos, selectedTurret);
-        }
-        else
-        {
-            Debug.LogWarning($"Cannot place turret at {tilePos}. Tile type: {tileType}, Buildable: {IsBuildable(tilePos)}");
-        }
+        if (tileType != TileType.Grass || !IsBuildable(tilePos) || selectedTurret == TurretType.None) return;
+        if (!GameManager.Instance.TrySpendGold(turretTypesConfig.TurretCosts[selectedTurret])) return;
+        PlaceTower(tilePos, selectedTurret);
     }
     
     private void HandleUpgradeTurret(Vector3Int tilePos, TileType tileType)
     {
         Transform turret = GetTowerAt(tilePos);
+
+        if (tileType != TileType.Turret || !turret) return;
         
-        if (tileType == TileType.Turret && turret)
-        {
-            Turret turretComponent = turret.GetComponent<Turret>();
-            if (!turretComponent) return;
-            if (!GameManager.Instance.TrySpendGold(turretComponent._currentUpgradeCost)) return;
-            turretComponent.Upgrade();
-        }
-        else
-        {
-            Debug.LogWarning($"Cannot upgrade turret at {tilePos}. Tile type: {tileType}, Turret present: {turret}");
-        }
+        Turret turretComponent = turret.GetComponent<Turret>();
+        if (!turretComponent) return;
+        if (!GameManager.Instance.TrySpendGold(turretComponent._currentUpgradeCost)) return;
+        turretComponent.Upgrade();
     }
     
     private void HandleSellTurret(Vector3Int tilePos, TileType tileType)
@@ -197,10 +186,6 @@ public class MapManager : MonoBehaviour
             if (!turretComponent) return;
             GameManager.Instance.AddGold(turretComponent._currentSellValue);
             RemoveTower(tilePos);
-        }
-        else
-        {
-            Debug.LogWarning($"Cannot upgrade turret at {tilePos}. Tile type: {tileType}, Turret present: {turret}");
         }
     }
     
@@ -217,48 +202,27 @@ public class MapManager : MonoBehaviour
     {
         int x = tilePos.x - _boundsXMin;
         int y = tilePos.y - _boundsYMin;
-        if (IsInBounds(tilePos))
-        {
-            if (_mapGrid[x, y] == TileType.Grass && !_turretGrid[x, y])
-            {
-                _mapGrid[x, y] = TileType.Turret;
-                GameObject turretPrefab = turretTypesConfig.TurretPrefabs[type];
+        if (!IsInBounds(tilePos)) return;
+        if (_mapGrid[x, y] != TileType.Grass || _turretGrid[x, y]) return;
+        
+        _mapGrid[x, y] = TileType.Turret;
+        GameObject turretPrefab = turretTypesConfig.TurretPrefabs[type];
                 
-                _turretGrid[x, y] = SpawnPool.Instance.Spawn(turretPrefab.transform, baseTilemap.GetCellCenterWorld(tilePos), 
-                    Quaternion.identity, turretPrefab.transform.localScale, transform);
-            }
-            else
-            {
-                Debug.LogWarning($"Cannot place tower at {tilePos}. Tile type: {_mapGrid[x,y]}, Tower present: {_turretGrid[x,y]}");
-            }
-        }
-        else
-        {
-            Debug.LogWarning($"Attempted to place tower out of map bounds at {tilePos}");
-        }
+        _turretGrid[x, y] = SpawnPool.Instance.Spawn(turretPrefab.transform, baseTilemap.GetCellCenterWorld(tilePos), 
+            Quaternion.identity, turretPrefab.transform.localScale, transform);
     }
     
     private void RemoveTower(Vector3Int tilePos)
     {
         int x = tilePos.x - _boundsXMin;
         int y = tilePos.y - _boundsYMin;
-        if (IsInBounds(tilePos))
-        {
-            if (_mapGrid[x, y] == TileType.Turret)
-            {
-                SpawnPool.Instance.Despawn(_turretGrid[x, y]);
-                _mapGrid[x, y] = TileType.Grass;
-                _turretGrid[x, y] = null;
-            }
-            else
-            {
-                Debug.LogWarning($"No tower found at {tilePos} to remove, or Tile type is not Tower.");
-            }
-        }
-        else
-        {
-            Debug.LogWarning($"Attempted to remove tower out of map bounds at {tilePos}");
-        }
+        
+        if (!IsInBounds(tilePos)) return;
+        if (_mapGrid[x, y] != TileType.Turret) return;
+        
+        SpawnPool.Instance.Despawn(_turretGrid[x, y]);
+        _mapGrid[x, y] = TileType.Grass;
+        _turretGrid[x, y] = null;
     }
     
     private Transform GetTowerAt(Vector3Int tilePos)

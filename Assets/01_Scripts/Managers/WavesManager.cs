@@ -48,13 +48,13 @@ public class WavesManager : MonoBehaviour
             return;
         }
         
-        Enemy.OnEnemyDied += HandleEnemyDespawn;
+        Enemy.OnEnemyDiedToPlayer += HandleEnemyDespawn;
         Enemy.OnEnemyReachedEnd += HandleEnemyReachedEnd;
     }
 
     private void OnDestroy()
     {
-        Enemy.OnEnemyDied -= HandleEnemyDespawn;
+        Enemy.OnEnemyDiedToPlayer -= HandleEnemyDespawn;
         Enemy.OnEnemyReachedEnd -= HandleEnemyReachedEnd;
 
         if (_waveSpawnCoroutine != null)
@@ -121,17 +121,23 @@ public class WavesManager : MonoBehaviour
     
     private void HandleEnemyDespawn(Enemy enemyInstance)
     {
-        _spawnedEnemies.Remove(enemyInstance);
-        SpawnPool.Instance.Despawn(enemyInstance.transform);
-        
+        DespawnEnemy(enemyInstance);
         GameManager.Instance.AddGold(enemyInstance.GoldValue);
     }
 
     private void HandleEnemyReachedEnd(Enemy enemyInstance)
     {
+        DespawnEnemy(enemyInstance);
         GameManager.Instance.TakeDamage(enemyInstance.PlayerDamage);
     }
 
-    
+    private void DespawnEnemy(Enemy enemyInstance)
+    {
+        if (_spawnedEnemies.Contains(enemyInstance))
+        {
+            _spawnedEnemies.Remove(enemyInstance);
+        }
+        SpawnPool.Instance.Despawn(enemyInstance.transform);
+    }
 
 }

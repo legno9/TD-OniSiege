@@ -32,13 +32,25 @@ PrefabInstance:
       propertyPath: m_CategoryHash
       value: 1.7460421e-16
       objectReference: {fileID: 0}
+    - target: {fileID: 6524748344107200674, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6524748344107200674, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6524748344107200674, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6783831377455084163, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.522884
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6783831377455084163, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.8943391
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6783831377455084163, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
       propertyPath: m_LocalPosition.z

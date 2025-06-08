@@ -11,7 +11,7 @@ public class Enemy : MonoBehaviour
     [SerializeField] protected HealthSystem healthSystem;
     [SerializeField] protected EnemyStatusEffect statusEffect;
     
-    public static event System.Action<Enemy> OnEnemyDied;
+    public static event System.Action<Enemy> OnEnemyDiedToPlayer;
     public static event System.Action<Enemy> OnEnemyReachedEnd;
     
     public int GoldValue { get; private set; }
@@ -47,7 +47,7 @@ public class Enemy : MonoBehaviour
         movement.SetPath(pathPoints);
         
         healthSystem.Initialize(config.maxHealth, config.canBeHealed);
-        healthSystem.OnHealthDepleted += Die;
+        healthSystem.OnHealthDepleted += DieToPlayer;
         statusEffect.Initialize(config.maxSpeed);
         
         GoldValue = config.goldValue;
@@ -95,23 +95,28 @@ public class Enemy : MonoBehaviour
         statusEffect.ApplySpeedReduction(factor, duration);
     }
     
-    private void Die()
+    private void DieToPlayer()
     {
         if (_dead) return;
+        Dissapear();
+        OnEnemyDiedToPlayer?.Invoke(this);
+    }
+    
+    private void ReachedEnd()
+    {
+        if (_dead) return;
+        Dissapear();
+        OnEnemyReachedEnd?.Invoke(this);
+    }
+    
+    private void Dissapear()
+    {
         _dead = true;
         
         if (animator)
         {
             // _animator.SetTrigger("Die");
         }
-        
-        OnEnemyDied?.Invoke(this);
-    }
-    
-    private void ReachedEnd()
-    {
-        OnEnemyReachedEnd?.Invoke(this);
-        Die();
     }
 
     protected void OnDisable()

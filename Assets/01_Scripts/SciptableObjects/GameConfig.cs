@@ -9,10 +9,23 @@ public class GameConfig : ScriptableObject
     [HideInInspector] public int currentGold;
     [HideInInspector] public int currentHealth;
     
+    [HideInInspector] public TurretType turretTypeSelected = TurretType.None;
+    [HideInInspector] public ActionType actionTypeSelected = ActionType.None;
+    
     public void Initialize()
     {
         currentGold = initialGold;
         currentHealth = initialHealth;
+        turretTypeSelected = TurretType.None;
+        actionTypeSelected = ActionType.None;
     }
-
+    
+    public void SetActionType(ActionType actionType)
+    {
+        actionTypeSelected = actionType;
+    }
+    public void SetTurretType(TurretType turretType)
+    {
+        turretTypeSelected = turretType;
+    }
 }

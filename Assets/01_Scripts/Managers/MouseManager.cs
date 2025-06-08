@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class MouseManager : MonoBehaviour
 {
@@ -38,6 +39,15 @@ public class MouseManager : MonoBehaviour
 
     private void Update()
     {
+        if (EventSystem.current.IsPointerOverGameObject())
+        {
+            if (_currentHighlight)
+            {
+                _currentHighlight.SetActive(false);
+            }
+            return;
+        }
+        
         if (!_currentMapManager || !_mainCamera) {return;}
         
         Vector3 mouseWorldPos = _mainCamera.ScreenToWorldPoint(Input.mousePosition);

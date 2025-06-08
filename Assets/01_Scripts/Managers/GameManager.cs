@@ -8,8 +8,9 @@ public class GameManager : MonoBehaviour
     [SerializeField] private GameConfig gameConfig;
     [SerializeField] private WavesManager wavesManager;
     
-    public ActionType CurrentActionType { get; private set; } = ActionType.None;
-    public TurretType SelectedTurretType { get; private set; } = TurretType.None;
+    public ActionType CurrentActionType => gameConfig ? gameConfig.actionTypeSelected : ActionType.None;
+    public TurretType SelectedTurretType => gameConfig ? gameConfig.turretTypeSelected : TurretType.None;
+    
     
     private bool _isGameOver = false;
     private bool _isGameWon = false;
@@ -95,12 +96,5 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene(sceneName);
     }
-    
-    public void SetActionType(ActionType actionType, TurretType turretType = TurretType.None)
-    {
-        if (_isGameOver) return;
 
-        CurrentActionType = actionType;
-        SelectedTurretType = turretType;
-    }
 }
