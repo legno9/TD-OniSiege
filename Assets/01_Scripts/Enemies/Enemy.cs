@@ -14,7 +14,7 @@ public class Enemy : MonoBehaviour
     public static event System.Action<Enemy> OnEnemyDied;
     public static event System.Action<Enemy> OnEnemyReachedEnd;
     
-    public float GoldValue { get; private set; }
+    public int GoldValue { get; private set; }
     public int PlayerDamage { get; private set; }
 
     private bool _dead = false;

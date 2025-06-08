@@ -48,15 +48,13 @@ public class WavesManager : MonoBehaviour
             return;
         }
         
-        Enemy.OnEnemyDied += HandleEnemyDied;
+        Enemy.OnEnemyDied += HandleEnemyDespawn;
         Enemy.OnEnemyReachedEnd += HandleEnemyReachedEnd;
-        
-        StartNextWave();
     }
 
     private void OnDestroy()
     {
-        Enemy.OnEnemyDied -= HandleEnemyDied;
+        Enemy.OnEnemyDied -= HandleEnemyDespawn;
         Enemy.OnEnemyReachedEnd -= HandleEnemyReachedEnd;
 
         if (_waveSpawnCoroutine != null)
@@ -65,7 +63,7 @@ public class WavesManager : MonoBehaviour
         }
     }
     
-    private void StartNextWave()
+    public void StartNextWave()
     {
         _currentWaveIndex++;
 
@@ -121,18 +119,17 @@ public class WavesManager : MonoBehaviour
         }
     }
     
-    private void HandleEnemyDied(Enemy enemyInstance)
+    private void HandleEnemyDespawn(Enemy enemyInstance)
     {
         _spawnedEnemies.Remove(enemyInstance);
         SpawnPool.Instance.Despawn(enemyInstance.transform);
         
-        // GameManager.Instance.AddGold(goldValue);
+        GameManager.Instance.AddGold(enemyInstance.GoldValue);
     }
 
     private void HandleEnemyReachedEnd(Enemy enemyInstance)
     {
-        // GameManager.Instance.TakeDamage(playerDamage);
-        Debug.Log($"Enemy {enemyInstance.name} reached end. Player would take {enemyInstance.PlayerDamage} damage.");
+        GameManager.Instance.TakeDamage(enemyInstance.PlayerDamage);
     }
 
     

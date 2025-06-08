@@ -15,3 +15,11 @@ public enum TurretType
     AreaDamage,      
     Slowness        
 }
+
+public enum ActionType
+{
+    None,
+    PlaceTurret,
+    UpgradeTurret,
+    SellTurret,
+}

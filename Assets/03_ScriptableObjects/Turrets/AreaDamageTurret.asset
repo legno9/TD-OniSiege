@@ -13,7 +13,6 @@ MonoBehaviour:
   m_Name: AreaDamageTurret
   m_EditorClassIdentifier: 
   initialCost: 100
-  initialSellValue: 50
   maxLevel: 3
   projectilePrefab: {fileID: 7149558332396087595, guid: 25df88e10fcff0d4c8eee21a935ba440, type: 3}
   levelsData:
@@ -21,17 +20,17 @@ MonoBehaviour:
     actionRange: 5
     actionRate: 3
     upgradeCost: 100
-    sellValue: 100
+    sellValue: 50
     spriteLibraryAsset: {fileID: 7108339969198208228, guid: d3480f9040d79e8458eb71c557a8cb64, type: 3}
   - damage: 20
     actionRange: 6
     actionRate: 2
     upgradeCost: 100
-    sellValue: 150
+    sellValue: 100
     spriteLibraryAsset: {fileID: 7108339969198208228, guid: 744cdd52d36876048b7608f236830cb2, type: 3}
   - damage: 30
     actionRange: 7
     actionRate: 2
     upgradeCost: 100
-    sellValue: 200
+    sellValue: 150
     spriteLibraryAsset: {fileID: 7108339969198208228, guid: 6dbc30e35f350ac499302e9036c15ade, type: 3}

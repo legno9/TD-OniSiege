@@ -21,8 +21,6 @@ public class TurretConfig : ScriptableObject
     }
     
     [Header("Base Turret Settings")]
-    public int initialCost = 100;
-    public int initialSellValue = 50;
     public int maxLevel = 3;
     
     [Header("Projectile Settings")]

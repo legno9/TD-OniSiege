@@ -10,6 +10,8 @@ public abstract class Turret : MonoBehaviour
     public int _currentUpgradeCost { get; private set; }
     public int _currentSellValue { get; private set; }
     
+    
+    
     protected float _currentDamage;
     protected float _currentActionRange;
     protected float _currentActionRate;

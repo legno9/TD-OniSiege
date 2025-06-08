@@ -15,7 +15,10 @@ MonoBehaviour:
   turretPrefabEntries:
   - type: 1
     turretPrefab: {fileID: 6899392869471121907, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
+    initialCost: 100
   - type: 2
     turretPrefab: {fileID: 4629427665938251737, guid: e90ff37e8327b4c479bd0f6c1020509d, type: 3}
+    initialCost: 100
   - type: 3
     turretPrefab: {fileID: 4629427665938251737, guid: c238627cc9c68d645a634ab20607e954, type: 3}
+    initialCost: 50
