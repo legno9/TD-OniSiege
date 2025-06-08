@@ -174,7 +174,11 @@ public class MapManager : MonoBehaviour
         Turret turretComponent = turret.GetComponent<Turret>();
         if (!turretComponent) return;
         if (!GameManager.Instance.TrySpendGold(turretComponent._currentUpgradeCost)) return;
-        turretComponent.Upgrade();
+        if (!turretComponent.Upgrade())
+        {
+            GameManager.Instance.AddGold(turretComponent._currentUpgradeCost);
+        }
+        
     }
     
     private void HandleSellTurret(Vector3Int tilePos, TileType tileType)

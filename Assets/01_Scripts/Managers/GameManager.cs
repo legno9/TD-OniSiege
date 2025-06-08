@@ -6,14 +6,11 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance { get; private set; }
 
     [SerializeField] private GameConfig gameConfig;
-    [SerializeField] private WavesManager wavesManager;
     
     public ActionType CurrentActionType => gameConfig ? gameConfig.actionTypeSelected : ActionType.None;
     public TurretType SelectedTurretType => gameConfig ? gameConfig.turretTypeSelected : TurretType.None;
     
-    
     private bool _isGameOver = false;
-    private bool _isGameWon = false;
 
     private void Awake()
     {
@@ -35,16 +32,14 @@ public class GameManager : MonoBehaviour
     {
         
         _isGameOver = false;
-        _isGameWon = false;
         
         if (!gameConfig)return;
         gameConfig.Initialize();
     }
 
-    private void Start()
+    public void StartWaves()
     {
-        if (!wavesManager) return;
-        wavesManager.StartNextWave();
+        WavesManager.Instance.StartNextWave();
     }
 
     public void EndGame(bool isWon)
@@ -52,9 +47,8 @@ public class GameManager : MonoBehaviour
         if (_isGameOver) return;
 
         _isGameOver = true;
-        _isGameWon = isWon;
         
-        // UIManager.Instance.ShowGameOverScreen(isWon);
+        UIManager.Instance.SetEndGameUI(isWon);
     }
     
     public void AddGold(int amount)
@@ -89,12 +83,52 @@ public class GameManager : MonoBehaviour
     
     public void RestartLevel()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        
+        LoadLevel(SceneManager.GetActiveScene().buildIndex);
     }
 
-    public void LoadNextLevel(string sceneName)
+    public void LoadLevel(int index)
     {
-        SceneManager.LoadScene(sceneName);
+        if (index < 0 || index >= SceneManager.sceneCountInBuildSettings)
+        {
+            Debug.LogError("Invalid scene index: " + index);
+            return;
+        }
+        _isGameOver = false;
+        SceneManager.LoadScene(index);
+        UIManager.Instance.SetGameUI();
+        gameConfig.Initialize();
+    }
+    
+    public void LoadNextLevel()
+    {
+        _isGameOver = false;
+        int nextIndex = SceneManager.GetActiveScene().buildIndex + 1;
+        if (nextIndex >= SceneManager.sceneCountInBuildSettings)
+        {
+            LoadMainMenu();
+        }
+        else
+        {
+            LoadLevel(nextIndex);
+        }
+    }
+    
+    public void LoadMainMenu()
+    {
+        _isGameOver = false;
+        SceneManager.LoadScene(0);
+        UIManager.Instance.SetMenuUI();
+    }
+    
+    public void QuitGame()
+    {
+        Application.Quit();
+        #if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+        #endif
     }
 
 }
+
+//Rango de torre, vida enemigos, efecto explosion ralentizacion, dinero, muerte

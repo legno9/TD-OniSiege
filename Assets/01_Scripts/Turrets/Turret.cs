@@ -85,15 +85,15 @@ public abstract class Turret : MonoBehaviour
     protected abstract void PerformAction();
 
     
-    public void Upgrade()
+    public bool Upgrade()
     {
         if (_currentLevel >= _turretConfig.maxLevel)
         {
-            Debug.Log("Turret is already at max level.", this);
-            return;
+            return false;
         }
         
         _currentLevel++;
         ApplyCurrentLevelConfig();
+        return true;
     }
 }

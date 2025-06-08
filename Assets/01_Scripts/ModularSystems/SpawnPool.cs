@@ -14,8 +14,6 @@ public class SpawnPool : MonoBehaviour
 
         private Queue<Transform> _despawnedInstances;
         private HashSet<Transform> _spawnedInstances;
-
-        private bool _hasPreloaded = false;
         
         public PrefabPool(GameObject prefab)
         {
@@ -31,7 +29,6 @@ public class SpawnPool : MonoBehaviour
         {
             _spawnedInstances = new HashSet<Transform>();
             _despawnedInstances = new Queue<Transform>();
-            _hasPreloaded = false;
         }
         
         public Transform SpawnInstance(Vector3 pos, Quaternion rot, Vector3 scale, Transform parent = null)
@@ -91,12 +88,8 @@ public class SpawnPool : MonoBehaviour
         
         public void PreloadInstances()
         {
-            if (_hasPreloaded) return;
-            
             InitializePool();
-
-            _hasPreloaded = true;
-
+            
             for (int i = 0; i < preloadAmount; i++)
             {
                 Transform newInstance = CreateMinimalInstance();
@@ -126,7 +119,13 @@ public class SpawnPool : MonoBehaviour
             Destroy(gameObject);
             return;
         }
+    }
 
+    public void Initialize()
+    {
+        _prefabToPoolDict.Clear();
+        _spawnedInstancesMap.Clear();
+        
         foreach (var prefabPool in configuredPrefabPools)
         {
             if (!prefabPool.prefabGo)
@@ -142,7 +141,7 @@ public class SpawnPool : MonoBehaviour
             }
         }
     }
-    
+
     public Transform Spawn(Transform prefabTransform, Vector3 position, Quaternion rotation)
     {
         return Spawn(prefabTransform, position, rotation, Vector3.one);

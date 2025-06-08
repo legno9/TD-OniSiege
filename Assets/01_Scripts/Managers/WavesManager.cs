@@ -30,6 +30,8 @@ public class WavesManager : MonoBehaviour
 
     private void Start()
     {
+        SpawnPool.Instance.Initialize();
+        
         if (!levelMapManager)
         {
             levelMapManager = FindFirstObjectByType<MapManager>();
@@ -127,8 +129,8 @@ public class WavesManager : MonoBehaviour
 
     private void HandleEnemyReachedEnd(Enemy enemyInstance)
     {
-        DespawnEnemy(enemyInstance);
         GameManager.Instance.TakeDamage(enemyInstance.PlayerDamage);
+        DespawnEnemy(enemyInstance);
     }
 
     private void DespawnEnemy(Enemy enemyInstance)
@@ -138,6 +140,11 @@ public class WavesManager : MonoBehaviour
             _spawnedEnemies.Remove(enemyInstance);
         }
         SpawnPool.Instance.Despawn(enemyInstance.transform);
+        
+        if (_spawnedEnemies.Count == 0 && _currentWaveIndex >= waveConfigs.waves.Count - 1)
+        {
+            GameManager.Instance.EndGame(true);
+        }
     }
 
 }

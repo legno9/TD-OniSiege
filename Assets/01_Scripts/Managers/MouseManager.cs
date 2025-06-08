@@ -28,17 +28,17 @@ public class MouseManager : MonoBehaviour
     private void Start()
     {
         if (!highlightPrefab) return;
-        _currentHighlight = Instantiate(highlightPrefab);
+        _currentHighlight = Instantiate(highlightPrefab, transform);
         _currentHighlight.SetActive(false);
-
-        if (!_mainCamera)
-        {
-            _mainCamera = Camera.main;
-        }
     }
 
     private void Update()
     {
+        if (!_mainCamera)
+        {
+            _mainCamera = Camera.main;
+        }
+        
         if (EventSystem.current.IsPointerOverGameObject())
         {
             if (_currentHighlight)
