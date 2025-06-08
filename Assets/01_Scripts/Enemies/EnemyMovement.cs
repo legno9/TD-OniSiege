@@ -42,6 +42,13 @@ public abstract class EnemyMovement : MonoBehaviour
     {
         OnReachedEnd?.Invoke();
     }
-    
-    
+
+    protected void OnDisable()
+    {
+        _pathPoints = null;
+        _currentPathIndex = 0;
+        _pathProgress = 0f;
+        _totalPathLength = 0f;
+        _lastDirection = Vector2.zero;
+    }
 }

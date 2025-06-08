@@ -46,17 +46,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   configuredPrefabPools:
   - prefabGo: {fileID: 4744336253515577002, guid: f0775ed06e3ca2e4a802cfde97ebd810, type: 3}
-    preloadAmount: 30
+    preloadAmount: 50
   - prefabGo: {fileID: 4100989493049440908, guid: 13f262bd267ac2d4ba227e2b4add6f56, type: 3}
     preloadAmount: 30
   - prefabGo: {fileID: 1694489729114719979, guid: bf1d516b6510efe45bf9bb50d67d431a, type: 3}
-    preloadAmount: 30
+    preloadAmount: 20
   - prefabGo: {fileID: 6899392869471121907, guid: 827e50be7243bde40a19d126b9f259a5, type: 3}
     preloadAmount: 20
   - prefabGo: {fileID: 4629427665938251737, guid: e90ff37e8327b4c479bd0f6c1020509d, type: 3}
     preloadAmount: 20
   - prefabGo: {fileID: 4629427665938251737, guid: c238627cc9c68d645a634ab20607e954, type: 3}
-    preloadAmount: 20
+    preloadAmount: 10
   - prefabGo: {fileID: 7149558332396087595, guid: 515e0576d6e833c448de6df379e77b80, type: 3}
     preloadAmount: 30
   - prefabGo: {fileID: 7149558332396087595, guid: 84453f5207e0a3348947212044461f54, type: 3}

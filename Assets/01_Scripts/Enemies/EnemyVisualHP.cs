@@ -68,11 +68,6 @@ public class EnemyVisualHP : MonoBehaviour
         Vector3 newScale = healthBarSpriteRenderer.transform.localScale;
         newScale.x = healthPercentage;
         healthBarSpriteRenderer.transform.localScale = newScale;
-
-        if (healthPercentage >= 0) return;
-        
-        healthBarSpriteRenderer.gameObject.SetActive(false);
-        backgroundSpriteRenderer.gameObject.SetActive(false);
     }
     
     private void ResetFadeCoroutine()
